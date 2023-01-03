@@ -1,0 +1,1959 @@
+﻿Category,Key,English,Turkish,Notes
+main menu,menu1,Continue Game,Oyuna Devam et,my notes
+,menu2,Start Game with Tutorial,Oyuna Başla, WARNING: ENGLISH TEXT CHANGED #####################################################
+,menu3,Start Game,Özel oyuna başla, WARNING: ENGLISH TEXT CHANGED ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,menu4,Options,Ayarlar,
+,menu6,Credits,Katkıda Bulunanlar,
+,menu5,Quit Game,Oyundan Çık,
+,menu7,Save Manager,Kayıt Yöneticisi, WARNING: AUTO-TRANSLATION #####################################################
+,menu8,Atlas,Eşya Rehberi, WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+credits,cr1,Backpack Hero was created by:,Backpack Hero yapımcısı:,
+,cr2,Translators:,Çevirenler:,
+,cr3,Additional content by:,Ek içerik:,
+,cr4,All rights owned by:,Hakların sahibi:,
+,cr5,Fonts:,Yazı Tipleri:,
+,cr6,Created with:,Aracılığıyla oluşturuldu:,
+,cr7,Special Thanks:,Özel Teşekkürler:,
+,cr8,Kickstarter supporters:,Kickstarter destekçileri:,
+Early Access,earlyAccess1,"A message from developer Jas: <br><br>Thank you so much for supporting our game in early access! Backpack Hero isn't finished! New features and content is coming soon! If you have any concerns about the game, please contact us! We try to respond to everything we can on our social media and on Steam!","Geliştirici Jas'tan bir mesaj: <br><br>Oyunumuzu erken erişimde desteklediğiniz için çok teşekkür ederiz! Backpack Hero bitmedi! Yeni özellikler ve içerik yakında geliyor! Oyunla ilgili herhangi bir sorunuz varsa, lütfen bizimle iletişime geçin! Sosyal medyamız ve Steam üzerinden elimizden gelen her şeye yanıt vermeye çalışıyoruz!", WARNING: AUTO-TRANSLATION #####################################################
+,earlyAccess2,Next Major Update:,Sonraki Büyük Güncelleme:, WARNING: AUTO-TRANSLATION #####################################################
+,earlyAccess3,September,Eylül, WARNING: AUTO-TRANSLATION #####################################################
+,earlyAccess4,New Character - Satchel,Yeni Karakter - El Çantası, WARNING: AUTO-TRANSLATION #####################################################
+,earlyAccess5,Thank you! From:,Teşekkürler! Yazan:, WARNING: AUTO-TRANSLATION #####################################################
+demo Text,demo1,New characters and costumes are available in the full version!,Yeni karakterler ve kostümler tam sürümde mevcuttur!,
+,demo2,Please wishlist and follow us on Steam now!,Lütfen Steam'de bizi istek listesine ekleyip takip edin!,
+,demo3,Early Access begins August 2022!,Erken Erişim Ağustos 2022'de başlıyor!,
+,demo4,CR-8 coming July 2022!,CR-8 Temmuz 2022'de geliyor!,
+options,opt1,Music Volume,Müzik Düzeyi,
+,opt2,SFX Volume,Ses Efekti Düzeyi,
+,opt3,Item Animation Speed,Eşya Animasyon Hızı,
+,opt4,Brightness,Parlaklık,
+,opt5,Rotate,Çevir,
+,optt1,Emojis,İfadeler, WARNING: AUTO-TRANSLATION #####################################################
+,optt2,Combat Animations,Savaş Animasyonları, WARNING: AUTO-TRANSLATION #####################################################
+,opt6,FPS,FPS,
+,opt7,Screen Size,Ekran Boyutu,
+,opt8,Quality,Kalite,
+,opt8b,Resolution,Çözünürlük, WARNING: AUTO-TRANSLATION #####################################################
+,opt9,Language,Dil,
+,opt10,Return to Menu,Menüye Geri Dön,
+,opt11,Delete on Game Over,Oyun Bittiğinde Sil, WARNING: AUTO-TRANSLATION #####################################################
+,opt12,No save games,Kayıtlı oyun yok, WARNING: AUTO-TRANSLATION #####################################################
+,optQQ,Group ID /x copied!,Grup kimliği /x kopyalandı!, WARNING: AUTO-TRANSLATION #####################################################
+,clickMe,Click me!,Bana Tıkla!,
+,sellHere,Drag to me to Sell,Eşyayı satmak için bana sürükle,
+,removeHere,I can remove a carving - for a price,Bu oymayı sökebilirim - belli bir ücret karşılığında, WARNING: ENGLISH TEXT CHANGED #####################################################
+,cantSell,I don't buy those!,Onları almıyorum!,
+,noMoreSale,I won't take more items!,Daha fazla eşya almayacağım!,
+,on,on,açık,
+,off,off,kapalı,
+,windowed,windowed,pencereli,
+,full screen,full screen,tam ekran,
+,borderless,borderless,çerçevesiz,
+,unlimited,unlimited,limitsiz,
+,low,low,düşük,
+,medium,medium,orta,
+,high,high,yüksek,
+Item Atlas,ia1,Can only be found by:,Yalnızca şu kişiler tarafından bulunabilir:, WARNING: AUTO-TRANSLATION #####################################################
+,ia2,Can only be found in:,Yalnızca şurada bulunabilir:, WARNING: AUTO-TRANSLATION #####################################################
+context menu,cm1,View card,Kartı görüntüle,
+,cm2,Use item,Eşyayı kullan,
+,cm3,Use Item Max Times,Eşyayı azami sayıda kullan,
+,cm4,Reroll Items,Eşyaları zarla, WARNING: AUTO-TRANSLATION #####################################################
+,cm5,Discover passage,Geçidi keşfet, WARNING: AUTO-TRANSLATION #####################################################
+,cm6,Summon enemies,Düşman çağır, WARNING: AUTO-TRANSLATION #####################################################
+,cm7,Add reward,Ödül ekle, WARNING: AUTO-TRANSLATION #####################################################
+,cm8,Duplicate potion,Çiftleme iksiri, WARNING: AUTO-TRANSLATION #####################################################
+,cm9,Combine potions,İksirleri birleştir, WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,cm10,Flip switch,Anahtarı çevir, WARNING: AUTO-TRANSLATION #####################################################
+,cm11,Return carving,dönüş oyma, WARNING: AUTO-TRANSLATION #####################################################
+,cm12,Remove carving,Oymayı kaldır, WARNING: AUTO-TRANSLATION #####################################################
+gameManagerMessages,gmreo,Reorganize now to claim this item!,Bu eşyayı almak için çantanı tekrar düzenle!,
+,gm1,Finished!,Bitti!,
+,gm2,Must be in an empty room!,Boş bir odada olmalısın!,
+,gm3,Cannot save right now!,Şu an kaydedemezsin!,
+,gm4,Complete tutorial to save!,Alıştırmayı bitirmeden kaydedemezsin!,
+,gm5,Cannnot save while moving!,Hareket ederken kaydedemezsin!,
+,gm6,Finale,Son,
+,gm7,Part /x of /y,/y / /x ,
+,gm8,Finished Choosing,Seçimi Bitir,
+,gm9,Can't take more items,Daha fazla eşya alamazsın.,
+,gm10,Take /x items,/x eşya al,
+,gm11,Take 1 item,1 eşya al,
+,gmb,Battle Start!,Savaşı başlat!,
+,gmpt,Player Turn!,Oyuncu sırası!,
+,gmet,Enemy Turn!,Düşman sırası!,
+,gm12,You win!,Kazandın!,
+,gm13,Level Up!,Seviye atladın!,
+,gm14,Get items!,Eşyaları al!,
+,gm14b,End Battle!,Savaşı Bitir!, WARNING: AUTO-TRANSLATION #####################################################
+,gm15,Not enough energy,Yeterli enerjin yok,
+,gm16,Any items left outside the backpack will be lost,Sırt çantasının dışındaki eşyalar kaybedilecek.,
+,gm17,Finished Reorganizing,Tekrar düzenleme bitti.,
+,gm18,Save Failed!,Kayıt Hatası!,
+,gm19,You have been cursed!,Lanetlendin!,
+,gm20,Skip curse. Take /x damage,"Laneti görmezden gelip,  /x hasar al.",
+,gm21,Choose an item,Bir eşya seç,
+,gm22,Never Mind,Boş ver. Kalsın,as a response when not selecting an item
+,gm23,You must place all curses!,Bütün lanetleri çantana yerleştirmek zorundasın!,
+,gm24,Cannot be combined with selected item,Seçtiğin eşyayla birleştirilemiyor,
+,gm25,Cannot be used!,Kullanılamaz,
+,gm26,Not enough connected Mana,Yetersiz bağlı Mana,
+,gm27,Not enough Gold,Yeterli altın yok,
+,gm28,No more uses this combat,Bu savaş için daha fazla kullanımı kalmadı,
+,gm29,No more uses this turn,Aktif sıranda daha fazla kullanamı kalmadı,
+,gm30,No more uses,Daha fazla kullanımı kalmadı,
+,gm31,This item is disabled,Bu eşya devre dışı,
+,gm32,Anchored,Yeri değiştirilemez,
+,gm33,Cannot move a curse,Lanetleri hareket ettiremezsin,
+,gm34,Cannot move here,Buraya gidemezsin,
+,gm35,Cannot afford,Yetersiz bakiye*,
+,gm36,Cannot place here,Buraya yerleştiremezsin,
+,gm37,Finish Battle to Continue,Devam etmek için savaşı bitir,
+,gm38,Can't move here!,Buraya gidemezsin!,
+,gm39,Pathway blocked!,Yol kapalı!,
+,gm40,Game Loaded,Oyun yüklendi,
+,gm41,Game Saved,Oyun kaydedildi,
+,gmillusory,Illusory spaces can only hold carvings,Hayali alanlar sadece oymaları tutabilir, WARNING: AUTO-TRANSLATION #####################################################
+,retry,retry,Tekrar dene,
+,gm42,Choose /x spaces,/x boşluk seç, WARNING: ENGLISH TEXT CHANGED ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,gm43,Carvings cannot be played while reorganizing,Yeniden düzenleme sırasında oymalar oynanamaz, WARNING: AUTO-TRANSLATION #####################################################
+,gm44,You cannot leave this item behind: ,Bu öğeyi geride bırakamazsınız:, WARNING: AUTO-TRANSLATION #####################################################
+,gm45,Item has an invalid placement,Aynı türde veya nadirlikte bir öğenin yanında değil, WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,gm46,Enter text. . .,Metin girin. . ., WARNING: AUTO-TRANSLATION #####################################################
+,gm47,More Game Modes,Daha Fazla Oyun Modu, WARNING: AUTO-TRANSLATION #####################################################
+,gmCR81,You cannot leave your core behind,Özünü geride bırakamazsın, WARNING: AUTO-TRANSLATION #####################################################
+,gmSatchel1,Items must be placed on a rune space!,Eşyalar bir rün boşluğuna yerleştirilmeli!,
+,gmSatchel2,You can't move items once they're crammed in!,Eşyaları tıkıştırdıktan sonra hareket ettiremezsin!,
+,gmSatchel3,There's no space to cram it in!,İçine sığdıracak yer yok!,
+Tote,gmTote1,Carvings must be placed in your Backpack,Oymaları çantana yerleştirerek kullanmalısın,
+,gmTote2,Carvings in hand,Eldeki oymalar,
+,gmTote3,Discarded Carvings,Elden çıkarılmış oymalar,
+,gmTote4,Banished Carvings,Sürgün edilmiş oymalar,
+Run Types,rt1,standard,standart, WARNING: AUTO-TRANSLATION #####################################################
+,rt1d,A basic run with no special settings!,Özel ayar gerektirmeyen basit bir koşu!, WARNING: AUTO-TRANSLATION #####################################################
+,rt2,No experience,Tecrübesiz, WARNING: AUTO-TRANSLATION #####################################################
+,rt3,Bombs Away,Bombalar Uzakta, WARNING: AUTO-TRANSLATION #####################################################
+,rt4,Easy Mode,Kolay mod, WARNING: AUTO-TRANSLATION #####################################################
+,rt5,Hard Mode,Zor Mod, WARNING: AUTO-TRANSLATION #####################################################
+,rt5b,Hard Mode 2,Zor Mod 2, WARNING: AUTO-TRANSLATION #####################################################
+,rt5c,Hard Mode 3,Zor Mod 3, WARNING: AUTO-TRANSLATION #####################################################
+,rt5dd,Hard Mode 4,Zor Mod 4, WARNING: AUTO-TRANSLATION #####################################################
+,rt5v5,Hard Mode 5,Zor Mod 5, WARNING: AUTO-TRANSLATION #####################################################
+,rt5e,Unfair Mode,Haksız Mod, WARNING: AUTO-TRANSLATION #####################################################
+,rt5f,Hard Puzzle Mode,Zor Bulmaca Modu, WARNING: AUTO-TRANSLATION #####################################################
+,rt6,Pauper Mode,Kişi Modu, WARNING: AUTO-TRANSLATION #####################################################
+,rt7,Glass Cannon,Cam Top, WARNING: AUTO-TRANSLATION #####################################################
+,rt8,5 by 5 challenge,5'e 5 meydan okuma, WARNING: AUTO-TRANSLATION #####################################################
+,rt8b,5 by 7 challenge,5'e 7 meydan okuma, WARNING: AUTO-TRANSLATION #####################################################
+,rt9,Another way,Diğer yol, WARNING: AUTO-TRANSLATION #####################################################
+,rt10,Big Mode,Büyük Mod, WARNING: AUTO-TRANSLATION #####################################################
+,rt11,Classic Matthew,klasik Matta, WARNING: AUTO-TRANSLATION #####################################################
+,rt12,Endless Dream,Sonsuz Rüya, WARNING: AUTO-TRANSLATION #####################################################
+,rt13,Great Pair,harika çift, WARNING: AUTO-TRANSLATION #####################################################
+,rt14,Horrible Curse,Korkunç Lanet, WARNING: AUTO-TRANSLATION #####################################################
+,rt15,Horrible Luck,Korkunç Şans, WARNING: AUTO-TRANSLATION #####################################################
+,rt16,Lethal,öldürücü, WARNING: AUTO-TRANSLATION #####################################################
+,rt17,Penny Pincher,kuruş kıskacı, WARNING: AUTO-TRANSLATION #####################################################
+,rt18,Puzzle Mode,Bulmaca Modu, WARNING: AUTO-TRANSLATION #####################################################
+,rt19,Quick and Easy,Çabuk ve kolay, WARNING: AUTO-TRANSLATION #####################################################
+,rt20,Scaling Energy,Ölçeklendirme Enerjisi, WARNING: AUTO-TRANSLATION #####################################################
+,rt21,Small Paws,Küçük Pençeler, WARNING: AUTO-TRANSLATION #####################################################
+,rt22,Standard Energy,Standart Enerji, WARNING: AUTO-TRANSLATION #####################################################
+,rt23,Strong Start,Güçlü Başlangıç, WARNING: AUTO-TRANSLATION #####################################################
+,rt24,Trash Blaster,çöp patlatıcı, WARNING: AUTO-TRANSLATION #####################################################
+,rt25,Wrecked Relics,Yıkılmış Kalıntılar, WARNING: AUTO-TRANSLATION #####################################################
+,rt26,Boss Rush,patron acele, WARNING: AUTO-TRANSLATION #####################################################
+,rt27,Ever changing,sürekli değişen, WARNING: AUTO-TRANSLATION #####################################################
+,rt28,Adaptive,uyarlanabilir, WARNING: AUTO-TRANSLATION #####################################################
+,Run modifier,Run modifier,değiştiriciyi çalıştır, WARNING: AUTO-TRANSLATION #####################################################
+Run Type Text,rte1,Has been completed!,Tamamlandı!, WARNING: AUTO-TRANSLATION #####################################################
+,rte2b,This run was unlocked by completing:,Bu koşunun kilidi aşağıdakiler tamamlanarak açıldı:, WARNING: AUTO-TRANSLATION #####################################################
+,rte2,This run is locked until you complete:,"Bu çalıştırma, siz tamamlayana kadar kilitlenir:", WARNING: AUTO-TRANSLATION #####################################################
+,rte3,Locked!,Kilitli!, WARNING: AUTO-TRANSLATION #####################################################
+Run Type Descriptors,rtd1,You cannot earn experience,deneyim kazanamazsın, WARNING: AUTO-TRANSLATION #####################################################
+,rtd2,You start with these items. You must keep them the entire run:,Bu öğelerle başlarsınız. Onları tüm çalışma boyunca tutmalısınız:, WARNING: AUTO-TRANSLATION #####################################################
+,rtd3,You can take /x items after each standard battle,Her standart savaştan sonra /x eşya alabilirsiniz, WARNING: AUTO-TRANSLATION #####################################################
+,rtd4,/x to max health,/x'ten maksimum sağlığa, WARNING: AUTO-TRANSLATION #####################################################
+,rtd5,/x% each time you earn xp,Her xp kazandığınızda /x%, WARNING: AUTO-TRANSLATION #####################################################
+,rtd6,/x% each time you earn gold,/x% her altın kazandığınızda, WARNING: AUTO-TRANSLATION #####################################################
+,rtd7,/x% to enemy health,/x% düşman sağlığına, WARNING: AUTO-TRANSLATION #####################################################
+,rtd8,Backpack limited to /x spaces wide,/x boşluk genişliği ile sınırlı sırt çantası, WARNING: AUTO-TRANSLATION #####################################################
+,rtd9,You can only find common and uncommon items,Yalnızca yaygın ve yaygın olmayan öğeleri bulabilirsiniz, WARNING: AUTO-TRANSLATION #####################################################
+,rtd10,You start with these items:,Bu öğelerle başlarsınız:, WARNING: AUTO-TRANSLATION #####################################################
+,rtd11,You cannot find these items:,Bu öğeleri bulamazsınız:, WARNING: AUTO-TRANSLATION #####################################################
+,rtd12,Standard chests contain /x items,Standart sandıklar /x öğe içerir, WARNING: AUTO-TRANSLATION #####################################################
+,rtd13,Enemy attacks get /x% damage,Düşman saldırıları /x% hasar alır, WARNING: AUTO-TRANSLATION #####################################################
+,rtd14,You cannot find items of this type:,Bu tür öğeleri bulamazsınız:, WARNING: AUTO-TRANSLATION #####################################################
+,rtd15,All weapons receive /x% bonus damage,Tüm silahlar /x% bonus hasar alır, WARNING: AUTO-TRANSLATION #####################################################
+,rtd16,/x% to luck,/x% şansa, WARNING: AUTO-TRANSLATION #####################################################
+,rtd17,All status effects deal damage and disappear each turn,Tüm durum etkileri hasar verir ve her turda kaybolur, WARNING: AUTO-TRANSLATION #####################################################
+,rtd18,Start the game from Matthew,Oyuna Matthew'dan başlayın, WARNING: AUTO-TRANSLATION #####################################################
+,rtd19,Your max health is /x,Maksimum sağlığınız /x, WARNING: AUTO-TRANSLATION #####################################################
+,rtd20,Instead of standard items - find a chest after each combat,Standart öğeler yerine - her dövüşten sonra bir sandık bulun, WARNING: AUTO-TRANSLATION #####################################################
+,rtd21,Instead of standard items - find a store after each combat,Standart öğeler yerine - her savaştan sonra bir mağaza bulun, WARNING: AUTO-TRANSLATION #####################################################
+,rtd22,You can only find /x space items,Yalnızca /x boşluk öğelerini bulabilirsiniz, WARNING: AUTO-TRANSLATION #####################################################
+,rtd23,You can only find items that are /x spaces or larger,Yalnızca /x boşluklu veya daha büyük öğeleri bulabilirsiniz, WARNING: AUTO-TRANSLATION #####################################################
+,rtd24,Your energy starts at /x and increases each turn,Enerjiniz /x'te başlar ve her turda artar, WARNING: AUTO-TRANSLATION #####################################################
+,rtd25,You get /x energy each turn,Her turda /x enerjisi alırsınız, WARNING: AUTO-TRANSLATION #####################################################
+,rtd26,You cannot find relics,Kalıntıları bulamazsın, WARNING: AUTO-TRANSLATION #####################################################
+,rtd27,There is only one floor before each boss,Her patrondan önce sadece bir kat var, WARNING: AUTO-TRANSLATION #####################################################
+,rtd28,Enemies will never poison the player,Düşmanlar oyuncuyu asla zehirlemeyecek, WARNING: AUTO-TRANSLATION #####################################################
+,rtd29,Don't start with standard items,Standart öğelerle başlamayın, WARNING: AUTO-TRANSLATION #####################################################
+,rtd30,Items must be placed adjacent to an item of the same type or rarity. This excludes your starting items:,"Öğeler, aynı türde veya nadirlikte bir öğenin yanına yerleştirilmelidir. Bu, başlangıç ​​öğelerinizi içermez:", WARNING: AUTO-TRANSLATION #####################################################
+,rtd31,Enemies will never curse the player,Düşmanlar oyuncuyu asla lanetlemeyecek, WARNING: AUTO-TRANSLATION #####################################################
+,rtd32,Backpack starts at /x spaces wide,Sırt çantası /x boşluk genişliğinde başlar, WARNING: AUTO-TRANSLATION #####################################################
+,rtd33,Go directly to each Boss,Doğrudan her Boss'a gidin, WARNING: AUTO-TRANSLATION #####################################################
+,rtd34,Start in a room with:,Şunlarla bir odada başlayın:, WARNING: AUTO-TRANSLATION #####################################################
+,rtd35,All items are replaced after each battle,Her savaştan sonra tüm eşyalar değiştirilir, WARNING: AUTO-TRANSLATION #####################################################
+minigames,mini1,Spin /x gold,/x altın karşılığında çevir!,
+,mini2,Spin - free,Çevir - bedava,
+,mini3,Can't leave yet,Henüz ayrılamazsın,
+,mini4,Finish your guess to leave,Ayrılmak için tahminini bitir,
+,mini5,No more guesses!,Daha fazla tahmin hakkın yok!,
+,mini6,Matching,Eşleştirme,
+,mini7,You have /x guesses remaining,/x tahmin hakkın kaldı,
+tutorials,tut1,In combat you click items to use them. You must defeat all enemies to continue.,Savaşta eşyaları kullanmak için onlara tıklaman gerekir. Devam etmek için bütün düşmanlarını alt etmelisin., WARNING: ENGLISH TEXT CHANGED #####################################################
+,tut2,"Add all items to your backpack to continue! While holding an item, you can press right mouse or arrow keys to rotate it!",Devam etmek için bütün eşyaları sırt çantana eklemelisin! Bir eşyayı tutarken farenin sağ tuşuyla ya da ok tuşlarıyla çevirebilirsin!,
+,tutCR81,Put items in the path of your core. Use your core to activate them,Öğeleri çekirdeğinizin yoluna koyun. Onları etkinleştirmek için çekirdeğinizi kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,tutCR82,"If multiple items are in the path, they will all be used","Yolda birden fazla öğe varsa, hepsi kullanılacaktır", WARNING: AUTO-TRANSLATION #####################################################
+,tutCR83,"If an item occupies multiple spaces, it can be used multiple times","Bir öğe birden fazla boşluk kaplıyorsa, birden çok kez kullanılabilir", WARNING: AUTO-TRANSLATION #####################################################
+,tutCR84,You can redirect the path of your charge,Ücretinizin yolunu yönlendirebilirsiniz, WARNING: AUTO-TRANSLATION #####################################################
+,tutCR85,"If you don't have enough energy to use an item, the charge is lost. Use a splitter to divide a charge. The energy is rounded up!","Bir öğeyi kullanmak için yeterli enerjiniz yoksa, şarj kaybolur. Bir yükü bölmek için bir ayırıcı kullanın. Enerji yuvarlanır!", WARNING: AUTO-TRANSLATION #####################################################
+,tutCR86,Use multiple different charges to hit the same item several times,Aynı öğeye birkaç kez vurmak için birden fazla farklı ücret kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,tutCR87,"Once a charge has 0 energy, it is destroyed. Use any 0 energy items first","Bir yük 0 enerjiye sahip olduğunda, yok edilir. Önce herhangi bir 0 enerji öğesini kullanın", WARNING: AUTO-TRANSLATION #####################################################
+,tutCR88,Some items create charges on their own!,Bazı öğeler kendi başlarına ücret oluşturur!, WARNING: AUTO-TRANSLATION #####################################################
+,tutTote1,Each turn Tote draws 3 carvings. Drag them to your bag to summon them.,Her dönüşte Tote 3 oyma çizer. Onları çağırmak için çantanıza sürükleyin., WARNING: AUTO-TRANSLATION #####################################################
+,tutTote2,Some carvings can be used after they are summoned.,Bazı oymalar çağrıldıktan sonra kullanılabilir., WARNING: AUTO-TRANSLATION #####################################################
+,tutTote3,Some carvings have a cost to summon - shown at the bottom of the card.,Bazı oymaların çağırma maliyeti vardır - kartın altında gösterilir., WARNING: AUTO-TRANSLATION #####################################################
+,tutTote4,Discarded carvings can be drawn again. Banished carvings are removed for the rest of combat,Atılan oymalar tekrar çizilebilir. Sürgün edilen oymalar savaşın geri kalanı için kaldırıldı, WARNING: AUTO-TRANSLATION #####################################################
+,tutTote5,Move carvings to your deck to collect them. Removing them later will cost money!,Onları toplamak için oymaları güverteye taşıyın. Bunları daha sonra kaldırmak paraya mal olacak!, WARNING: AUTO-TRANSLATION #####################################################
+,,,,
+,,,,
+,,,,
+enemyCards,enemyXP,You will get /x experience for defeating this enemy,Bu düşmanı alt ettiğinde /x deneyim kazanacaksın,
+,enemyC,"Cowardly! Will flee if only cowardly enemies remain""","Ödlek! Eğer sadece ödlek düşmanlar kalırsa kaçacak""",
+,enemyB,This enemy is a defender! Anyone behind them cannot be targeted,Bu düşman bir savunmacı! Arkalarındaki hiç kimse hedef alınamaz, WARNING: AUTO-TRANSLATION #####################################################
+,enemyS,This enemy is a summon,Bu düşman çağrılmış,
+,enemyHP,HP: /x / /y,HP: /x / /y,"example: ""HP: 3 / 5"""
+enemies,Armadillo,Armadillo,Armadillo,
+,Armadillo1,These armadillos are legendary for their defensive abilities! And their stench!,"Bu armadillolar, defansif yetenekleri açısından efsanevidir! Ve de kokuları!",
+,Badger Boss,Badger Boss,Porsuk Boss,
+,Badger Boss1,The Badger Boss is a true threat!,Porsuk Boss gerçek bir tehdit!,
+,Badger,Badger,Porsuk,
+,Badger1,You never see these guys alone. So annoying!,Bunları asla tek göremezsin. Çok sinir bozucu!,
+,Bandit Lord,Bandit Lord,Haydut Lordu,
+,Bandit Lord1,Isn't rebelling against authority the whole point of being a bandit?,Haydut olmanın bütün amacı otoriteye karşı gelmek değil midir?,
+,Bat,Bat,Yarasa,
+,Bat1,These bats don't drink... wine...,Bu yarasalar ... şarap içmiyor...,
+,Blademaster,Blade Master,Kılıç Ustası,
+,Blademaster1,"""You seem a decent fellow, I hate to kill you""","""Düzgün birine benziyorsun, seni öldürmeyi hiç istemiyorum""",
+,Bearded Dragon,Bearded Dragon,Sakallı Ejderha,
+,Bearded Dragon1,Karate practice is a way of life,Karate antrenmanı bir yaşam tarzı,
+,Blue Snail,Blue Snail,mavi salyangoz, WARNING: AUTO-TRANSLATION #####################################################
+,Blue Snail1,Blueberry flavor! Mmm!,Böğürtlen aroması! Mmm!, WARNING: AUTO-TRANSLATION #####################################################
+,Crossbowman,Crossbowman,Arbaletçi,
+,Crossbowman1,Hares - Nimbler than Badgers and stronger than Rabbits. They are ideal crossbowmen in the King's army,Yaban Tavşanları - Porsuklardan daha çevik ve tavşanlardan daha güçlü. Kralın ordusu için ideal arbaletçiler,
+,Crow Bandit,Crow Bandit,Kuzgun Haydut,
+,Crow Bandit1,They'll take your stuff and fly off,Eşyalarını alıp tüyecekler,
+,Cultist Blade,Cultist Blade,Tarikat Savaşçısı,
+,Cultist Blade1,From his hand a gold chain dangles - an idol of his leader,Elinden altın bir zincir sarkıyor - lideri için bir put,
+,Cultist,Cultist,Tarikatçı,
+,Cultist1,The cult is a pathway to many unnatural abilities,Tarikat doğal olmayan birçok kabiliyet için bir yol,
+,Elder Mage,Elder Mage,Bilge Büyücü,
+,Elder Mage1,From his hand a gold chain dangles - an idol of his leader,Elinden altın bir zincir sarkıyor - lideri için bir put,
+,Ferret King,Ferret King,Gelincikler Kralı,
+,Ferret King1,He'd be kind of cute if he wasn't such a violent person,Şiddet eğilimli biri olmasa tatlı biri diyebilirdim,
+,Fire Gecko,Fire Gecko,Ateş Keleri,
+,Fire Gecko1,"Years of training, but no match for a magical backpack","Yıllar boyu eğitim, yine de büyülü bir sırt çantasına denk değil",
+,Frog Wizard,Frog Wizard,Kurbağa Büyücü,
+,Frog Wizard1,Frogs know about a deep magic that appears on rare Wednesdays,"Kurbağalar, ender çarşamba günleri ortaya çıkan derin sihirden haberdar",
+,Gerbil Ruffian,Gerbil Ruffian,Kabadayı Çöl Faresi,
+,Gerbil Ruffian1,Rumor has it that Gerbils used to be pets before the founding of Orderia. These overgrown monsters make you doubt it.,"Bir rivayete göre çöl fareleri, Orderia kurulmadan önce evcil hayvanlarmış. Bu aşırı büyümüş canavarlar, bu rivayetin doğruluğundan şüphe ettiriyor.",
+,Glory Knight,Glory Knight,Görkemli Şovalye,
+,Glory Knight1,Courageous heroes who have lost their way,Yolunu kaybetmiş yürekli kahramanlar,
+,Grandmaster,Grandmaster,Büyük usta,
+,Grandmaster1,The fires of this place will turn you to ashes,Bu mekanın alevleri seni küle çevirecek,
+,Hawk Knight,Hawk Knight,Şahin Şovalye,
+,Hawk Knight1,Noble. Screechingly loud. Pretty annoying really,Asil. Cıvıl cıvıl. Bayağı bir sinir bozucu,
+,Hermit Crab,Hermit Crab,Keşiş Yengeci,
+,Hermit Crab1,"Sure they're crabs, but most hermits are easier to avoid","Yengeçler tabi, ama çoğu keşiş yengecinden kaçınmak daha kolay",
+,Hermit Crab Mimic,Hermit Crab Mimic,Keşiş Yengeci Taklitçisi,
+,Hermit Crab Mimic1,looks can be deceiving,görünüş aldatıcı olabilir,
+,King,King,Kral,
+,King1,"""All the world will be your enemy""","""Bütün dünya senin düşmanın olacak""",
+,Lil Bee,Li'l Bee,Arıcık,
+,Lil Bee1,These small bees are all drones of the queen ,Bu küçük arıların hepsi kraliçe için birer eşey, WARNING: ENGLISH TEXT CHANGED #####################################################
+,Living Shadow,Living Shadow,Yaşayan Gölge,
+,Living Shadow1,A dark shadow of yourself.  Doppel-get-over-it!,Kendinin karanlık bir gölgesi.  Tıpkısının aynısı!,joke
+,Muskrat Brigand,Muskrat Brigand,Eşkıya Misksıçanı,
+,Muskrat Brigand1,"Tiny, spiny, they'll kick you in your... face","Minik, fırıldak, tekmeyi basarlar... suratının ortasına",
+,Newt,Newt,Semender,
+,Newt1,Newts stay in moist areas. It's pretty nasty really,Semenderler nemli yerlerde yaşarlar. Gerçekten çok pis,
+,Olm,Olm,Mağara semenderi,
+,Olm1,Is it getting hot in here?,Burası biraz sıcakladı mı?,
+,Pink Flower,Pink Flower,Pembe Çiçek,
+,Pink Flower1,Beautiful but deadly,Güzel ama ölümcül,
+,Porcupine,Porcupine ,Kirpi, WARNING: ENGLISH TEXT CHANGED #####################################################
+,Porcupine1,Porcupines are usually friendly creatures. Something horrible must have happened to her,Kirpiler normalde dost canlısı yaratıklardır. Ona korkunç bir şey olmuş olmalı,
+,Purple Snail,Purple Snail,mor salyangoz, WARNING: AUTO-TRANSLATION #####################################################
+,Purple Snail1,Grape flavor. Delicious!,Üzüm aroması. Lezzetli!, WARNING: AUTO-TRANSLATION #####################################################
+,Queen Bee,Queen Bee,Kraliçe Arı,
+,Queen Bee1,The queen bee commands the armies!,Kraliçe arı ordulara hükmeder!,
+,Rabbit,Rabbit,Tavşan,
+,Rabbit1,The rabbit knows you are in its garden,"Tavşan, senin onun bahçesinde olduğunu biliyor",
+,Ratwolf,Ratwolf,Kurtfaresi,
+,Ratwolf1,"The ratwolf has long patrolled these halls, killing adventurers who stray too far","Kurtfareleri uzun süredir bu salonlarda devriye geziyor, başıboş maceraperestleri öldürüyor",
+,Red Snail,Red Snail,kırmızı salyangoz, WARNING: AUTO-TRANSLATION #####################################################
+,Red Snail1,Strawberry flavor!,Çilek tadı!, WARNING: AUTO-TRANSLATION #####################################################
+,Repxecutioner,Repxecutioner,KerTEKleyenkele,KerTEKleyenkele
+,Repxecutioner1,These lizards are known for their legendary fighting ability,Bu kertenkeleler efsanevi dövüş yeteneklerince tanınır,
+,Rude Rooster,Rude Rooster,Kaba Horoz,
+,Rude Rooster1,This guy punched through his shell at 20 days old,Bu herif daha 20 günlükken yumurtasını yumrukla delerek içinden çıktı,
+,Sable,Sable,Samur,
+,Sable1,Sables are fierce predators,Samurlar azılı yırtıcılardır,
+,Sage Toad,Sage Toad,Bilge Kurbağa,
+,Sage Toad1,Wise toads are no one to be trifled with. That is all you need to know,Bilge Kurbağalar hafife alınacak kimseler değillerdir. Bu kadarını bilsen yeterli,
+,Salamander,Salamander,Semender,
+,Salamander1,"Wary, powerful, dignified, really long tongue","İhtiyatlı, kudretli, ağırbaşlı, gerçekten uzun dil",
+,Skink,Skink,Skink,
+,Skink1,"Skinks appear silently, sneaking digits snap up treasures from the unsuspecting","Skinkler sessizec ortaya çıkar, masumlardan sinsi parmaklarıyla hazinelerini çalar",
+,Green Snail,Green Snail,yeşil salyangoz, WARNING: AUTO-TRANSLATION #####################################################
+,Green Snail1,These goopy creatures make you feel sick!,Bu goopy yaratıklar sizi hasta ediyor!, WARNING: AUTO-TRANSLATION #####################################################
+,Small Ratwolf,Small Ratwolf,Küçük Kurtfaresi,
+,Small Ratwolf1,The smaller version of the ratwolves that patrol the upper layers of the dungeon,"Zindanın üst katlarını devriye gezen, kurtfarelerinin küçük versiyonları",
+,Snake,Snake,Yılan,
+,Snake1,"Poisonous, Dangerous, keep them away from planes","Zehirli, Tehlikeli, onları çınarlardan uzak tut",
+,Speaker,Speaker,Konuşmacı,
+,Speaker1,The speaker interprets the will of the Dark Lady,Konuşmacı Karanlık Leydi'nin iradesini yorumluyor,
+,Travelling Warrior,Travelling Warrior,Gezgin Savaşçı,
+,Travelling Warrior1,"Known for their fast movement and defensive abilities, these rogues are dangerous! Watch out!",Hızlı hareketleri ve savunma yetenekleriyle tanınan bu serseriler çok tehlikeliler! Dikkat et!,
+,Turtle,Turtle,Kaplumbağa,
+,Turtle1,Their shells are hard. Their hearts are even harder.,Kabukları katıdır. Kalpleri daha bile katıdır.,
+,Vole,Vole,Tarla faresi,
+,Vole1,Voles are notorious for walking off with anything that isn't nailed down,Tarla fareleri çivilenmemiş herhangi bir şeyi yürütmekle ünlüdür,
+,White Flower,White Flower,Beyaz Çiçek,
+,White Flower1,Beautiful but deadly,Güzel fakat ölümcül,
+,Hologram,Hologram,hologram, WARNING: AUTO-TRANSLATION #####################################################
+,Hologram1,Made for testing CR-8's newest systems!,CR-8'in en yeni sistemlerini test etmek için üretildi!, WARNING: AUTO-TRANSLATION #####################################################
+,Glory Hunter,Glory Hunter,zafer avcısı, WARNING: AUTO-TRANSLATION #####################################################
+,Glory Hunter1,Courageous heroes who have lost their way,Yolunu kaybetmiş cesur kahramanlar, WARNING: AUTO-TRANSLATION #####################################################
+,Ultra Knight,Ultra Knight,Ultra Şövalye, WARNING: AUTO-TRANSLATION #####################################################
+,Ultra Knight1,the ultimate machine - perfectly crafted and impervious to all damage!,Nihai makine - mükemmel bir şekilde hazırlanmış ve her türlü hasara karşı dayanıklı!, WARNING: AUTO-TRANSLATION #####################################################
+,Legman,Legman,Legman, WARNING: AUTO-TRANSLATION #####################################################
+,Legman1,He never skips leg day,Bacak gününü asla atlamaz, WARNING: AUTO-TRANSLATION #####################################################
+,The Muscle,The Muscle,Kas, WARNING: AUTO-TRANSLATION #####################################################
+,The Muscle1,He'll do anything the Head Honcho demands!,Baş Honcho'nun talep ettiği her şeyi yapacak!, WARNING: AUTO-TRANSLATION #####################################################
+,Head Honcho,Head Honcho,Baş Honcho, WARNING: AUTO-TRANSLATION #####################################################
+,Head Honcho1,"""Me order! Me Master! I run this dungeon!""","""Emir! Ben Efendim! Bu zindanı ben yönetiyorum!""", WARNING: AUTO-TRANSLATION #####################################################
+,Nightblade,Nightblade,gece kılıcı, WARNING: AUTO-TRANSLATION #####################################################
+,Nightblade1,Elite guards of the College of Dreams who have betrayed the Sacred Trees,Kutsal Ağaçlara ihanet eden Düşler Koleji'nin seçkin muhafızları, WARNING: AUTO-TRANSLATION #####################################################
+,Hermit Crab Bomb,Hermit Crab Bomb,Münzevi Yengeç Bombası, WARNING: AUTO-TRANSLATION #####################################################
+,Hermit Crab Bomb1,"When the Blue Hermit Crab outgrows its shell it explodes, and it goes off in search of a new piece of junk to call home",Mavi Münzevi Yengeç kabuğunu aştığında patlar ve yuva aramak için yeni bir hurda parçası aramaya başlar., WARNING: AUTO-TRANSLATION #####################################################
+,Sentry,Sentry,Nöbetçi, WARNING: AUTO-TRANSLATION #####################################################
+,Sentry1,01001101 01101111 01101110 01100001 01100100,01001101 01101111 01101110 01100001 01100100, WARNING: AUTO-TRANSLATION #####################################################
+,Hare Defender,Hare Defender,tavşan savunucusu, WARNING: AUTO-TRANSLATION #####################################################
+,Hare Defender1,The front line of the Badger Kingdoms army never let their back line fall,"Badger Kingdoms ordusunun ön cephesi, arka cephelerinin düşmesine asla izin vermez", WARNING: AUTO-TRANSLATION #####################################################
+,Scarecrow,Scarecrow,Korkuluk, WARNING: AUTO-TRANSLATION #####################################################
+,Scarecrow1,Built with wood from the Mother Tree to guide you in your travels,Seyahatlerinizde size rehberlik etmesi için Ana Ağaçtan ahşapla yapılmıştır, WARNING: AUTO-TRANSLATION #####################################################
+,Cobra,Cobra,Kobra, WARNING: AUTO-TRANSLATION #####################################################
+,Cobra1,"Strike First, Strike Hard, No Mercy.","Önce Vur, Sert Vur, Merhamet Yok.", WARNING: AUTO-TRANSLATION #####################################################
+,Honey Guide,Honey Guide,Bal Rehberi, WARNING: AUTO-TRANSLATION #####################################################
+,Honey Guide1,"He keeps the Badger calm. If he's gone, the Badger may go crazy","Badger'ı sakin tutuyor. O gittiyse, Porsuk çıldırabilir", WARNING: AUTO-TRANSLATION #####################################################
+,Honey Badger,Honey Badger,Bal porsuğu, WARNING: AUTO-TRANSLATION #####################################################
+,Honey Badger1,So peaceful and calm!,Çok huzurlu ve sakin!, WARNING: AUTO-TRANSLATION #####################################################
+,Feral Badger,Feral Badger,vahşi porsuk, WARNING: AUTO-TRANSLATION #####################################################
+,Feral Badger1,He's unleashed!,Serbest bırakıldı!, WARNING: AUTO-TRANSLATION #####################################################
+,Boastful Spellsword,Boastful Spellsword,övünen büyü, WARNING: AUTO-TRANSLATION #####################################################
+,Boastful Spellsword1,He thinks he's stronger than he is,Kendini olduğundan daha güçlü sanıyor, WARNING: AUTO-TRANSLATION #####################################################
+enemy actions,ea1,Will attack for /x damage,/x hasar ile saldırır,
+,ea1a,Will attack all enemies for /x damage,/x hasar ile tüm düşmanlara saldırır,
+,ea2,Will add /x block,/x blok kazanır,
+,ea2a,Will add /x block to all enemies,Tüm düşmanlara /x blok ekler,
+,ea3,Will heal for /x,/x can iyileşir,
+,ea3a,Will heal all enemies for /x,Tüm düşmanları /x can iyileştirir,
+,ea4,Will not take any action,Hiçbir şey yapmayacak,
+,ea5,Will add /x poison,/x zehir uygular,
+,ea6,Will add /x burn,/x yanma uygular,
+,ea7,Will add /x regeneration,/x yenilenme kazanır,
+,ea7a,Will add /x regeneration to all enemies,Tüm düşmanlara /x yenilenme verir,
+,ea8,Will add /x spikes,/x diken kazanır,
+,ea8a,Will add /x spikes to all enemies,Tüm düşmanlara /x diken verir,
+,ea9,Will add /x dodge,/x kaçınma kazanır,
+,ea9a,Will add /x dodge to all enemies,Tüm düşmanlara /x kaçınma verir,
+,ea10,Will add /x slow,/x yavaşlama uygular,
+,ea11,Will add /x weak,/x zayıflatma uygular,
+,ea12,Will summon an enemy,Bir düşman çağırır,
+,ea13,Will deal /x vampirism,/x vampirizm ile saldırır,
+,ea14,Will add one of these curses:,Bu lanetlerden birini bırakacak:,
+,ea15,"Will self destruct, dealing /x damage","Kendi kendini imha eder, /x hasar verir", WARNING: AUTO-TRANSLATION #####################################################
+,ea16,Will add /x haste,/x acele ekleyecek, WARNING: AUTO-TRANSLATION #####################################################
+,ea16a,Will add /x haste to all enemies,Tüm düşmanlara /x haste ekler, WARNING: AUTO-TRANSLATION #####################################################
+,ea17,Will add /x rage,/x öfke ekleyecek, WARNING: AUTO-TRANSLATION #####################################################
+,ea17a,Will add /x rage to all enemies,Tüm düşmanlara /x öfke ekleyecek, WARNING: AUTO-TRANSLATION #####################################################
+,ea18,Poison sickness!,Zehir hastalığı!, WARNING: AUTO-TRANSLATION #####################################################
+,ea19,Will run away!,kaçacak!, WARNING: AUTO-TRANSLATION #####################################################
+,,,,
+Levels,The Crypt,The Crypt,Mahzen,
+,The Bramble,The Bramble,Dikenova,
+,Deep Cave,Deep Cave,Derin Mağara,
+,Enchanted Swamp,Enchanted Swamp,Büyülü Bataklık,
+,Magma Core,Magma Core,Magma Çekirdeği,
+map events,map1,Enemies here:,Buradaki düşmanlar:,
+,map2,Exit to: /x,/x girişi,? 'e çıkar & 'a çıkar & 'ya çıkar & 'ye çıkar ?
+,map3,A chest of valuables!,Değerli malzemeler kutusu!,
+,map4,An unknown event is here!,Bilinmeyen bir etkinlik var!,
+,map5,A merchant is selling goods here!,Tüccar burada eşya satıyor!,
+,map6,A locked door! I need a key!,Kilitli bir kapı! Anahtara ihtiyacım var!,
+,map7,A healer!,Şifacı!,
+,map8,A forge!,Bir demirci!, WARNING: AUTO-TRANSLATION #####################################################
+,map9,A vision of danger!,Bir tehlike vizyonu!, WARNING: AUTO-TRANSLATION #####################################################
+,mapPurse,There I am! I have been doodling on the map,İşte oradayım! Haritada öylesine geziniyordum,
+,mapSatchel,That's me! I think I spilled some coffee on the map,Bu benim! Sanırım haritaya biraz kahve döktüm,
+,mapTote,Thank goodness I remembered my glasses!,Çok şükür gözlüklerimi unutmadım!,
+,mapCR8,Position identified. Subroutine parameters: hoard loot,Konum belirlendi. Alt program parametreleri: istif ganimet, WARNING: AUTO-TRANSLATION #####################################################
+character select,characterSelect,Character Select,Karakter Seçimi,
+,satchel,satchel,el çantası, WARNING: AUTO-TRANSLATION #####################################################
+,satchel1,"Satchel is the son of a noble bird on the run from the evil King Corvus, the Crow King! With his bag ripped and town captured, Satchel seeks the help of other heroes, and to discover the mystery of the Spiral of Feathers - in hopes of fixing his bag and saving his home!","Satchel, kötü Kral Karga Kral Corvus'tan kaçan asil bir kuşun oğludur! Çantası yırtılmış ve kasaba ele geçirilmiş olan Satchel, çantasını tamir edip evini kurtarma umuduyla diğer kahramanların yardımını ve Tüy Spiralinin gizemini keşfetmeyi istiyor!", WARNING: AUTO-TRANSLATION #####################################################
+,purse,purse,Purse,
+,purse1,"A peppy rat from a poor village in Oakshire Forest, she aims to storm the dungeon, rebuild her village, and save her family!","Oakshire Ormanı'ndaki fakir bir köyden enerjik bir fare, zindana saldırmayı, köyünü yeniden kurmayı, ve ailesini kurtarmayı hedefliyor!",
+,tote,tote,Tote,
+,tote1,"Banished by the elder frogs, her backpack is blessed by the Dreaming Tree. Magical carvings spawn each turn she is in danger.","İhtiyar kurbağa heyeti tarafından sürgün edildikten sonra sırt çantası, Düşler Ağacı tarafından kutsanmıştır. Büyülü oymalar, tehlikede olduğu her turda ortaya çıkar.",
+,CR-8,CR-8,CR-8,
+,CR-81,"When you can't find a hero, you gotta make one! CR-8 is a mishmash of metal and nerd stuff that will take care of any enemy automatically - provided his circuitry is properly organized.","Bir kahraman bulamadığınızda kendiniz yaratmalısınız! CR-8, herhangi bir düşmanın otomatik olarak icabına bakacak bir azim ve budala şeyler karmaşasıdır - devresinin düzgün bir şekilde organize edilmiş olması şartıyla.",
+Events,,,,///////////////I is intros and f is farewells
+,evg,/x gold,/x altın,indicating a cost of x gold
+,chest,chest,göğüs, WARNING: AUTO-TRANSLATION #####################################################
+,,,,
+,evtn,Welcome to the dungeon!,Zindana hoş geldin!,
+,evto1,You must conquer the dungeon by delving deep to the center to discover the ancient cheeses hidden there. You are armed only with your magic backpack.,Orada saklı kadim peynirleri keşfetmek için merkezin derinliklerine inerek zindanı fethetmelisin. Tek silahın sadece büyülü sırt çantan.,
+,evtb1,I'm ready!,Hazırım!,
+,evtb1o1,"You head into the dungeon, knowing very few make it back alive!","Zindana doğru yola çıktın, pek azının geri döndüğünü bile bile!",
+,,,,
+,evten,The end?,Son?,
+,evteo1,You have made it to the center of the dungeon and have found the golden cheese! More content is coming! Please join our discord and show off your  backpack!,Zindanın merkezine eriştin ve altın peyniri buldun! Daha fazla içerik yolda! Lütfen discord kanalımıza katıl ve sırtçantanla hava at!,
+,evteo1cr8,"You see a golden cog upon the platform. Reaching out, it lifts into the sky. Your machinery will restore Orderia! This is only the beginning of your new machines!","Platformda altın bir dişli görüyorsunuz. Uzanır, gökyüzüne yükselir. Makineleriniz Orderia'yı eski haline getirecek! Bu, yeni makinelerinizin sadece başlangıcı!", WARNING: AUTO-TRANSLATION #####################################################
+,evteo1purse,"Your whiskers twitch. There it is - the golden cheese! With delicious food, many new villagers will flock to Orderia!",Bıyıklarınız seğiriyor. İşte - altın peynir! Lezzetli yemeklerle birçok yeni köylü Orderia'ya akın edecek!, WARNING: AUTO-TRANSLATION #####################################################
+,evteo1tote,"Atop the altar is a golden seed - a ""Dreaming Seed"". With each seed, a new plant will spring to life in Orderia!","Sunağın tepesinde altın bir tohum var - ""Hayal Eden Tohum"". Orderia'da her tohumla yeni bir bitki canlanacak!", WARNING: AUTO-TRANSLATION #####################################################
+,evteb1,Continue in Endless Mode,Sonsuz modda devam et,
+,evteb1o1,You continue forward! Things are about to get pretty hard...,Yoluna devam ediyorsun! İşler kızışmaya başlayacak...,
+,evteb2,New game!,Yeni oyun!,
+,evteb2o1,You decide to start again for a new challenge!,Yeni peynir için tekrardan başlamaya karar verdin!, WARNING: ENGLISH TEXT CHANGED #####################################################
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,evldn,Locked door,Kilitli Kapı,
+,evldo1,You encounter a locked door. Will you open it?,Kapalı bir kapıyla karşılaştın. Açacak mısın?,
+,evldb1,Unlock the door,Kapının kilidini aç,
+,evldb1o1,You open the door.,Kapıyı açtın.,
+,evldb2,Leave,Ayrıl,
+,evldb2o1,You leave the door.,Kapıdan ayrıldın.,
+,,,,
+,,,,
+,,,,
+,ev1n,The master returns,Usta dönüyor,
+,ev1o1,"You see him from a distance, kneeling yet noble. It seems he saw you long before. His mouse eyes are strong and piercing. You feel that he sees into your soul... 'May I help you further?' he asks. 'A few coins and I will give you an item for archers.'","Onu uzaklardan görüyorsun, diz çökmüş ama yine de asil. Seni çok daha öncesinden görmüş gibi. Fare gözleri güçlü ve keskin. Ruhunun derinliklerini görebildiğini hissediyorsun...'Sana daha nasıl yardımcı olabilirim' diye soruyor. 'Birkaç altına sana okçulara özel bir eşya verebilirim.'",
+,ev1b1,Get an item,Bir eşya al,
+,ev1b1o1,"He takes the coins and rubs them in his mouse paw. ""Just a few will do nicely. I hope this can help you further,"" he says.","Bozuklukları alıp fare patisinde birbirine sürter. "" Birkaç tane yeterli olacaktır. Umarım bu işine yarar, "" der.",
+,ev1b1o1t1,Fly true like an arrow,Bir ok gibi uç,
+,ev1b1o1t2,Be one with your aim,Hedefinle bir ol,
+,ev1b2,Not for me,Benlik değil,
+,ev1b1o2t,"I understand, he says and leans against the nearby wall. ""Don't worry. Archers are coming soon. The dungeon will improve with time.""","Anlıyorum der ve duvara yaslanır. ""Merak etme. Okçular yakında gelir. Zindan zamanla gelişecek.""",
+,ev1b1o2t1,Archery requires time.,Okçuluk zaman ister.,
+,ev1i1,The arrow flies straight.,Ok düz uçar,
+,ev1i2,The path of an arrow - to the heart,Okun yolu - kalbe doğru,
+,ev1i3,Archery is an art,Okçuluk her baba yiğidin harcı değildir,
+,ev1i4,Arrows require patience,Oklar sabır ister,
+,ev1f1,May we meet again,Tekrar buluşabilme dileğiyle,
+,ev1f2,In another life...,Başka bir yaşamda,
+,ev1f3,Fly straight,Düz uç,
+,ev1f4,Aim true,İyi nişan al,
+,ev1f5,Bullseye.,Onikiden.,
+,ev1f6,Stay in range,Mesafeni koru,
+,,,,
+,ev2n,Master Archer,Usta okçu,
+,ev2o1,"You see him from a distance, kneeling yet noble. It seems he saw you long before. His mouse eyes are strong and piercing. You feel that he sees into your soul... ""A trade my sibling?"" he asks. ""Discard the tools of badgers. Be one with flight.""","Onu uzaklardan görüyorsun, diz çökmüş ama yine de asil. Seni çok daha öncesinden görmüş gibi. Fare gözleri güçlü ve keskin. Ruhunun derinliklerini görebildiğini hissediyorsun...""Ticaret için mi kardeşim?"" diye soruyor. ""Porsuk eşyalarını bırak da uçuşla bir ol""",
+,ev2b1,"Give a weapon, get archery kit.","Bir silah ver, okçu donanımı al.",
+,ev2b1o1,"He takes the weapon and tosses it into the darkness. ""This is not a weapon. It is a crutch."" He hands you new items.","Silahı alır ve karanlığa doğru atar. "" Bu bir silah değil, koltuk değneği."" Sana yeni silahlar verir.",
+,ev2b1o1t1,Welcome to the school of archery.,Okçuluk okuluna hoşgeldin.,
+,ev2b2,Not for me,Benlik değil,
+,ev2b2o1,"I understand, he says and leans against the nearby wall. ""Don't worry. Archers are coming soon. The dungeon will improve with time.""","Anlıyorum der ve yakındaki duvara yaslanır."" Merak etme. Okçular yakında gelir. Zindan zamanla gelişecek""",
+,ev2b2o1t1,Archery requires time.,Okçuluk zaman ister,
+,,,,
+,ev3n,The retiring Chef,Emekli Şef,
+,ev3o1,"Age has crept in around his snout. You can see the white fur and shaggy edges from around his coat. ""I'm getting out of the game,"" he says. ""If you have something to eat, I might as well give you my cleaver.""","Yaşlılık burnunun etrafından sinsice süzüldü. Paltosunun çevresinden beyaz kürk ve tüylü kenarları görebilirsin. ""Yavaş yavaş oyun dışı kalıyorum,""  ""Eğer yiyecek bir şeyin varsa, sana satırımı verebilirim .""",
+,ev3b1,Trade food for a cleaver,Satır için yemek takas et,
+,ev3b1o1,"Looks good to me, he says. You can't believe that he eats the whole thing without a moment's thought. ""Here you go,"" he says and hands you his chef knife. ""I won't be needing this any more.""","Bana güzel gözüküyor, diyor. Bir dakika düşünmeden bütün hepsini yiyip bitiriyor, inanamıyorsun. ""Al bakalım,"" diyip sana şef bıçağını veriyor. ""Buna artık ihtiyacım olacağını düşünmüyorum.""",
+,ev3b1o1t1,I loved that knife. Use it well!,O bıçağı çok severdim. Güzel kullan!,
+,ev3b1o1t2,I hope you like it!,Umarım seversin!,
+,ev3b2,No thanks!,Hayır teşekkür ederim!,
+,ev3b2o1,You turn to leave.,Ayrılmak için dönüyorsun.,
+,ev3b2o1t1,Sure you won't change your mind?,Fikrini değiştirmeyeceğine emin misin?,
+,ev3i1,Ah! Hope you aren't too hungry.,Ah! Umarım çok aç değilsindir.,
+,ev3i2,Oh my!,Amanın!,
+,ev3f1,Eat well!,Güzelce ye!,
+,ev3f2,Be well fed!,İyice doy!,
+,ev3f3,Taste victory!,Zaferi tat!,
+,ev3f4,Stay full!,Tok kal!,
+,ev3f5,Find cheese!,Peynir bul!,
+,ev3f6,Welcome! Eat well!,Hoşgeldin! Eat iyice ye!,
+,ev3f7,Ah! A customer!,Ah! Bir müşteri!,
+,,,,
+,ev4n,Chef's platter,Şefin tabağı,
+,ev4o1,"Is that grilled onion you smell? And the scent of garlic? Oh wow! You want some so bad! ""My friend!,"" the mouse shouts to you. ""Let me indulge you!""","Kokusunu aldığın ızgara soğan mı? Ve sarımsak kokusu? Vay canına! Çok fena istiyorsun! ""Arkadaşım!"" diye bağırır fare sana. ""Seni şımartmama izin ver!""", WARNING: AUTO-TRANSLATION #####################################################
+,ev4o1cr8,"Your gears shift and churn. Is that the aroma of food? Somewhere deep within you, a memory stirs. But you cannot smell anything. The mouse shouts to you. ""Let me indulge you!""","Vitesleriniz değişiyor ve çalkalanıyor. Yemeğin aroması bu mu? İçinizin derinliklerinde bir yerde, bir hatıra canlanır. Ama hiçbir şeyin kokusunu alamazsınız. Fare sana bağırıyor. ""Seni şımartmama izin ver!""", WARNING: AUTO-TRANSLATION #####################################################
+,ev4b1,Buy some food!,Biraz yemek satın al!,
+,ev4b1o1,"Very good, he says. ""Another perhaps?""","Çok güzel, der. ""Bir tane daha?""",
+,ev4b2,"No, thank you","Hayır, teşekkür ederim",
+,ev4b2o1,"Very good sir, he says. ""But please do change your mind.""","Çok iyi efendim, der. ""Ama lütfen fikrini değiştir.""",
+,ev4b2o1t1,More food to be had!,Yiyecek daha fazla yemek!,
+,ev4b2o1t2,Eat again!,Yine ye!,
+,,,,
+,ev5n,Eyes,Gözler,
+,ev5o1,The wall splits open. Inside you can see a vast abyss. Green eyes peer in. You recognize them as the eyes of a predator. Strange sounds echo from the place and an offer is made...,Duvar yarılıp açılır. İçeride sonsuz bir cehennem görebiliyorsun. Yeşil gözler dikkatlice sana bakıyor. Bu gözlerin bir predatore ait olduğunun farkına varıyorsun. İçeriden değişik sesler geliyor ve bir teklif yapılıyor...,
+,ev5b1,Take a rare item for a curse,Bir lanet yerine nadir bir eşya al,
+,ev5b1o1,You can feel an acknowledgement and an item appears. The eyes watch as a horrible curse is placed in your backpack,Bir tasdik hissettin ve bir eşya ortaya çıktı.  Korkunç bir lanet sırt çantana yerleşirken gözler seni izliyor,
+,ev5b1o2,"Two items appear in front of you, but a horrible curse has been placed upon you. The eyes give no sign of emotion.","Önüne iki tane eşya çıkıyor, ama üstüne korkunç bir lanet musallat oldu. Gözlerde herhangi bir duygu sezilemiyor",
+,ev5b2,No thanks,Hayır teşekkür ederim,
+,ev5b2o1,The eyes watch you. They show no sign of emotion. ,Gözler seni izliyor. Herhangi bir duygu taşımıyorlar., WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev5i1,01100111 01101111 01101110 01100101,01100111 01101001 01110100 01101101 01101001 11000101 10011111,gone-gitmiş
+,ev5i2,01110111 01100001 01110010,01110011 01100001 01110110 01100001 11000101 10011111,war-savaş
+,ev5i3,01101101 01100001 01101011 01100101 01110010 01110011,01111001 01100001 01110000 01100001 01101110 01101100 01100001 01110010,makers-yapanlar
+,ev5f1,01110010 01100101 01101100 01101001 01100011 01110011,01100101 01110011 01100101 01110010 01101100 01100101 01110010,relics-eserler
+,ev5f2,01100100 01100001 01101110 01100111 01100101 01110010,01110100 01100101 01101000 01101100 01101001 01101011 01100101,danger-tehlike
+,ev5f3,01100001 01101000 01100101 01100001 01100100,01101001 01101100 01100101 01110010 01101001 01100100 01100101,ahead-ileride
+,,,,
+,ev6n,Brandy the Otter,Su samuru Brandy,
+,ev6o1,"Well, howdy! she says as you approach! Her nose wiggles and she shakes her gigantic tail. ""I've been doing some fishing. Care to buy one?""","Sen yaklaşırken sesleniyor ""Hey naber!"", burnu ve kuyruğu kıpır kıpır sallanıyor. ""Balık tutuyordum, satın almak ister misin?""",
+,ev6b1,Buy a fish!,Bir balık satın al!,
+,ev6b1o1,"She tosses you a fish. ""Care for another?""","Sana bir balık fırlatır. ""Dahasını ister misin?""",
+,ev6b1o1t1,Hope you enjoy it!,Umarım beğenirsin!,
+,ev6b1o1t2,That's good!,Bu iyiydi!,
+,ev6b2,No thanks,Hayır teşekkürler,
+,ev6b2o1,You say no. The smell is starting to get to be a bit much.,"Demeh hayır! , burası biraz kokmaya mı başladı?",
+,ev6b2o1t1,I'm still here if you want more!,Dahasını istersen ben burdayım!,
+,ev6b2o1t2,"If you want a fish, let me know!",Balık istersen söylemen yeter!,
+,ev6i1,Well howdy traveler!,"Hey gezgin, nası gidiyo?",
+,ev6i2,"Nothing like a good fish, ya hear?",İyi balık gibisi yoktur bilir misin?,
+,ev6i3,I'm hungry! Need to chomp!,Çok acıktım! Bir şeyler yesem iyi olur!,
+,ev6i4,Oh! Well how ya' doin' friend?,Hey kanka nası gidiyo?,
+,ev6i5,Mmm... hi howdy there!,Mmm... Selam naber!,
+,ev6f1,See you again soon!,Görüşmek üzere!,
+,,,,
+,ev7n,The Forge - Shield,Demirhane - Kalkan,
+,ev7o1,"A badger stands by her anvil. Her arms strong and resilient from years spent in the dungeon. She nods at you. ""I forge,"" she says. Badgers aren't much for words. ""Upgrade?"" she asks.","Bir porsuk örsünün başında duruyor. Kolları, zindanda geçirdiği yıllar sonucu güçlü ve metanetli . Sana bakarak kafasını sallar ve ""demir döverim,"" der. Porsuklar çok konuşmaz. ""Geliştirme?"" diye sorar.",
+,ev7b1,Add 4 block,4 Blok ekle,
+,ev7b1o1,"She takes your shield and strikes it. A ring echoes out through the dungeon. ""Weak,"" she says. ""Make better."" With a few precise blows she reshapes the shield. You didn't know it could look this good.","Kalkanını alır ve çekiciyle vurur. Bütün zindanda bir çınlama yankılanır. ""Zayıf,"" der. ""Daha iyi yap"" Birkaç titizlikle vurulan darbe sonrası kalkanı yeniden şekillendirir. Kalkanın bu kadar güzel duracabileceğini beklemiyordun.",
+,ev7b1o1t1,You enjoy.,Sen eğlenmek.,
+,ev7b2,Add 1 spike,1 Diken ekle,
+,ev7b2o1,"She takes your shield and strikes it. A ring echoes out through the dungeon. ""Weak,"" she says. ""Make better."" With a few precise blows she reshapes the shield. You didn't know it could look this good.","Kalkanını alır ve çekiciyle vurur. Bütün zindanda bir çınlama yankılanır. ""Zayıf,"" der. ""Daha iyi yap"" Birkaç titizlikle vurulan darbe sonrası kalkanı yeniden şekillendirir. Kalkanın bu kadar güzel duracabileceğini beklemiyordun.",
+,ev7b2o1t1,Better now.,Şimdi daha iyi.,
+,ev7b3,Add 1 haste,1 Hız ekle,
+,ev7b3o1,"She takes your shield and strikes it. A ring echoes out through the dungeon. ""Weak,"" she says. ""Make better."" With a few precise blows she reshapes the shield. You didn't know it could look this good.","Kalkanını alır ve çekiciyle vurur. Bütün zindanda bir çınlama yankılanır. ""Zayıf,"" der. ""Daha iyi yap"" Birkaç titizlikle vurulan darbe sonrası kalkanı yeniden şekillendirir. Kalkanın bu kadar güzel duracabileceğini beklemiyordun.",
+,ev7b3o1t1,Work fun.,Çalışmak eğlence.,
+,ev7b4,No thanks,Hayır teşekkürler,
+,ev7b4o1,She nods and carries on her work.,Kafasını sallayıp işine devam eder.,
+,ev7b4o1t1,Work to do.,Yapacak iş.,
+,ev7b4o1t2,No want?,İstememek?,
+,ev7b4o1t3,Still here...,Hala burada...,
+,ev7i1,This my forge,Bu benim demirhanem,
+,ev7i2,Welcome to forge,Demirhaneye hoşgeldin,
+,ev7i3,I am a crafter,Ben bir zanaatkarım,
+,ev7i4,I craft for ages...,Asırlardır üretiyorum,
+,ev7f1,Be well,İyi ol,
+,ev7f2,Be strong,Güçlü ol,
+,ev7f3,Be fierce,Sert ol,
+,ev7f4,Be like Badger,Porsuk gibi ol,
+,,,,
+,ev8n,The Forge,Demirhane - Silah, WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev8o1,"A badger stands by her anvil. Her arms strong and resilient from years spent in the dungeon. She nods at you. ""I forge,"" she says. Badgers aren't much for words. ""Upgrade?"" she asks.","Bir porsuk örsünün başında duruyor. Kolları, zindanda geçirdiği yıllar sonucu güçlü ve metanetli . Sana bakarak kafasını sallar ve ""demir döverim,"" der. Porsuklar çok konuşmaz. ""Geliştirme?"" diye sorar.",
+,ev8b1,Add /x damage to a weapon,5 Hasar ekle, WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev8b2,Add /x poison to a weapon,2 Zehir ekle, WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev8b3,Add /x burn to a weapon,1 Öfke ekle, WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev8b4,Add /x slow to enemy to a weapon,Hayır teşekkürler, WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev8b5,Add /x block to armor,Zırh için /x bloğu ekle, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b6,Add /x block to a shield,Kalkana /x bloğu ekle, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b7,Add /x haste to a shield,Kalkana /x acele ekle, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b8,Add /x spikes to a shield,Bir kalkana /x ani ekleme, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b9,Add conductive to armor,Zırh için iletken ekleyin, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b10,Add /x energy to clothing,Giysilere /x enerji ekleyin, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b11,Add /x haste to a structure,Bir yapıya /x acele ekle, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b12,Add /x regen to a ring,Bir halkaya /x regen ekle, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b13,No thanks,"Hayır, teşekkürler", WARNING: AUTO-TRANSLATION #####################################################
+,ev8b13o1,She nods and carries on her work.,Başını sallar ve işine devam eder., WARNING: AUTO-TRANSLATION #####################################################
+,ev8b15o1t1,Work to do.,Yapılacak iş., WARNING: AUTO-TRANSLATION #####################################################
+,ev8b15o1t2,No want?,İstememek?, WARNING: AUTO-TRANSLATION #####################################################
+,ev8b15o1t3,Still here...,Hala burada..., WARNING: AUTO-TRANSLATION #####################################################
+,ev8bsos,"She takes the item, turns it a few times, and then presses it to her anvil. Her hammer sends sparks flying and you turn around to cover your eyes. When you turn back, it glows with a new purpose.","Öğeyi alır, birkaç kez çevirir ve ardından örsüne bastırır. Çekici kıvılcımlar saçıyor ve sen gözlerini kapatmak için arkanı dönüyorsun. Geri döndüğünüzde, yeni bir amaçla parlıyor.", WARNING: AUTO-TRANSLATION #####################################################
+,ev8bsosts,I help,yardım ederim, WARNING: AUTO-TRANSLATION #####################################################
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,ev9n,Healer,Şifacı,
+,ev9o1,The porcupine's have travelling clinics throughout the dungeon. They seek to heal the animals who venture deep into the dangers here.,"Kirpilerin zindan boyunca gezici klinikleri vardır. Amaçları, buradaki tehlikelerin derinliklerine inen hayvanları iyileştirmeye çalışmaktır.",
+,ev9b1,Heal 25 health,25 Can iyileş,
+,ev9b1o1,"She runs her paw across your wounds. The quills on her back shake and you are lost in the sound of them. When you come to, many wounds are healed.","Patisini yaraların üstünde gezdirir. Sırtındaki dikenli tüyler titriyor ve onların sesinde kayboluyorsun . Kendine geldiğinde, yaralarının çoğunun iyileştiğini farkediyorsun.",
+,ev9b1o1t1,You look stronger my dear!,Daha güçlü görünüyorsun canım!,
+,ev9b1o1t2,Glad to have helped you!,Yardım ettiğime sevindim!,
+,ev9b1o1t3,I am here for you!,Senin için buradayım!,
+,ev9b1o1t4,Those wounds are gone.,Bu yaralar geçmiş.,
+,ev9b2,Gain 5 max health ,5 azami Can kazan, WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev9b2o1,She reaches out and you feel a great strength rising! For a moment you seem to lift off the floor.,"Sana dokunuyor. İçinde büyük bir kuvvetin doğuşunu hissediyorsun. Patilerin yeri sıkıcı kavrıyor, fakat neredeyse uçuyormuş hissiyatına kapılıyorsun.", WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev9b2o1purse,"She reaches out to you. You feel a great strength in you rising. Your paws are firmly planted, but it almost feels that you are floating.","Sana uzanıyor. Yükselirken içinde büyük bir güç hissediyorsun. Pençeleriniz sıkıca dikilmiş, ancak neredeyse yüzüyormuşsunuz hissi veriyor.", WARNING: AUTO-TRANSLATION #####################################################
+,ev9b2o1t1,You are stronger now than before.,Öncesinden daha güçlüsün.,
+,ev9b2o1t2,I see your strength.,Gücünü görüyorum.,
+,ev9b2o1t3,May you achieve what seemed impossible.,Umarım imkansız görüneni şimdi başarabilirsin.,
+,ev9b2o1t4,Your bravery astounds me.,Cesaretin beni hayrete düşürüyor.,
+,ev9b3,Remove all curses,Bütün lanetleri kaldır,
+,ev9b3o1,"I sense a great disturbance, she says. ""Something horrible has been placed in your backpack. Let me see."" She removes a single quill and pokes it into your bag carefully in several spots. ""That should do it,"" she says.","Büyük bir rahatsızlık seziyorum. ""Korkunç bir şey çantana yerleştirilmiş. Görmeme izin ver."" Sırtından dikenli bir tüyü koparıp çantanın belli yerlerini dikkatlice dürter. ""Bu işe yaramalı,"" der.",
+,ev9b3o1t1,The curses can't hurt you now.,Lanetler artık sana zarar veremez.,
+,ev9b3o1t2,Your backpack is a true friend.,Sırt çantan gerçek bir arkadaş.,
+,ev9b3o1t3,Curses are temporary.,Lanetler geçicidir.,
+,ev9b3o1t4,Heroics are forever.,Kahramanlığın hatrı sonsuza kadardır.,
+,ev9b4,Nothing for me,Benlik bir şey yok,
+,ev9b4o1,Very well she says.,Peki öyleyse der.,
+,ev9b4o1t1,We are with you,Seninleyiz,
+,ev9i1,Welcome to our healing center!,Şifa merkezimize hoşgeldin!,
+,ev9i2,We are here to protect the brave!,Cesuru korumak için buradayız!,
+,ev9i3,"Come hero, let me heal you!","Gel kahraman, seni iyileştirmeme izin ver!",
+,ev9f1,Stay safe!,Sağlıcakla kal!,
+,ev9f2,My sisters are here for you!,Kardeşlerim senin için burada!,
+,ev9f3,May we meet again!,Tekrar buluşabilme dileğiyle!,
+,,,,
+,ev10n,Magic Font,Büyülü Çeşme,
+,ev10o1,"Nestled deep in a throng of mushrooms you see a magical font, its cool waters flowing. Above the water, a humid mist circles and spills over the edge. In the distance  you hear frogs croaking... no... chanting.","Mantar kalabalığının derinliklerinde büyülü bir çeşme görüyorsun, soğuk suları akıyor. Suyun üstünde, nemli bir sis dönüyor ve köşeden dökülüyor. Uzaktan kurbağaların vıraklamasını duyuyorsun... hayır... bu bir ilahi...",
+,ev10b1,Say a prayer...[+3 max hp],Dua et...[+3 azami Can],
+,ev10b1o1,"You wish to make it home safely, your backpack overflowing with rare cheeses. You feel a warmth in you. You can do this!","Eve güvenli bir şekilde dönmeyi, sırt çantanın nadir peynirlerle dolup taşmasını diliyorsun. İçinde bir sıcaklık hissediyorsun. Bunu yapabilirsin!",
+,ev10b2,take a bath [+15 hp],Duş al [+15 Can],
+,ev10b2o1,The water feels warm and relaxing on your skin. The croaking grows louder. From behind a mushroom a frog nods at you. Your wounds are healed.,Sıcak su içini ısıtıp cildini rahatlatıyor. Vıraklama sesleri daha da yükseliyor . Bir mantarın arkasından bir kurbağa sana doğru kafasını sallıyor. Yaraların iyileşti.,
+,ev10b3,Kick it over! [Start a battle!],Tekmeleyip yere düşür! [Savaşa başla!],
+,ev10b3o1,"You watch the water as it flows across the floor of the dungeon. It pools up around the feet of an enemy. You look up. The frogs are not happy. ""Zealot!"" they cry and attack!","Zindanın zemininde suyun akışını izliyorsun. Bir düşmanın ayağının etrafında birikmeye başlıyor. Yukarı bakıyorsun. Kurbağalar mutlu değil. ""Bağnaz!"" diye haykırıp saldırmaya başlarlar!",
+,,,,
+,ev11n,Buckler-o,Kalkan Oyunu,
+,ev11extra,Drop the li'l Buckler! You can take the item you land on!,Küçük kalkanı at bakalım! Üstüne düştüğü eşyayı alabilirsin!,
+,ev11i1,Nothing up my sleeves!,Hey kollarımda bir şey yok!,
+,ev11i2,My left foot is lucky!,Sol ayağım uğurludur.,
+,ev11i3,My house looks like a hat!,Evim bir şapkaya benziyor!,
+,ev11f1,Magical!,Büyüleyici!,
+,,,,
+,ev12n,The Alchemist,Simyager,
+,ev12o1,"Well hello there. Her voice is cool and friendly - not what you expected. ""May I interest you in some potions? In return... I ask for just a taste."" ""A taste? Of me?"" you ask. ""Just a nibble darling,"" she says. ""You'll barely feel a thing.""","Hey merhaba. Kadının sesi beklediğinin dışında havalı ve arkadaşça geliyor.""Biraz iksir ilgini çeker mi? Karşılığında iseee... tadına bakabilir miyim?."" ""tatmak mı benden mi?"" diye soruyorsun.""Yalnızca bir ısırık hiçbir şey hissetmeyeceksin"".",
+,ev12b1,Get a potion. [Lose 5 health],İksir al [5 can kaybedersin],
+,ev12b1o1,"Her teeth press into your neck. ""Oh delicious. May I tempt you again?""","Dişini boynuna geçiriyor. ""Mmh lezzetli tekrar deneyebilir miyim""",
+,ev12b2,No thanks!,Hayır teşekkürler,
+,ev12b2o1,"Very well darling, she says. ""Though I am sorry to see you go.""","Tabii ki tatlım ""Gittiğine üzülüyor olsam da.""",
+,ev12b2o1t1,"Your loss, my sweet.",Senin kaybın tatlım.,
+,ev12i1,"So vital. Mmm, delicious.","Hayat dolu. Mmm, lezzetli",
+,ev12i2,The proper ingredients for the potion...,İksir için gerekli malzemelerr...,
+,ev12i3,We brew what we can  to do what we must,Yapmamız gerekeni yapmak için elimizden geleni yapıyoruz,
+,ev12i4,"A drop of red, a drop of green...","Bir damla kırmızı, bir damla da yeşil...",
+,ev12f1,My dear there are reasons why things are as they are.,Canım benim bazı şeylerin olmasının nedeni vardır.,
+,ev12f2,Come freely. Go safely darling.,"Hoşça git, hoşça gel, tatlım.",
+,,,,
+,ev13n,Trading up,Takas ediliyor,
+,ev13o1cr8,"A warning from your internal systems - someone here cannot be trusted. Through the darkness your mechanical eyes see him clearly - a rat. ""Let's make a trade."" he says. ""I'll give you a rarer item of the same type...""  He chuckles. There are no guarantees.","Dahili sistemlerinizden bir uyarı - buradaki birine güvenilemez. Karanlıkta mekanik gözleriniz onu açıkça görüyor - bir fare. ""Ticaret yapalım."" diyor. ""Sana aynı türden daha nadir bir eşya vereceğim..."" Kıkırdadı. Garanti yok.", WARNING: AUTO-TRANSLATION #####################################################
+,ev13o1,"Your snout wiggles as you inhale a musky odor. Someone here is in need of a bath. You turn around and standing there is a rat. You never heard him come out. ""Let's make a trade."" he says. ""I'll give you a rarer item of the same type...""  He chuckles. There are no guarantees.","Misk kokusu solurken burnunuz kıpırdıyor. Burada birilerinin duş almaya ihtiyacı var. Arkanı dönüyorsun ve orada bir fare duruyor. Ortaya çıkarken onu hiç duymadın. ""Takas yapalım."" diyor. ""Sana aynı türden daha nadir bir eşya vereceğim..."" der kıkırdayarak. Hiçbir garantisi yok.",
+,ev13b1,Get a rarer item of the same type,Aynı tipteki daha nadir bir eşya ile değiştirin,
+,ev13b1o1,"He takes the item and examines it. ""How's this for a trade?"" There's no time to say no.","Eşyayı alır ve inceler. ""Takas için bu nasıl?"" Hayır demeye vakit yok.",
+,ev13b1o1t1,Hehehe,Hehehe,
+,ev13b1o1t2,Hope ya' like it,Eminim sen de seversin,
+,ev13b1o1t3,No take backsies,Verilen mal geri alınmaz,
+,ev13b2,No thanks,Hayır teşekkürler,
+,ev13b2o1,"You see his tail flick ominously beneath his cloak. A smile crosses his lips. ""Come now,"" he says. ""I think you'll see it's in your interest.""","Pelerininin altından kuyruğu sinsice sallanıyor ve gülümsüyor. ""Buraya bence gel bu senin ilgini çekecek.""",
+,ev13b2o1t1,Don't resist this deal,"Direnme, gel anlaşalım.",
+,ev13b2o1t2,Let me tempt you,Seni etkilememe izin ver,
+,ev13b2o1t3,"Come now, let's trade","Hadi gel, alışveriş yapalım.",
+,ev13i1,What are ya' trading?,Ne takaslıyoruz?,
+,ev13i2,Lets make a deal!,Hadi bir anlaşma yapalım!,
+,ev13i3,Care to do a trade?,Takas yapmak ister misin?,
+,ev13f1,He he he,He he he,
+,ev13f2,What a sucker...,Heh enayi,
+,,,,
+,ev14n,Shady Trader,Netameli Tüccar,
+,ev14o1,"His cloak billows as he steps out from the shadows. ""We can make a trade, you and I."" he says. You know risks are involved.","Gölgelerin içinden pelerini dalgalanarak biri çıkıyor. ""Bir takas yapabiliriz sen ve ben."" diyor. Risklerin söz konusu olduğunu biliyorsun",
+,ev14b1,Get a different item of the same rarity,Aynı nadirlikteki başka bir eşya ile değiştirin,
+,ev14b1o1,He takes your item and from his cloak pulls a replacement.,Eşyanı alır ve pelerinden yenisini çıkarır.,
+,ev14b2,No thanks!,Hayır teşekkürler,
+,ev14b2o1,"Very well, he says. ""But can I perhaps change your mind?""","Çok iyi, diyor.""Sanırım fikrini değiştirebilirim.""",
+,ev14b2o1t1,The offer still stands.,Teklif hala geçerli.,
+,,,,
+,ev15n,squirrel patrol,Sincap Devriye,
+,ev15o1,"The squirrel looks at you absent mindedly. ""Long ago I retired from the patrol"", he says. ""Now I spend my days adventuring and reliving my glory days. I don't need much of my old equipment anymore. Can I interest you in something?""","Sincap boş bakışlarla sana dönüp ""Uzun zaman önce devriyeden emekli oldum artık günlerimi maceralara atılarak ve eski ihtişamlı günlerimdeki gibi yaşayarak geçiriyorum. Artık eski ekipmanlarıma ihtiyacım yok ilgini çeken bir şey var mı?"" ",
+,ev15b1,"""I'll take a shield""","""Kalkanı alayım""",
+,ev15b1o1,"From beneath his bushy tail, he pulls a shield. ""This may protect you. Remember, loot is only valuable if you make it back alive.""","Kabarık kuyruğuna uzanıp bir kalkan çıkarıyor.""Bu seni koruyacak, unutma ganimet ancak geri dönebilirsen değerlidir"".",
+,ev15b1o1t1,I hope the shield serves you well!,Umarım bu kalkan sana iyi hizmet eder çocuğum!,
+,ev15b2,"""I'll take a weapon""","""Silahı alayım""",
+,ev15b2o1,"He reaches into his tunic and pulls out a weapon, tossing it to you.","Ceketine uzanıp bir silah çıkartıyor, sana uzatıyor.",
+,ev15b2o1t1,Strike down any who oppose the patrol!,Devriyeye karşı çıkan herkesi indir.,
+,ev15b2o1t2,The patrol lives by these weapons!,Devriye bu silahlar sayesinde var.,
+,ev15b3,Maybe something to eat,Belki de yiyecek bir şey,
+,ev15b3o1,"He scratches at the ground. Beneath his feet is a mound of nuts and hidden among them, many a delicious food.",Yeri eşeliyor. Ayaklarının arasında bir fındık öbeği ve birçok lezzetli yiyecek gizlenmiş.,
+,ev15b3o1t1,An army marches on its stomach!,Aç sincap oynamaz!,
+,ev15b3o1t2,Better than what we used to eat on the patrol.,Devriyede yediklerimizden çok daha iyi.,
+,ev15i1,Hark! You are greeted by a member of the patrol!,Dinle! Bir devriye tarafından selamlanıyorsun.,
+,ev15f1,Long live the patrol!,Devriye çok yaşa!,
+,ev15f2,The patrol shall conquer!,Devriye hükmetmeli!,
+,ev15f3,"In retirement, I still patrol!",Emekliliğimde bile devriye ile uğraşıyorum.,
+,,,,
+,ev16n,Statue of Anna,Anna'nın Heykeli,
+,ev16o1,"Inscribed on the statue: ""Anna bestowed gifts The world felt safe in her arms healer in a fire""","Heykelin üstünde şu yazılıydı: ""Anna'nın bahşettiği hediyeler sayesinde yangının içindeki dünya bir şifacının kollarında huzur buldu.""",
+,ev16b1,Gain 5 max hp,5 maksimum can kazan,
+,ev16b1o1,You leave a coin. Then kneel before the statue and say a prayer. Anna somehow seems to reflect light even in this dark place.,Bir para bırakıp dua etmeye başlıyorsun. Anna bu karanlık yerde bir şekilde parıldıyor gibi görünüyor.,
+,ev16b2,Steal coins [Get 10 gold or a fight begins],Paraları çal [10 altın kazanırsın ya da dövüş başlar],
+,ev16b2o1,Travelers leave coins by the statue as a token for their prayers. You decide that Anna won't miss just a few.,Gezginler dualarının simgesi olarak heykelin yanına para bırakırlar. Anna'nın sadece birkaçını kaçırmayacağına karar ver.,
+,ev16b2o2,"You approach the statue to grab a few coins. As the coins jingle, you turn to see an approaching group of enemies.","Paraları toplamak için heykele yaklaşıyorsun, madeni para tangırdısından dolayı bir grup düşman buraya doğru gelmeye başlıyor.",
+,ev16b3,Leave,Ayrıl,
+,ev16b3o1,You say a quick prayer. You decide to leave the statue behind.,Bir dua edip heykelden uzaklaşıyorsun.,
+,,,,
+,ev17n,A Red fox in the dark,Karanlıklardaki Kızıl Tilki,
+,ev17o1,"The fox steps out from the shadows. ""Natural prey."", he says. ""If we battle, I shall make short work of you. Be ye friend or foe?""","Bir tilki gölgelerden atılıyor. ""Doğal av"" diyor. ""Eğer savaşırsak senin işini göz açıp kapayıncaya kadar bitiririm. Söyle dost musun düşman mı?",
+,ev17o1cr8,"From the darkness he emerges. A fox! His tail flicks beneath his cloak. ""You won't make much of a meal,"" he says. ""But a high price your body will fetch. Be ye friend or foe?""","Karanlıktan o ortaya çıkar. Bir tilki! Kuyruğu pelerininin altında sallanıyor. ""Çok fazla yemek yapmayacaksın"" diyor. ""Ama vücudunun alacağı yüksek bir bedel. Dost musun, düşman mısın?""", WARNING: AUTO-TRANSLATION #####################################################
+,ev17o1tote,"The stones on your backpack glow - danger is near! You turn to see the fox. He has perhaps been watching you for a while. ""Been a while since I've had a Toad,"" he says. ""Be ye friend or foe?""","Sırt çantanızdaki taşlar parlıyor - tehlike yakındır! Tilkiyi görmek için dönüyorsun. Belki bir süredir seni izliyordur. ""Kurbağa beslemeyeli uzun zaman oldu"" diyor. ""Dost musun, düşman mısın?""", WARNING: AUTO-TRANSLATION #####################################################
+,ev17b1,I'm a friend!,Ben dostum,
+,ev17b1o1,He nods and steps aside to let you pass. Your tail twitches instinctively. You're lucky he let you live.,Başını sallayıp kenara çekilir. Kuyruğun seğirmeye başlıyor. Yaşamana izin verdiği için kendini şanslı saymalısın.,
+,ev17b1o1t1,Be gone then!,Gidebilirsin!,
+,ev17b1o1t2,Don't make me regret it!,Yaptığıma beni pişman etme!,
+,ev17b1o1t3,I shall watch you.,Gözüm üstünde!,
+,ev17b2,I'm a foe! [Start Combat],Düşmanım [Savaş başlar],
+,ev17b2o1,He draws his sword. Slowly sizing you up...,Kılıcını çeker ve seni süzmeye başlar...,
+,ev17b2o2,"He draws his sword... and then... stops. ""Ha!"" he laughs. ""You have the heart of a fox. I respect you. You may have my blade.""","Kılıcını çeker... ve bir anlığına durur... gülmeye başlar ""Fareler korkak olur sanmıştım sende bir tilkinin yüreği var. Saygımı kazandın. Kılıcımı sana bahşediyorum.""", WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev17b2o2purse,"He draws his sword... and then... stops. ""Ha!"" he laughs. ""A rat with the heart of a fox. I respect you. You may have my blade.""","Kılıcını çeker... ve sonra... durur. ""Ha!"" Güler. ""Tilki kalpli bir fare. Sana saygı duyuyorum. Kılıcımı alabilirsin.""", WARNING: AUTO-TRANSLATION #####################################################
+,ev17b2o2t1,I respect your courage,Cesaretine saygı duydum.,
+,ev17i1,Fear me brigand!,Kork benden seni haydut!,
+,ev17i2,Oh look!,Şuraya bak sen küçük zayıf bir fare., WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev17i2purse,"Oh look, a weak little rat.","Oh bak, zayıf küçük bir sıçan.", WARNING: AUTO-TRANSLATION #####################################################
+,ev17i3,"If I was hungry, you'd be dead already.","Eğer aç olsaydım, çoktan ölmüş olurdun.",
+,ev17f1,Don't make me regret it!,Yaptığıma beni pişman etme!,
+,ev17f2,I've never spared a life before.,Daha önce kimsenin canını bağışlamadım.,
+,ev17f3,I shall be watching you.,Seni izliyor olacağım.,
+,,,,
+,ev18n,shamanic turtle,şamanik kaplumbağa,
+,ev18o1,"A waft of smoke passes by your nose. What is that? You smell a lot of strange things in the swamp, but ritual smoke of the turtles has an unmistakable order. Smells sweet like chocolate. Smells like they need to wash their shell too. ""Our magic is a gamble."" she says to you. ""Will you let fate guide you?""","Bir duman esintisi geçiyor burnunun ucundan. Ne ki bu? Bataklıkta bir sürü garip şeyin kokusunu alıyorsun, ancak kaplumbağaların ritüel dumanının kendine has bir düzeni vardır. Çikolata gibi tatlı kokuyor. Aynı zamanda kabuklarını yıkamaları gerekiyor gibi kokuyor. Sana diyor ki ""Bizim büyümüz bir kumardır."" ""Kaderin seni yönlendirmesine izin verir misin?",
+,ev18b1,80% legendary 20% other,80% destansı 20% diğer,
+,ev18b1o1,"Fortune favors you and a legendary item appears at the base of her staff. ""Lucky"", she says.","Şans senden yana ve destansı bir eşya asasının altında belirdi. ""Ballı"" dedi.",
+,ev18b1o2,"Alas, she says. ""The spirits are not speaking today. Perhaps this item can still be useful to you.""","Eyvah! dedi. ""Bugün ruhlar konuşmuyor. Belki bu eşya yine de senin için faydalı olabilir.""",
+,ev18b2,70% legendary 30% other,70% destansı 30% diğer,
+,ev18b2o1,"Fortune favors you and a legendary item appears at the base of her staff. ""Lucky"", she says.","Şans senden yana ve destansı bir eşya asasının altında belirdi. ""Ballı"" dedi.",
+,ev18b2o2,"Alas, she says. ""The spirits are not speaking today. Perhaps this item can still be useful to you.""","Eyvah! dedi. ""Bugün ruhlar konuşmuyor. Belki bu eşya yine de senin için faydalı olabilir.""",
+,ev18b3,50% legendary 50% other,50% destansı 50% diğer,
+,ev18b3o1,"Fortune favors you and a legendary item appears at the base of her staff. ""Lucky"", she says.","Şans senden yana ve destansı bir eşya asasının altında belirdi. ""Ballı"" dedi.",
+,ev18b3o2,"Alas, she says. ""The spirits are not speaking today. Perhaps this item can still be useful to you.""","Eyvah! dedi. ""Bugün ruhlar konuşmuyor. Belki bu eşya yine de senin için faydalı olabilir.""",
+,ev18b4,10% legendary 90% other,10% destansı 90% diğer,
+,ev18b4o1,"Fortune favors you and a legendary item appears at the base of her staff. ""Lucky"", she says.","Şans senden yana ve destansı bir eşya asasının altında belirdi. ""Ballı"" dedi.",
+,ev18b4o2,"Alas, she says. ""The spirits are not speaking today. Perhaps this item can still be useful to you.""","Eyvah! dedi. ""Bugün ruhlar konuşmuyor. Belki bu eşya yine de senin için faydalı olabilir.""",
+,ev18b5,No thanks!,Hayır teşekkürler,
+,ev18b5o1,She nods her head,Başını sallar,
+,ev18i1,Hey - cute little one!,Hey sevimli şey,
+,ev18i2,Come here let me pinch your cheek.,Gel kuzum yanağını sıkayım.,
+,ev18f1,Goodbye child.,Hoşçakal çocuğum.,
+,ev18f2,Come back soon now!,Hemencecik geri dön olur mu?,
+,ev18f3,"You stay away from deep water, okay?",Derin sulardan uzak dur olur mu?,
+,,,,
+,ev19n,Wheel,Çark,
+,ev19o1,Spin the wheel!,Çarkı çevir!,
+,ev19i1,Spin the choice!,Çevir bakalım!,
+,ev19i2,Will you take a spin?,Döndürmek ister misin?,
+,ev19i3,Spin and see what you get!,"Çevir de gör, bakalım ne kazanacaksın!",
+,ev19i4,"Spin the wheel, win a prize, thank me later!","Çarkı çevir, ödülünü al, daha sonra teşekkür edersin!",
+,ev19f1,Thanks for playing!,Oynadığın için teşekkürler!,
+,ev19f2,Hope you had fun!,Umarım eğlenmişsindir!,
+,ev19f3,Moles are the best gamers.,Köstebekler,
+,,,,
+,evCardi1,The cards hold your future - or your doom!,Bu kartlar geleceğinizi gösterir ya da sonunuzu!,
+,evCardf1,The truth is in the cards,Gerçekler kartlarda saklı,
+,,,,
+,ev20n,Apprentice of Magic,Büyücü Çırağı,
+,ev20o1,"You discover a rabbit in a witch's hat. It's a bit too big for her, pushing her ears back. ""I've been learning all about magic! It's really amazing! Are you learning too?""","Bir cadı şapkalı tavşan görüyorsun. Şapka onun için biraz fazla büyük, kulaklarını arkaya doğru bastırıyor. ""Büyü hakkında her şeyi öğreniyorum! Gerçekten inanılmaz - her ne kadar kurbağalar yakında değişir dese de!""", WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev20o1tote,"You discover a rabbit in a witch's hat. It's a bit too big for her, pushing her ears back. ""Wow!"" she says. ""Your backpack looks enchanted! Can I offer you a wand?""","Bir cadı şapkasında bir tavşan keşfedersiniz. Onun için biraz fazla büyük, kulaklarını geriye itiyor. ""Vay!"" diyor. ""Sırt çantan büyülü görünüyor! Sana bir asa verebilir miyim?""", WARNING: AUTO-TRANSLATION #####################################################
+,ev20b1,Buy a wand,Bir asa satın al,
+,ev20b1o1,"You can have my first wand, she says. ""I've outgrown it. I'm on my second wand now.""","İlk sihirli değneğimi alabilirsin. der.  ""Bana artık küçük geliyor. İkincisine geçtim şimdi""",
+,ev20b1o1t1,Hope you like it!,Umarım seversin!,
+,ev20b1o1t2,I'll miss that wand!,O asayı özleyeceğim!,
+,ev20b2,No thanks,Hayır teşekkürler,
+,ev20b2o1,"Oh well, she says. ""I guess I still have a few things to learn from this wand anyway.""","Ah güzel. der. ""Sanırım bu sihirli değnekten öğreneceğim bir kaç şey daha var.""",
+,ev20b2o1t1,"Don't need my wand, huh?",Ne asamı istemiyor musun?,
+,ev20b2o1t2,Only as good as your wand!,Asan kadar iyisin sadece!,
+,ev20i1,Oh boy! Another adventurer!,"Ah evladım, Bir maceracı daha",
+,ev20i2,Gee! An explorer here?!,Vayy! Maceracılar buralara gelir miymiş?,
+,ev20i3,Are you learning to be a mage too?,Sen de mi büyücü olmak istiyorsun?,
+,ev20i3tote,Wow! A toad learning magic from me! What an honor!,Vay! Benden sihir öğrenen bir kurbağa! Ne büyük bir onur!, WARNING: AUTO-TRANSLATION #####################################################
+,ev20i4,I'm not alone!,Yalnız değilim!,
+,ev20f1,This was great!,Harikaydı!,
+,ev20f2,Wow! I hope to see you so soon!,Vay canına! Görüşmek üzere!,
+,ev20f3,So glad we met!,Tanıştığıma memnun oldum!,
+,ev20f4,Bi'ya! Bi'ya!,Bi'ya! Bi'ya!,
+,,,,
+,ev21n,Scholar of Magic,Alim büyücü,
+,ev21o1,"A rabbit is here practicing spells on a nearby rock. ""I've learned so much,"" she says. ""Can I interest you in a magic book?""","Hey şu tavşan kayanın üstünde büyü deniyor .""Ondan çok şey kaptım"" diyor. ""Büyülü bir kitap ister misin?""",
+,ev21b1,Buy a book,Kitap satın al,
+,ev21b1o1,"Enjoy your read! she says. ""And let me know if you want to hang out sometime soon. I'm free pretty much any time.""","Okumanın tadını çıkar. ""Eğer takılmak istersen haber ver. Şu sıralar çok boşum.""",
+,ev21b1o1t1,Hope you like it!,Umarım beğenirsin!,
+,ev21b1o1t2,It's a real page turner!,Bu kitap çok sürükleyici!,
+,ev21b1o1t3,Read it too many times already.,Çoktan birkaç defa okudum.,
+,ev21b2,No thanks,Hayır teşekkürler,
+,ev21b2o1,"""Rats!"" she says. ","Fareleerr! diye bağırıyor. ""Ah özür dilerim umarım seni kırmadım!""", WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev21b2o1purse,"""Rats!"" she says. ""Oh! I hope I didn't offend you!""","""Sıçanlar!"" diyor. ""Ah! Umarım seni kırmadım!""", WARNING: AUTO-TRANSLATION #####################################################
+,ev21b2o1t1,Book still available!,Kitap hala duruyor.,
+,ev21b2o1t2,I guess I can read it again.,Sanırım tekrar okuyabilirim.,
+,ev21b2o1t3,I'll read it a few more times.,Biraz daha okuyacağım,
+,ev21b2o1t4,I can probably learn a lot from this.,Bundan daha çok şey öğrenebilirim,
+,,,,
+,ev22n,Matthew's Blessing,Matthew'ın Kutsaması,
+,ev22o1,"A wise rabbit sits there, meditating in the midst of this dangerous place. ""Fear not"", he says. """"My name is matthew, and I have lived here for many years. With proper organization, any challenge may be overcome. Now let me assist you...""","Akıllı bir tavşan orada oturmuş tehlikeli bir yerin tam ortasında meditasyon yapıyor. ""Korkma"". """"Adım Matthew, ve burada yıllardır yaşıyorum. Düzgün bir organizasyonla, her zorluğun üstesinden gelinir. Şimdi sana yardım etmeme izin ver...""", WARNING: ENGLISH TEXT CHANGED #####################################################
+,ev22b1,start with 2 uncommon items,2 sıradışı eşya ile başla,
+,ev22b1o1,"Indeed, says Matthew. ""But remember, rare items are a crutch. Good organization requires skill - not rarity.""","Tabiki, der Matthew. ""Ama unutma ki nadir eşyalar birer koltuk değneğidir. İyi düzen ve tertip, yetenek gerektirir - nadirlik değil.""",
+,ev22b2,gain 10 max hp,10 Azami Can kazan,
+,ev22b2o1,"True strength comes from your backpack, he says. ""Don't forget it""","Gerçek güç sırt çantandan gelir, der. ""Unutma bunu""",
+,ev22b3,Become an archer,Okçu ol,
+,ev22b3o1,"""Archery is a true art form. So many pieces must be carefully placed."" He produces a bow and arrows. ""Perhaps I can help you begin""","""Okçuluk sanatın şekil bulmuş halidir. Bir çok parça dikkatlice yerleştirilmelidir."" Bir yay ve bir kaç ok üretir. ""Belki başlamana yardımcı olabilirim""",
+,ev22b4,Get a rare item,Nadir bir eşya al,
+,ev22b4o1,"True strength comes from your backpack, he says. ""Don't forget it""","Gerçek güç sırt çantandan gelir, der. ""Unutma bunu""",
+,ev22i1,Allow me to help you...,Sana yardım etmeme izin ver...,
+,ev22i2,"With care, even you can survive...","Dikkatli olursan, sen bile hayatta kalabilirsin...",
+,ev22i3,Take time to organize...,Eşyalarını düzenlerken bol bol düşün...,
+,ev22i4,You will make it! Just organize...,Başaracaksın! Sadece düzenli ol...,
+,ev22i5,It's all about arrangement...,Aslında her şey düzen ve tertipe bağlı...,
+,ev22i6,What you carry says a lot about you...,Sırt çantanda ne taşıdığın senin hakkında çok şey anlatıyor...,
+,ev22i7,A beautiful backpack  is its own reward...,Güzel bir sırt çantası kendi başına bir ödüldür...,
+,ev22i8,Everything in its place...,Her şey yerli yerinde...,
+,ev22i9,A perfect backpack... a fantasy...,Mükemmel bir sırt çantası... tam bir fantezi...,
+,ev22i10,"Accept what you get, organize...",Ne bulursan kabul edip al ve düzenle...,
+,ev22i11,When your backpack is full of lemons...,Sırt çantan limonlarla doluysa...,
+,ev22f1,I have faith...,İnancım tam...,
+,ev22f2,I know you will make it...,Biliyorum ki başaracaksın...,
+,ev22f3,I believe in you...,Sana inanıyorum...,
+,ev22f4,My blessings guide you...,Dualarım sana rehber olsun...,
+,ev22f5,Let your backpack show you the way..,Sırt çantanın sana yolunu göstermesine izin ver...,
+,,,,
+,evss,Want to see what I have today?,Bugün nelerim var görmek ister misin?,store
+,evso1,Here's what I have today...,İşte bugünkü mallar burada...,
+,evso2,Found most of these under a toadstool,Bunların çoğunu bir şapkalı mantarın altında buldum,
+,evso3,I have selections from across the land!,Bütün diyardan seçe seçe getirdim!,
+,evso4,Rare items for you!,Senin için nadir eşyalar!,
+,evsr1,Not right for you?,Sana uygun değiller mi?,
+,evsr2,"Okay, here's your money back!",Tamam işte paran burda!,
+,evsr3,I was sorry to let this go anyway!,Bunu satmayı çok da istemiyordum aslında!,
+,evsr4,I'll take it back!,Geri alacağım!,
+,evss1,More money for me!,Para Para Para,
+,evss2,Okay - hand it over,Tamam uzat bakayım,
+,evss3,I'll try it out,Bir deneyeyim,
+,evss4,I'll buy that for a dollar!,1 liraya alırım onu!,
+,evsf1,Yum! I'll be taking that!,Ohh alırım valla!,
+,evsf2,I want that!,Bunu istiyorum!,
+,evsf3,Woah! A tasty fly! Give me!,Vay canına! Lezzetli bir sinek mi! Ver bana!,
+,evsa1,Thank you!,Teşekkürler!,
+,evsa2,Economics!,Ekonomi!,
+,evsa3,Hope you enjoy it!,Umarım beğenirsin!,
+,evsa4,It looks good on you!,Pek de yakıştı!,
+,evsa5,Frogs have no use for these anyway!,Kurbağalar bunları ne yapacak zaten!,
+,evsa6,Trading is fun!,Takas yapmak eğlenceli!,
+,evsa7,Right into your backpack!,Dimdirek çantaya!,
+,evsgb1,See you later!,Sonra görüşürüz!,
+,evsgb2,Good luck storming the dungeon!,Zindanda bol sanşlar!,
+,evsgb3,See you again soon!,Tekrar görüşmek üzere!,
+,evsgb4,Let me know if you see any tasty flies!,Oralarda lezzetli sinekler görürsen bana haber ver!,
+,evsca1,Maybe if you get some more money!,Belki biraz daha paran olduğunda!,
+,evsca2,You can't afford this!,Bunu karşılayamazsın!,
+,evsca3,You need more coins!,Daha fazla paraya ihtiyacın var!,
+,evsca4,I need payment!,Ödemem nerede!,
+,evsca5,This isn't a charity!,Hayır kurumuna mı benziyorum!,
+,evsca6,Nothing is free,Beleş hiçbir şey yok,
+,,,,
+buttons,b1,End Turn,Turunu bitir,
+,b2,Stats,İstatistikler,
+,b3,Save Game,Oyunu Kaydet,
+,b4,options,Ayarlar,
+,b5,reorganize,Yeniden düzenle,
+,b6,Scratch,Tırmalamak,
+,b7,done,tamamlandı,
+,b7back,back,geri,"""Go back to the previous menu"" WARNING: AUTO-TRANSLATION #####################################################"
+,b8,Go adventuring!,Maceraya!,
+,b9,cancel,iptal et,
+,b10,Test,Ölçek, WARNING: AUTO-TRANSLATION #####################################################
+,b11,Run,Koşmak, WARNING: AUTO-TRANSLATION #####################################################
+,b12,Autorun: on,Otomatik çalıştırma: açık, WARNING: AUTO-TRANSLATION #####################################################
+,b13,Autorun: off,Otomatik çalıştırma: kapalı, WARNING: AUTO-TRANSLATION #####################################################
+,bd1,Scratch the enemy for 3 damage. Costs 1 Energy,Düşmanı 3 hasar için tırmalar. 1 enerjiye mal olur,
+,bd2,Reorganize your inventory in battle. Costs 3 energy,Envanterini savaş içinde yeniden düzenle. 3 enerjiye mal olur,
+,bd3,Test your core,Çekirdeğini test et, WARNING: AUTO-TRANSLATION #####################################################
+,bd4,Run your core - ends your turn,Çekirdeğini çalıştır - sıranı bitir, WARNING: AUTO-TRANSLATION #####################################################
+,bd5,"When autorun is enabled, you will automatically use your core at the start of each turn","Otomatik çalıştırma etkinleştirildiğinde, her dönüşün başında çekirdeğinizi otomatik olarak kullanacaksınız.", WARNING: AUTO-TRANSLATION #####################################################
+hud,h1,floor,kat,
+,h2,experience,deneyim,
+,h3,max level,maksimum seviye,
+,h4,level,seviye, WARNING: AUTO-TRANSLATION #####################################################
+status effects,se1,Poison,Zehir,
+,se1d,Will take /x damage at the end of turn,Turun başında /x hasar alacak, WARNING: ENGLISH TEXT CHANGED #####################################################
+,se2,Regen,Yenilenme,
+,se2d,Will recover  /x health at start of turn,Turun başında /x can yenileyecek,
+,se3,Spikes,Diken,
+,se3d,Will deal /x damage if attacked,Saldırıya uğradığında /x hasar verecek,
+,se4,Haste,Hız,
+,se4d,Will add /x additional block when blocking,Blok yaparken /x blok ekleyecek,
+,se5,Slow,Yavaşlatma,
+,se5d,Will reduce block by /x when blocking,Blok yaparken bloklama değerini /x düşürecek,
+,se6,Rage,Öfke,
+,se6d,Will add /x damage when attacking,Bir silahla saldırırken /x hasar ekleyecek, WARNING: ENGLISH TEXT CHANGED #####################################################
+,se7,Weak,Zayıflık,
+,se7d,Will reduce /x damage when attacking,Bir silahla saldırırken hasarı /x düşürecek, WARNING: ENGLISH TEXT CHANGED #####################################################
+,se8,Dodge,Kaçınma,
+,se8d,The next /x attacks will do no damage,Sıradaki /x saldırı hasar vermeyecek,
+,se9,Frozen,Donma,
+,se9d,/Will take no action for /x turns,/x tur boyunca aksiyon alamayacak,
+,se10,Burn,Yanma,
+,se10d,Will take /x damage at start of turn. This can be blocked,Tur başında /x hasar alacak. Bu hasar bloklanamaz,
+,se11,Tough Hide,sert deri, WARNING: AUTO-TRANSLATION #####################################################
+,se11d,Damage from projectiles is reduced by /x%,Mermilerden gelen hasar /x% oranında azaltıldı, WARNING: AUTO-TRANSLATION #####################################################
+Card Descriptors,Energy,Energy,Enerji, WARNING: AUTO-TRANSLATION #####################################################
+,Energyd,Energy is a resource you gain each turn. You need to end your turn to get more,"Enerji, her turda kazandığınız bir kaynaktır. Daha fazlasını almak için sıranı bitirmelisin", WARNING: AUTO-TRANSLATION #####################################################
+,Enemy,Enemy,Düşman, WARNING: AUTO-TRANSLATION #####################################################
+,Enemyd,The currently selected enemy. You can target any enemy,Şu anda seçili düşman. Herhangi bir düşmanı hedefleyebilirsiniz, WARNING: AUTO-TRANSLATION #####################################################
+,all enemies,all enemies,tüm düşmanlar, WARNING: AUTO-TRANSLATION #####################################################
+,all enemiesd,All the current enemies - regardless of your target,Mevcut tüm düşmanlar - hedefinizden bağımsız olarak, WARNING: AUTO-TRANSLATION #####################################################
+,Damage,Damage,Zarar, WARNING: AUTO-TRANSLATION #####################################################
+,Block,Block,Engellemek, WARNING: AUTO-TRANSLATION #####################################################
+,Blockd,"When hit, most attacks decrease block instead of HP. Block resets each turn","Vurulduğunda, çoğu saldırı HP yerine bloğu azaltır. Her dönüşte blok sıfırlama", WARNING: AUTO-TRANSLATION #####################################################
+,HP,HP,HP, WARNING: AUTO-TRANSLATION #####################################################
+,HPd,"If HP is 0, you will die",HP 0 ise ölürsünüz, WARNING: AUTO-TRANSLATION #####################################################
+,Luck,Luck,Şans, WARNING: AUTO-TRANSLATION #####################################################
+,Luckd,Luck increases your chances of finding rare items. It stacks!,"Şans, nadir eşyalar bulma şansınızı artırır. Yığınlar!", WARNING: AUTO-TRANSLATION #####################################################
+,discarded,discarded,atılan, WARNING: AUTO-TRANSLATION #####################################################
+,discardedd,Discarded carvings can be drawn again later this combat,Atılan oymalar bu savaştan sonra tekrar çizilebilir, WARNING: AUTO-TRANSLATION #####################################################
+,Banished,Banished,sürgün, WARNING: AUTO-TRANSLATION #####################################################
+,Banishedd,Banished carvings are removed for the rest of this combat,Bu savaşın geri kalanı için sürgündeki oymalar kaldırıldı, WARNING: AUTO-TRANSLATION #####################################################
+,Disabled,Disabled,Engelli, WARNING: AUTO-TRANSLATION #####################################################
+,Disabledd,Items have no effects while disabled,Öğeler devre dışıyken hiçbir etkisi olmaz, WARNING: AUTO-TRANSLATION #####################################################
+,Mana,Mana,mana, WARNING: AUTO-TRANSLATION #####################################################
+,Manad,Mana can be used in some items instead of energy. To use mana the item must be adjacent to a manastone or connected through conductive items,Bazı eşyalarda enerji yerine mana kullanılabilir. Mana kullanmak için eşya bir mana taşına bitişik olmalı veya iletken nesnelerle bağlanmalıdır., WARNING: AUTO-TRANSLATION #####################################################
+Store,Cost,Cost,Fiyat,
+,onSale,On Sale,Satılık,
+Rarities,common,common,Sıradan,
+,uncommon,uncommon,Sıradışı,
+,rare,rare,Nadir,
+,legendary,legendary,Efsanevi,
+Types,weapon,Weapon,Silah,
+,Armor,Armor,Zırh,
+,Shield,Shield,Kalkan,
+,Accessory,Accessory,Aksesuar,
+,Bow,Bow,Yay,
+,Arrow,Arrow,Ok,
+,Consumable,Consumable,Tüketilebilen,
+,Gold,Gold,Altın,
+,Manastone,Manastone,Manataşı,
+,Key,Key,Anahtar,
+,Curse,Curse,Lanet,
+,Ingredient,Ingredient,Malzeme,
+,Wand,Wand,Sihirbaz değneği,
+,Book,Book,Kitap,
+,Cleaver,Cleaver,Satır bıçağı,
+,Clothing,Clothing,Kıyafet,
+,Helmet,Helmet,Miğfer,
+,Footwear,Footwear,Ayakkabı,
+,Fish,Fish,Balık,
+,Relic,Relic,Eser,
+,Glove,Glove,Eldiven,
+,Magic,Magic,Büyü,
+,Gem,Gem,Mücevher,
+,Structure,Structure,Yapı,remaining times that an item can be used
+,Ring,Ring,Yüzük,
+,Rune,Rune,Rün,
+,Carving,Carving,Oyma,
+,Component,Component,Bileşen, WARNING: AUTO-TRANSLATION #####################################################
+,Potion,Potion,İksir, WARNING: AUTO-TRANSLATION #####################################################
+Limits,ul,use,kullan,
+,ulp,uses,kullanım,
+,ul1,1 use,1 kez kullan,
+,ul2,/x uses,/x kez kullan,
+,ul3,Can be used 1 time each turn,Her turda 1 kez kullanılabilir,
+,ul4,Can be used /x times each turn,Her turda /x kez kullanılabilir,
+,ul5,Can be used 1 time this turn,Bu turda 1 kez kullanılabilir,
+,ul6,Can be used /x times this turn,Bu turda /x kez kullanılabilir,
+,ul7,Can be used 1 time each combat,Her savaşta bir kez kullanılabilir,
+,ul8,Can be used /x times each combat,Her savaşta /x kez kullanılabilir,
+,ul9,Can be used 1 time this combat,Bu savaşta bir kez kullanılabilir,
+,ul10,Can be used /x times this combat,Bu savaşta /x kez kullanılabilir,
+triggers,t1,On use,Kullanımda,
+,t1c,On Summon,Çağırıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,t2,When destroyed,Yok olduğunda,
+,t3,When added,Eklendiğinde,
+,t4,When removed,Kaldırıldığında,
+,t5,Each turn,Her tur başına,
+,t6,When your turn ends,Tur sona erdiğinde,
+,t7,Each combat,Her savaş başına,
+,t8,When combat ends,Savaş bittiğinde,
+,t9,On kill,Her öldürme başına,
+,t10,On kill (non summon),Her öldürme başına (çağrılmış olmayan),
+,t11,When rotated,Döndürüldüğünde,
+,t12,When out of uses,Kullanım hakkı bittiğinde,
+,t13,When used,Kullanıldığında,
+,t14,When selected,Seçildiğinde,
+,t15,On take damage,Her hasar alındığında,
+,t15b,When attacked,Saldırıya uğradığında, WARNING: AUTO-TRANSLATION #####################################################
+,t16,When this moves,Hareket ettirildiğinde,
+,t17,When this finishes moving,Hareket etmesi bittiğinde,
+,t18,When moved in combat,Savaş sırasında hareket ettirildiğinde,
+,t19,On Scratch,Tırmalamada,
+,t20,For each empty space [to the right],Sağında olan her boş kare için,
+,t21,For each empty space [below],Altında olan her boş kare için,
+,t22,For each empty space [to the left],Solunda olan her boş kare için,
+,t23,For each empty space [above],Üstünde olan her boş kare için,
+,t24,For each adjacent structure,Yanındaki her yapı için,
+,t25,For each adjacent or diagonal structure,Yanındaki veya çaprazındaki her yapı için,
+,t26,When armor or a shield is present,Zırh veya kalkana sahip olunduğunda,
+,t26b,For each armor or shield,Her zırh veya kalkan için, WARNING: AUTO-TRANSLATION #####################################################
+,t27,For each space below,Altında olan her kare için,
+,t28,When an item in this column is destroyed,Bu sütundaki bir eşya yok olduğunda,
+,t29,When an adjacent item is destroyed,Yanındaki bir eşya yok olduğunda,
+,t29b,When an adjacent or diagonal item is destroyed,Yanındaki veya çaprazındaki bir eşya yok olduğunda,
+,t30,For each space above this,Üstünde olan her kare için,
+,t30b,"If this is not in the top row,",Eğer en üst satırda bulunmuyorsa,
+,t31,When an adjacent weapon is used,Yanındaki bir silah kullanıldığında,
+,t32,If there is an item two spaces away,Eğer iki kare uzağında bir eşya bulunuyorsa,
+,t33,For each adjacent or diagonal Curse,Her yanındaki ve çaprazındaki lanet başına,
+,t33b,For each adjacent Curse,Yanındaki her lanet başına,
+,t34,When a Wand kills an enemy,Asa ile bir düşman öldürüldüğünde,
+,t35,If there is an adjacent weapon,Eğer yanında bir silah bulunuyorsa,
+,t36,For each connected Manastone,Her bağlı Manataşı başına,
+,t37,For each adjacent curse,Yanındaki her lanet başına,
+,t38,For each adjacent or diagonal Fish,Yanındaki ve çaprasındaki her balık başına,
+,t39,When an arrow (to the right) kills a non-summon enemy,Sağında olan bir ok ile çağrılmamış bir düşman öldürüldüğünde,
+,t40,When an arrow (below) kills a non-summon enemy,Altında olan bir ok ile çağrılmamış bir düşman öldürüldüğünde,
+,t41,When an arrow (to the left) kills a non-summon enemy,Solunda olan bir ok ile çağrılmamış bir düşman öldürüldüğünde,
+,t42,When an arrow (above) kills a non-summon enemy,Üstünde olan bir ok ile çağrılmamış bir düşman öldürüldüğünde,
+,t43,When an arrow [to the right] kills an enemy,Sağında olan bir ok ile bir düşman öldürüldüğünde,
+,t44,When an arrow [below] kills an enemy,Altında olan bir ok ile bir düşman öldürüldüğünde,
+,t45,When an arrow [to the left] kills an enemy,Solunda olan bir ok ile bir düşman öldürüldüğünde,
+,t46,When an arrow [above] kills an enemy,Üstünde olan bir ok ile bir düşman öldürüldüğünde,
+,t47,If there is a space above this,Eğer üstünde bir kare bulunuyorsa,
+,t48,For each adjacent or diagonal key,Yanındaki ve çaprazındaki her anahtar başına,
+,t49,If there is a space above this,Eğer üstünde bir kare bulunuyorsa,
+,t50,For each space above this,Üstünde olan her kare için,
+,t51,For each space to the right,Sağında olan her kare için,
+,t52,For each space to the left,Solunda olan her kare için,
+,t53,For each adjacent item,Yanındaki her eşya başına,
+,t53s,If there is an adjacent item,Eğer yanında bir eşya bulunuyorsa,
+,t54,For each adjacent empty space,Yanındaki her boş kare için,
+,t55,For each adjacent item,Yanındaki her eşya başına,
+,t56,When a weapon is used,Bir silah kullanıldığında,
+,t57,For each adjacent or diagonal consumable,Yanındaki veya çaprazındaki bir eşya yok olduğunda,
+,t58,Each turn for each adjacent gem,Yanındaki her mücevher için her bir tur,
+,t59,When a weapon kills an enemy,"Silah, bir düşmanı öldürdüğünde",
+,t60,When an adjacent weapon is used,Yanındaki bir silah kullanıldığında,
+,t61,When an adjacent or diagonal item is present,Yanındaki veya çapraz bir öğe mevcut olduğunda,
+,t62,For each adjacent accessory,Çaprazındaki her aksesuar için,
+,t63,For each adjacent gem,Çaprazındaki her bir mücevher için,
+,t64,If adjacent to any item,Eğer herhangi bir eşyayanın yayındaysa,
+,t65,If adjacent or diagonal to any item,Eğer herhangi bir eşyanın yanında veya çaprazındaysa,
+,t66,If adjacent or diagonal to armor or a shield,Eğer bir zırhın veya kalkanın yanındaysa veya çaprazındaysa,
+,t67,When a diagonal shield is used,Çaprazında bulunan bir kalkan kullanıldığında,
+,t68,For each adjacent or diagonal ring,Yanında veya çaprazında bulunan her bir yüzük için,
+,t69,For each adjacent or diagonal curse,Yanında veya çaprazında bulunan her bir lanet için,
+,t70,If you have any armor,Eğer herhangi bir zırhın varsa,
+,t71,When an adjacent or diagonal manastone is destroyed,Yanında veya çaprazında bir mana taşı yok olduğunda,
+,t72v,For each consumable in this row,Bu satırdaki bütün tüketilebilirler için,
+,t73,When a shield is used,Bu satırdaki her bir mana taşı için, WARNING: ENGLISH TEXT CHANGED #####################################################
+,tc1,On play,Oynandığında,
+,tc2,When any carving is summoned,Bir oyma oynandığında, WARNING: ENGLISH TEXT CHANGED #####################################################
+,t73,For each manastone in this row,Bu satırdaki her bir mana taşı için, WARNING: ENGLISH TEXT CHANGED ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,t74,For each adjacent consumable,Yanında bulunan her bir tüketilebilir için,
+,t75,For each adjacent fish,Yanındaki her bir balık için, WARNING: AUTO-TRANSLATION #####################################################
+,t76,For each empty space to the right,Sağa doğru olan her bir boşluk için,
+,t77,For each empty space in this column,Bu sütunda bulunan her bir boşluk için,
+,t78,For each manastone above this,Bunun üstündeki her mana taşı için,
+,t79,For each carving in your discard,Elden çıkartmış olduğunuz her oyma için,
+,t80,When a carving is used,Bir oyma kullanıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,t81a,For each item along a diagonal line,Çapraz bir çizgi boyunca her öğe için, WARNING: AUTO-TRANSLATION #####################################################
+,t81,If there is an item along a diagonal line,Çapraz bir hat boyunca bir eşya varsa, WARNING: AUTO-TRANSLATION #####################################################
+,t82,When an adjacent carving is used,Yanındaki bir oyma kullanıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,t83,When an adjacent shield is used,Bitişik bir kalkan kullanıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,t84,For each space a charge has traveled before using this item,Bu öğeyi kullanmadan önce seyahat edilen her alan için bir ücret, WARNING: AUTO-TRANSLATION #####################################################
+,t85,When an adjacent item kills a non-summon enemy,"Bitişikteki bir öğe, çağrılmayan bir düşmanı öldürdüğünde", WARNING: AUTO-TRANSLATION #####################################################
+,t86,For each adjacent carving,Her bitişik oyma için, WARNING: AUTO-TRANSLATION #####################################################
+,t87,When a carving is summoned,Bir oyma çağrıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,t88,When an adjacent consumable is used,Bitişik bir sarf malzemesi kullanıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,t89,On death,ölüm üzerine, WARNING: AUTO-TRANSLATION #####################################################
+,t90,When an item is used,Bir öğe kullanıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,t91,When a shield is used,Kalkan kullanıldığında, WARNING: AUTO-TRANSLATION #####################################################
+,,,,
+effects,e1,Deals /x damage,/x hasar vurur,
+,e2,Hurts! Deals /x damage to self,Acıtır! Kendine /x hasar vurur,
+,e3,Deals /x damage to all enemies,Bütün düşmanlara /x hasar vurur,
+,e4,Deals /x vampirism ,/x vampirizm vurur, WARNING: ENGLISH TEXT CHANGED #####################################################
+,e5,Deals /x vampirism to all enemies,Tüm düşmanlara /x vampirizm hasarı vurur.,
+,e6,Removes /x% of all block on self,Üzerindeki bütün blocklardan /x%  siler,
+,e7,Multiplies current block by /x%,Var olan block'u  /x% 'e çıkartır,
+,e8,Adds /x block,/x blok ekler,
+,e9,Adds /x block to enemy,Düşmana /x blok ekler,
+,e10,Adds /x block to all enemies,Bütün düşmanlara /x blok ekler,
+,e11,Removes /x block,/x blok kaldırır,
+,e12,Removes /x block from enemy,Düşmandan /x blok kaldırır,
+,e13,Removes /x block from all enemies,Bütün düşmanlardan /x blok kaldırır,
+,e14,Heals /x HP,/x HP iyileştirir,
+,e15,Enemy heals /x HP,Enemy heals /x HP,
+,e16,All enemies heal /x HP,Bütün düşmanlar /x HP iyileşir,
+,e17,Lose /x HP,/x can kaybeder,
+,e18,Enemy loses /x HP,Düşman /x can kaybeder,
+,e19,All enemies lose /x HP,Bütün düşmanlar /x can kaybeder,
+,e20,Adds /x energy,/x enerji arttırır,
+,e20d,Removes /x energy,/x enerji azaltır,
+,e21,Adds /x Max HP,Maksimum canına /x ekler,
+,e21b,Removes /x Max HP,/x Azami Canı kaldırır, WARNING: AUTO-TRANSLATION #####################################################
+,e22,Adds /x Mana to connected Mana network,Bağlı olan mana ağına /x mana ekler,
+,e22b,Removes /x Mana from connected Mana network,/x Mana'yı bağlı Mana ağından kaldırır, WARNING: AUTO-TRANSLATION #####################################################
+,e23,Adds Luck,Şans arttırır,
+,e24,Adds Great Luck,Şansını büyük ölçüde arttırır,
+,e25,Multiplies all status effects on self by /x%,Kendi üzerindeki bütün durum efektlerini /x% 'e çıkartır,
+,e26,Multiplies all status effects on enemy by /x%,Düşman üzerindeki bütün durum efektlerini /x% 'e çıkartır,
+,e27,Multiplies all status effects on all enemies by /x%,Bütün düşmanların üzerindeki durum efektlerini /x% 'e çıkartır,
+,e28,Removes /x% of all status effects on self,Kendi üzerindeki bütün durum efektlerini /x% siler,
+,e29,Removes /x% of all status effects on enemy,Düşman üzerindeki bütün durum efektlerini /x% siler,
+,e29b,Removes /x from all status effects on enemy,Düşman üzerindeki bütün durum efektlerinden /x siler,
+,e29c,Removes /x from all status effects on all enemies,Tüm düşmanlar üzerindeki tüm durum etkilerinden /x'i kaldırır, WARNING: AUTO-TRANSLATION #####################################################
+,e29e,Removes /x from all status effects on everyone,Herkes üzerindeki tüm durum etkilerinden /x'i kaldırır, WARNING: AUTO-TRANSLATION #####################################################
+,e30,Removes /x% of all status effects on all enemies,Bütün düşmanların üzerindeki durum efektlerini /x% siler,
+,e31,Adds /x poison to self,Kendine /x zehir eklersin,
+,e32,Adds /x regen to self,Kendine /x yenilenme eklersin,
+,e33,Adds /x spikes to self,Kendine /x diken eklersin,
+,e34,Adds /x haste to self,Kendine /x hız eklersin,
+,e35,Adds /x slow to self,Kendine /x yavaşlık eklersin,
+,e36,Adds /x rage to self,Kendine /x öfke eklersin,
+,e37,Adds /x weak to self,Kendine /x zayıflık eklersin,
+,e38,Adds /x dodge to self,Kendine /x kaçınma eklersin,
+,e39,Adds /x poison to enemy,Düşmana /x zehir eklersin,
+,e40,Adds /x regen to enemy,Düşmana /x yenilenme eklersin,
+,e41,Adds /x spikes to enemy,Düşmana /x diken eklersin,
+,e42,Adds /x haste to enemy,Düşmana /x hız eklersin,
+,e43,Adds /x slow to enemy,Düşmana /x yavaşlık eklersin,
+,e44,Adds /x rage to enemy,Düşmana /x öfke eklersin,
+,e45,Adds /x weak to enemy,Düşmana /x zayıflık eklersin,
+,e46,Adds /x dodge to enemy,Düşmana /x kaçınma eklersin,
+,e46b,Adds /x burn to enemy,Düşmana /x yanma ekler, WARNING: AUTO-TRANSLATION #####################################################
+,e47,Adds /x poison to all enemies,Bütün düşmanlara /x zehir eklersin,
+,e48,Adds /x regen to all enemies,Bütün düşmanlara /x yenilenme eklersin,
+,e49,Adds /x spikes to all enemies,Bütün düşmanlara /x diken eklersin,
+,e50,Adds /x haste to all enemies,Bütün düşmanlara  /x hız eklersin,
+,e51,Adds /x slow to all enemies,Bütün düşmanlara /x yavaşlık eklersin,
+,e52,Adds /x rage to all enemies,Bütün düşmanlara /x öfke eklersin,
+,e53,Adds /x weak to all enemies,Bütün düşmanlara  /x zayıflık eklersin,
+,e54,Adds /x dodge to all enemies,Bütün düşmanlara /x kaçınma eklersin,
+,e54b,Adds /x burn to all enemies,Tüm düşmanlara /x yanma ekler, WARNING: AUTO-TRANSLATION #####################################################
+,e55,Removes /x poison from self,Kendinden /x zehir silersin,
+,e56,Removes /x regen from self,Kendinden /x yenilenme silersin,
+,e57,Removes /x spikes from self,Kendinden /x diken silersin,
+,e58,Removes /x haste from self,Kendinden /x hız silersin,
+,e59,Removes /x slow from self,Kendinden /x yavaşlatma silersin,
+,e60,Removes /x rage from self,Kendinden /x öfke silersin,
+,e61,Removes /x weak from self,Kendinden /x zayıflık silersin,
+,e62,Removes /x dodge from self,Kendinden /x kaçınma silersin,
+,e63,Removes /x poison from enemy,Düşmandan /x zehir silersin,
+,e64,Removes /x regen from enemy,Düşmandan /x yenilenme silersin,
+,e65,Removes /x spikes from enemy,Düşmandan /x diken silersin,
+,e66,Removes /x haste from enemy,Düşmandan /x hız silersin,
+,e67,Removes /x slow from enemy,Düşmandan /x yavaşlık silersin,
+,e68,Removes /x rage from enemy,Düşmandan /x öfke silersin,
+,e69,Removes /x weak from enemy,Düşmandan /x zayıflık silersin,
+,e70,Removes /x dodge from enemy,Düşmandan /x kaçınma silersin,
+,e71,Removes /x poison from all enemies,Bütün düşmanlardan /x zehir silersin,
+,e72,Removes /x regen from all enemies,Bütün düşmanlardan /x yenilenme silersin,
+,e73,Removes /x spikes from all enemies,Bütün düşmanlardan /x diken silersin,
+,e74,Removes /x haste from all enemies,Bütün düşmanlardan /x hız silersin,
+,e75,Removes /x slow from all enemies,Bütün düşmanlardan /x yavaşlık silersin,
+,e76,Removes /x rage from all enemies,Bütün düşmanlardan /x öfke silersin,
+,e77,Removes /x weak from all enemies,Bütün düşmanlardan /x zayıflık silersin,
+,e78,Removes /x dodge from all enemies,Bütün düşmanlardan /x kaçınma silersin,
+,e79,Multiplies poison on self by /x%,Kendi üzerindeki zehri  /x% arttırır,
+,e80,Multiplies regen on self by /x%,Kendi üzerindeki yenilenmeyi  /x% arttırır,
+,e81,Multiplies spikes on self by /x%,Kendi üzerindeki dikenleri  /x% arttırır,
+,e82,Multiplies haste to self by /x%,Kendi üzerindeki hızı  /x% arttırır,
+,e83,Multiplies slow to self by /x%,Kendi üzerindeki yavaşlatmayı /x%  arttırır,
+,e84,Multiplies rage to self by /x%,Kendi üzerindeki öfkeyi /x% arttırır,
+,e85,Multiplies weak to self by /x%,Kendi üzerindeki zayıflığı /x% 'e çıkartır,
+,e86,Multiplies dodge to self by /x%,Kendi üzerindeki kaçınmayı /x% 'e çıkartır,
+,e87,Multiplies poison to enemy by /x%,Düşman üzerindeki zehri /x% 'e çıkartır,
+,e88,Multiplies regen to enemy by /x%,Düşman üzerindeki yenilenmeyi  /x% arttırır,
+,e89,Multiplies spikes to enemy by /x%,Düşman üzerindeki dikenleri  /x% arttırır,
+,e90,Multiplies haste to enemy by /x%,Düşman üzerindeki hızı /x% arttırır,
+,e91,Multiplies slow to enemy by /x%,Düşman üzerindeki yavaşlatmayı  /x% arttırır,
+,e92,Multiplies rage to enemy by /x%,Düşman üzerindeki öfkeyi  /x% arttırır,
+,e93,Multiplies weak to enemy by /x%,Düşman üzerindeki zayıflığı  /x% arttırır,
+,e94,Multiplies dodge to enemy by /x%,Düşman üzerindeki kaçınmayı  /x% arttırır,
+,e95,Multiplies poison to all enemeies by /x%,Bütün düşmanların üzerindeki zehri  /x% arttırır,
+,e96,Multiplies regen to all enemies by /x%,Bütün düşmanların üzerindeki yenilenmeyi  /x% arttırır,
+,e97,Multiplies spikes to all enemies by /x%,Bütün düşmanların üzerindeki dikenleri  /x% arttırır,
+,e98,Multiplies haste to all enemies by /x%,Bütün düşmanların üzerindeki hızı  /x% arttırır,
+,e99,Multiplies slow to all enemies by /x%,Bütün düşmanların üzerindeki yavaşlatmayı  /x% arttırır,
+,e100,Multiplies rage to all enemies by /x%,Bütün düşmanların üzerindeki öfkeyi  /x% arttırır,
+,e101,Multiplies weak to all enemies by /x%,Bütün düşmanların üzerindeki zayıflığı  /x% arttırır,
+,e102,Multiplies dodge to all enemies by /x%,Bütün düşmanların üzerindeki kaçınmayı  /x% arttırır,
+,e103,Removes /x% poison from self,Kendi üzerindeki zehri /x% siler,
+,e104,Removes /x% regen from self,Kendi üzerindeki yenilenmeyi /x% siler,
+,e105,Removes /x% spikes from self,Kendi üzerindeki dikenleri /x% siler,
+,e106,Removes /x% haste from self,Kendi üzerindeki hızı/x% siler,
+,e107,Removes /x% slow from self,Kendi üzerindeki yavaşlatmayı /x% siler,
+,e108,Removes /x% rage from self,Kendi üzerindeki öfkeyi /x% siler,
+,e109,Removes /x% weak from self,Kendi üzerindeki zayıflığı /x% siler,
+,e110,Removes /x% dodge from self,Kendi üzerindeki kaçınmayı /x% siler,
+,e111,Removes /x% poison from enemy,Düşman üzerindeki zehri /x% siler,
+,e112,Removes /x% regen from enemy,Düşman üzerindeki yenilenmeyi /x% siler,
+,e113,Removes /x% spikes from enemy,Düşman üzerindeki dikenleri /x% siler,
+,e114,Removes /x% haste from enemy,Düşman üzerindeki hızı /x% siler,
+,e115,Removes /x% slow from enemy,Düşman üzerindeki yavaşlatmayı /x% siler,
+,e116,Removes /x% rage from enemy,Düşman üzerindeki öfkeyi /x% siler,
+,e117,Removes /x% weak from enemy,Düşman üzerindeki zayıflığı /x% siler,
+,e118,Removes /x% dodge from enemy,Düşman üzerindeki kaçınmayı /x% siler,
+,e119,Removes /x% poison from all enemies,Bütün düşmanların üzerindeki zehri /x% siler,
+,e120,Removes /x% regen from all enemies,Bütün düşmanların üzerindeki yenilenmeyi /x% siler,
+,e121,Removes /x% spikes from all enemies,Bütün düşmanların üzerindeki dikenleri /x% siler,
+,e122,Removes /x% haste from all enemies,Bütün düşmanların üzerindeki hızı/x% siler,
+,e123,Removes /x% slow from all enemies,Bütün düşmanların üzerindeki yavaşlatmayı /x% siler,
+,e124,Removes /x% rage from all enemies,Bütün düşmanların üzerindeki öfkeyi /x% siler,
+,e125,Removes /x% weak from all enemies,Bütün düşmanların üzerindeki zayıflığı /x% siler,
+,e126,Removes /x% dodge from all enemies,Bütün düşmanların üzerindeki kaçınmayı /x% siler,
+,e127,Adds /x damage to Scratch,Tırmalama hasarına /x ekler,
+,e128,Draw /x carvings,Oymalardan /x tane çek,
+,e129,Adds /x tough hide to enemy,Düşmana /x kaba post ekler, WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,,,,
+create effects,ceg,Creates /x gold,/x tane altın yaratır,yaratır-oluşturur??
+,cec,Creates a curse,Bir lanet yaratır,
+,ce1,Creates an Ethereal Arrow in this column,Bu sütunda bir Semavi Ok yaratır,
+,ce2,Creates an Ethereal Shiv in this row,Bu satırda bir Semavi Bıçak yaratır,
+,ce3,Creates Ethereal Energy in this column,Bu sütunda bir Semavi Enerji yaratır,
+,ce4,Creates a fish in an adjacent space,Yanındaki bir alanda bir balık oluşturur,
+,ce5,Creates any item,Herhangi bir eşya yaratır,
+,ce6,Creates /x gold,/x tane altın yaratır,
+,ce7,Creates a drink in this row,Bu satırda bir içecek yaratır,
+,ce8,Creates a potion in this row,Bu satırda bir iksir yaratır,
+,ce9,Creates an herb in this row,Bu satırda bir ot yaratır,
+,ce10,Creates a gem,Değerli bir taş oluşturur,
+,ce11,Another Slime Sword will be created at the end of combat,Savaş sonunda başka bir Slime Kılıcı yaratılacak.,
+,ce12,Creates something really good… or a horrible curse,Süper iyi bir şey yaratır... veya korkunç bir lanet,
+,ce13,Replaced by an Ethereal Blade,Bir Semavi Kılıç ile değiştirildi,
+,ce14,Replaced by Blade Summoner,Bıçak Çağıran ile değiştirildi,cool bir özel isim verelim
+,ce15,Replaced with an Empty Cup,Boş Kupa ile değiştirildi,
+,ce16,Replaced by Illusory Blade,Yanıltan Kılıç ile değiştirildi,cool bir özel isim verelim
+,ce17,Replaced by Illusory Duct Tape,Yanıltan Koli Bandı ile değiştirildi,
+,ce18,Creates a brick in this row,Bu satırda bir tuğla oluşturur, WARNING: AUTO-TRANSLATION #####################################################
+,ce19,Creates a Rocket in this column,Bu sütunda bir Roket oluşturur, WARNING: AUTO-TRANSLATION #####################################################
+Movement effects,me1,turns clockwise,saat yönünde döner,
+,me2,turns around,etrafında döner,
+,me3,turns counter-clockwise,saat yönünün tersine döner,
+,me4,moves forward until stopped,durana kadar ilerler,
+,me5,moves forward one space,bir kare ilerler,
+,me6,moves up one space,bir kare yukarı çıkar,
+Add Modifiers,,,,
+,amApplied,From /x,/x tarafından,
+,am1,All weapons get this effect applied,Tüm silahlara bu etki uygulanır.,
+,am2,All shields get this effect applied,Tüm kalkanlara bu etki uygulanır.,
+,am3,All wands get this effect applied,Tüm değneklere bu etki uygulanır.,
+,am4,All bows get this effect applied,Tüm yaylara bu etki uygulanır.,
+,am5,All arrows get this effect applied,Tüm oklara bu etki uygulanır.,
+,am6,The item between the wings gets this effect applied,Kanatların arasındaki eşyaya bu etki uygulanır.,
+,am7,Weapons in this column get this effect applied this combat,Bu sütunda olan silahlara bu savaş boyunca bu etki uygulanır,
+,am8,Adjacent weapons get this effect applied,Yanındaki silahlara bu etki uygulanır, WARNING: AUTO-TRANSLATION #####################################################
+,am9,All armor gets this effect applied,Tüm zırhlar bu etkiyi uygular, WARNING: AUTO-TRANSLATION #####################################################
+,am10,All manastones get this effect applied,Tüm mana taşları bu etkiyi uygular, WARNING: AUTO-TRANSLATION #####################################################
+item status effects,is1,This item is disabled,Bu eşya etkisizleştirilmiş,
+,is2,This item is a projectile,Bu eşya bir fırlatılan nesne,
+,is2b,Projectile,Mermi, WARNING: AUTO-TRANSLATION #####################################################
+,is2bd,Projectile attacks do not cause damage from spikes,Mermi saldırıları sivri uçlardan hasara neden olmaz, WARNING: AUTO-TRANSLATION #####################################################
+,is3,This item is anchored,Bu eşya olduğu yere sabit,
+,is3b,Anchored,demirli, WARNING: AUTO-TRANSLATION #####################################################
+,is3bd,Anchored items cannot be moved,Bağlantılı öğeler taşınamaz, WARNING: AUTO-TRANSLATION #####################################################
+,is4,This item is enflamed,Bu eşya alevlenmiş,
+,is5,Conductive,İletken,
+,is5d,Magic items get mana from manastones that are adjacent or connected through conductive items,"Sihirli eşyalar, iletken nesneler aracılığıyla bitişik veya bağlı olan mana taşlarından mana alır.", WARNING: AUTO-TRANSLATION #####################################################
+,is6,This item is heavy,Bu eşya ağır,
+,is6b,heavy,ağır, WARNING: AUTO-TRANSLATION #####################################################
+,is6bd,Heavy items move to the bottom of your Backpack,Ağır eşyalar Sırt Çantanızın altına taşınır, WARNING: AUTO-TRANSLATION #####################################################
+,is7,This item floats,Bu eşya süzülür,
+,is7b,floats,yüzer, WARNING: AUTO-TRANSLATION #####################################################
+,is7bd,Floating items move to the top of your Backpack,Yüzen eşyalar Sırt Çantanızın üst kısmına taşınır, WARNING: AUTO-TRANSLATION #####################################################
+,is8,Can be played over other items,Bu eşya diğer eşyalar aracılığıyla kullanılabilir,
+,is9,All effects applied to this are passed to adjacent items,"Bu eşyaya uygulanan bütün etkiler, yanındaki eşyalara aktarılır",
+,is10,This item can be used directly,Bu öğe doğrudan kullanılabilir, WARNING: AUTO-TRANSLATION #####################################################
+,is11,Piercing,delici, WARNING: AUTO-TRANSLATION #####################################################
+,is11d,Piercing attacks go through armor,Delici saldırılar zırhın içinden geçer, WARNING: AUTO-TRANSLATION #####################################################
+,efm,Multiplier Total,Toplam Çarpan,
+effect,base,Base,Temel,
+,twice,twice,iki defa, WARNING: AUTO-TRANSLATION #####################################################
+,m1,This item gets permanent /x damage,Bu eşya kalıcı olarak /x hasar kazanır,
+modifiers,m2,This item is destroyed,Bu eşya yok olur,
+,m3,Adjacent curses are destroyed,Yanındaki lanetler yok olur,
+,m4,This item gets /x damage to enemy,"Bu eşya, düşmanlara karşı /x hasar kazanır",
+,m5,This item gets /x damage to self,Bu eşya kendine karşı /x hasar kazanır,
+,m6,This item gets /x damage,Bu eşya /x hasar kazanır,
+,m7,This item gets /x% bonus damage,Bu eşya /x% bonus hasar kazanır,
+,m8,This item gets /x block,Bu eşya /x blok kazanır,
+,m9,This item gets /x block this combat,Bu eşya savaş boyunca /x blok kazanır,
+,m10,This item gets /x energy,Bu eşya /x enerji kazanır,
+,m11,Adjacent armor gets /x block,Yanındaki zırh /x blok kazanır,
+,m12,Adjacent weapons get /x damage,Yanındaki silahlar /x hasar kazanır,
+,m13,Weapons in this row get /x damage,Bu satırdaki silahlar /x hasar kazanır,
+,m14,Cleavers below get /x% bonus damage,Altındaki satır bıçakları /x% bonus hasar kazanır,
+,m15,Fires the first arrow in each [row to the right],[sağa doğru olan her satırdaki] ilk oku fırlatır,
+,m16,Fires the first arrow in each [column below],[aşağısındaki her sütundaki] ilk oku fırlatır,
+,m17,Fires the first arrow in each [row to the left],[sola doğru olan her satırdaki] ilk oku fırlatır,
+,m18,Fires the first arrow in each [column above],[üstündeki her sütundaki] ilk oku fırlatır,
+,m19,Fires all arrows in each [row to the right],[sağa doğru olan her satırdaki] bütün okları fırlatır,
+,m20,Fires all arrows in each [column below],[aşağısındaki her sütundaki] bütün okları fırlatır,
+,m21,Fires all arrows in each [row to the left],[sola doğru olan her satırdaki] bütün okları fırlatır,
+,m22,Fires all arrows in each [column above],[üstündeki her sütundaki] bütün okları fırlatır,
+,m23,Adjacent and diagonal structures become conductive,Yanındaki ve çaprazındaki yapılar iletken olur,
+,m24,This item is refreshed and can be used again this combat,Bu eşya yenilenir ve bu savaşta tekrar kullanılabilir,
+,m25,Items in this row are refreshed and can be used again this turn,Bu satırdaki eşyalar yenilenir ve şu anki sıranda kullanılabilir,
+,m26,selected adjacent Weapons get /x% bonus damage this combat,Yanındaki seçilen silahlar bu savaş boyunca /x% bonus hasar kazanır,
+,m27,All weapons get /x% bonus damage,Bütün silahlar /x% bonus hasar kazanır,
+,m28,The first arrow in each [row to the right] gets /x% bonus damage,Her [sağa doğru olan her satırdaki] ilk ok /x% bonus hasar kazanır,
+,m29,The first arrow in each [column below] gets /x% bonus damage,Her [aşağısındaki her sütundaki] ilk ok /x% bonus hasar kazanır,
+,m30,The first arrow in each [row to the left] gets /x% bonus damage,Her [sola doğru olan her satırdaki] ilk ok /x% bonus hasar kazanır,
+,m31,The first arrow in each [column above] gets /x% bonus damage,Her [üstündeki her sütundaki] ilk ok /x% bonus hasar kazanır,
+,m32,This item is disabled,Bu eşya etkisizleştirilmiş,
+,m33,All consumables get /x% bonus healing,Bütün tüketilebilirler /x% bonus iyileştirme kazanır,
+,m34,All weapons get /x damage,Bütün silahlar /x hasar kazanır,
+,m35,All adjacent weapons are used,Yanındaki bütün silahlar kullanılır,
+,m36,All adjacent cleavers are used,Yanındaki bütün satır bıçakları kullanılır,
+,m37,The [above] cleaver is used,[Üstteki] satır bıçağı kullanılır,
+,m38,The [right] cleaver is used,[Sağdaki] satır bıçağı kullanılır,
+,m39,The cleaver [below] is used,[Aşağıdaki] satır bıçağı kullanılır,
+,m40,The [left] cleaver is used,[Soldaki] satır bıçağı kullanılır,
+,m41,All connected weapons get /x% bonus damage,Tüm bağlı silahlar /x% bonus hasar kazanır,
+,m42,All consumables get /x rage,Bütün tüketilebilirler /x öfke kazanır,
+,m43,Adjacent weapons get /x damage this combat,Yanındaki silahlar bu savaş boyunca /x hasar kazanır,
+,m44,Adjacent weapons get /x damage this turn,Yanındaki silahlar şu anki tur için /x hasar kazanır,
+,m45,Adjacent and diagonal weapons get /x damage,Yanındaki ve çaprazındaki silahlar /x hasar kazanır,
+,m46,This gets /x damage this turn,Şu anki tur için /x hasar kazanır,
+,m47,This gets /x damage this combat,Bu savaş için /x hasar kazanır,
+,m48,This item is disabled for /y turns,Bu eşya /y tur boyunca etkisizleştirilir,
+,m49,This item is anchored for /y combats,Bu eşya /y savaş boyunca sabitlenir,
+,m50,Adjacent and diagonal armor gets /x block,Yanındaki ve çaprazındaki zırh /x blok kazanır,
+,m50b,Adjacent and diagonal shields and armor get /x block,Yanındaki ve çaprazındaki zırh ve kalkanlar /x blok kazanır,
+,m51,This item is disabled for the rest of this combat,Bu eşya şu anki savaşın sonuna kadar etkisizleştirilmiştir,
+,m52,This item is disabled for /y combats,Bu eşya /y savaş boyunca etkisizleştirilmiştir,
+,m53,Adjacent helmets get /x block,Yanındaki miğferler /x blok kazanır,
+,m54,Adjacent footwear gets /x block,Yanındaki ayakkabı /x blok kazanır,
+,m55,This item is used,Bu eşya kullanılır,
+,m56,Arrows to the [right] get /x% bonus damage,[Sağa doğru olan] oklar /x% bonus hasar kazanır,
+,m57,Arrows to the [left] get /x% bonus damage,[Sola doğru olan] oklar  /x% bonus hasar kazanır,
+,m58,Arrows [below] get /x% bonus damage,[Aşağısındaki] oklar  /x% bonus hasar kazanır,
+,m59,Arrows [above] get /x% bonus damage,[Üstündeki] oklar /x% bonus hasar kazanır,
+,m60,Connected weapons get /x damage,Bağlı silahlar /x hasar kazanır,bağlı olarak çevirilmiş olan yerler var
+,m61,Adjacent and diagonal shields get /x block,Yanındaki ve çaprazındaki kalkanlar /x blok kazanır,
+,m62,The first arrow in each [row to the right] gets /x damage,Her [sağa doğru olan her satırdaki] ilk ok /x hasar kazanır,
+,m63,The first arrow in each [row to the left] gets /x damage,Her [sola doğru olan her satırdaki] ilk ok /x hasar kazanır,
+,m64,The first arrow in each [column below] gets /x damage,Her [aşağısındaki her sütundaki] ilk ok /x hasar kazanır,
+,m65,The first arrow in each [column above] gets /x damage,Her [üstündeki her sütundaki] ilk ok /x hasar kazanır,
+,m66,Armor to the left gets /x block,Solundaki zırh /x blok kazanır,
+,m67,Weapons in this column get /x damage,Bu sütundaki silahlar /x hasar kazanır,
+,m68,Adjacent and diagonal weapons get /x poison to self,Yanındaki ve çaprazındaki silahlar kendine karşı /x zehir kazanır,
+,m69,Weapons in this row or column get /x damage,Bu satırdaki veya sütundaki silahlar /x hasar kazanır,
+,m69c,Weapons in this row or column get /x damage this combat,Bu satırdaki veya sütundaki silahlar bu savaş boyunca /x hasar kazanır,
+,m70,Adjacent and diagonal weapons get /x damage this combat,Yanındaki ve çaprazındaki silahlar bu savaş boyunca /x hasar kazanır,
+,m71,This gets /x spikes to self this turn,Kendine şu anki tur için /x diken ekler,
+,m72,All shields get /x spikes to self,Bütün kalkanlar kendine /x diken ekler,
+,m73,All diagonal cleavers are used,Çapraz satır bıçakları kullanılır,
+,m74,Adjacent and diagonal cleavers get /x damage,Yanındaki ve çaprazındaki satır bıçakları /x hasar kazanır,
+,m75,The cleaver [above] gets used,[Üstündeki] satır bıçağı kullanılır,
+,m76,The cleaver [to the right] gets used,[Sağındaki] satır bıçağı kullanılır,
+,m77,The cleaver [below] gets used,[Aşağısındaki] satır bıçağı kullanılır,
+,m78,The cleaver [to the left] gets used,[Solundaki] satır bıçağı kullanılır,
+,m79,Adjacent shields get used,Yanındaki kalkanlar kullanılır,
+,m80,Adjacent weapons get /x healing,Yanındaki silahlar /x iyileştirme kazanır,
+,m81,Weapons in this column get /x% bonus damage,Bu sütundaki silahlar /x% bonus hasar kazanır,
+,m82,Weapons in this row get /x weak this combat,Bu satırdaki silahlar /x zayıflatma kazanır, WARNING: ENGLISH TEXT CHANGED #####################################################
+,m83,Select an adjacent weapon to permanently get /x% bonus damage,Yanındaki seçtiğin silah /x% bonus  hasar kazanır,
+,m84,Adjacent and diagonal weapons get /x damage,Yanındaki ve çaprazındaki silahlar /x hasar kazanır,
+,m85c,Adjacent weapons get /x% bonus damage this combat,Yanındaki silahlar bu savaşlık /x% bonus hasar kazanır,
+,m85,Adjacent weapons get /x% bonus damage,Yanındaki silahlar /x% bonus hasar kazanır,
+,m86,Adjacent weapon [below] gets /x damage,Yanındaki silah [aşağısındaki]  /x hasar kazanır,
+,m87,Adjacent weapon [to the left] gets /x damage,Yanındaki silah [sol tarafındaki]  /x hasar kazanır,
+,m88,Adjacent weapon [above] gets /x damage,Yanındaki silah [üstündeki]  /x hasar kazanır,
+,m89,Adjacent weapon [to the right] gets /x damage,Yanındaki silah [sağındaki] /x hasar kazanır, WARNING: ENGLISH TEXT CHANGED #####################################################
+,m90,Weapons in this row get /x poison this combat,Bu satırdaki silahlar bu savaş boyunca /x zehir kazanır,
+,m91,Adjacent and diagonal consumables are destroyed,Yanındaki ve çaprazındaki tüketilebilirler yok olur,
+,m92,Adjacent weapons get /x poison,Yanındaki silahlar /x zehir kazanır,
+,m93,Weapons two spaces away get /x damage,İki kare uzaklıkta olan silahlar /x hasar kazanır,
+,m94,All weapons remove /x from all status effects from all enemies,Bütün silahlar düşmanların statü efektlerinden /x çıkarır,
+,m95,scratch deals /x Damage,Tırmalama /x hasar verir,
+,m96,Helmets to the right are disabled,Sağa doğru olan miğferler etkisizleştirilir,
+,m97,Shields get /x spikes to self,Kalkanlar kendine /x diken ekler,
+,m98,Footwears to the right are disabled,Sağa doğru olan ayakkabılar etkisizleştirilir,
+,m99,structures beneath this get /x block,Altındaki yapılar /x blok kazanır,
+,m100,This gets /x to poison,Zehir değerine /x ekler,
+,m101,Adjacent shields get /x spikes to self,Yanındaki kalkanlar kendine /x diken ekler,
+,m102,Adjacent and diagonal consumables get /x healing,Yanındaki ve çaprazındaki tüketilebilirler /x iyileştirme alır,
+,m103,Weapons in this column get /x% bonus damage this turn,Bu sütundaki silahlar tur boyunca /x% bonus hasar kazanır,
+,m103b,Weapons in this column get /x% bonus damage this combat,"Bu sütundaki silahlar, bu savaşta /x% bonus hasar alır", WARNING: AUTO-TRANSLATION #####################################################
+,m104,Wands in this column get /x damage,Bu sütundaki sihirli değnekler /x hasar kazanır,
+,m105,Permanently increase cost by /y mana,Kalıcı olarak mana maliyetini /y arttır,
+,m106,/x to the energy cost for this combat,Enerji maliyetini bu savaşlık /y arttır, WARNING: ENGLISH TEXT CHANGED ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,m107,Decreases the cost of all held carvings to 0 energy,Tutulan bütün oymaların enerji maliyetini 0 a düşürür,
+,m108,Remove all held carvings and draw 3,Tutulan bütün oymaları kaldır ve 3 tane çek,
+,m109,Banishes a carving from hand,Elinden bir oymayı bertaraf eder,
+,m110,Weapons behind get /x% bonus damage,Arkasındaki silahlar /x% bonus hasar kazanır,
+,m111,Weapons behind this are used,Arkasındaki silahlar kullanılır, WARNING: ENGLISH TEXT CHANGED #####################################################
+,m112,Weapons behind this are destroyed,Arkasındaki silahlar yok olur, WARNING: ENGLISH TEXT CHANGED #####################################################
+,m113,This carving is banished,Bu oyma bertaraf edildi,
+,m114,Shields two spaces away get /x block this combat,2 uzaklıktaki kalkan bu savaşta /x blok kazanır,
+,m115,The item this is played on is destroyed,Bununla beraber oynanan eşya yok olur,
+,m116,Adds /x energy for each space the destroyed item occupied,Yok olan eşyanın kapladığı her boşluk başına /x enerji kazanır,
+,m117,Adjacent shields get /x block this combat,Yanındaki kalkanlar bu savaşlık /x blok kazanır,
+,m118,This item gets /x to mana,Bu eşyanın manasına /x eklenir,
+,m119,Adjacent consumables are destroyed,Yanındaki tüketilebilirler yok olur,
+,m120,Bows behind are used,Arkasındaki yaylar kullanılır,
+,m121,Armor in this row gets /x spikes this combat,Bu satırdaki zırh bu savaşlık /x iğne kazanır,
+,m122,Items behind are used,Arkasındaki eşyalar kullanılır,
+,m123,Adds /x damage for each carving played this combat,Bu savaşta oynanan her bir oyma için savaş boyunca /x hasar ekler,
+,m124,Adds /x block for each carving played this combat,Bu savaşta oynanan her bir oyma için savaş boyunca /x blok ekler,
+,m125,Arrows behind get /x% bonus damage this turn,Arkasındaki oklar bu tur için /x% bonus hasar kazanır,
+,m126,Adjacent fish are destroyed,Yanındaki balıklar yok olur,
+,m127,For each manastone above this,Üstündeki her bir mana taşı için,
+,m128,Adds /x gold for each space the destroyed item occupied,Yok olan eşyanın kapladığı her boşluk başına /x altın ekler,
+,m129,This item gets /x to all status effects,Bu eşya statü efektlerine /x ekler,
+,m130,All connected weapons get /x% bonus damage this turn,Bağlı olan bütün silahlar bu turluk /x% bonus hasar kazanır,
+,m131,The weapon behind gets /x damage this turn,Arkasındaki silah bu turluk /x hasar kazanır,
+,m132,The item [to the left] is destroyed,[Soldaki] öğe yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m133,The item [above] is destroyed,[Yukarıdaki] öğe yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m134,The item [to the right] is destroyed,[Sağdaki] öğe yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m135,The item [below] is destroyed,[Aşağıdaki] öğe yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m132b,The adjacent item [to the left] is destroyed,Bitişik öğe [solda] yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m133b,The adjacent item [above] is destroyed,Bitişik öğe [yukarıda] yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m134b,The adjacent item [to the right] is destroyed,Bitişik öğe [sağda] yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m135b,The adjacent item [below] is destroyed,Bitişik öğe [aşağıda] yok edildi, WARNING: AUTO-TRANSLATION #####################################################
+,m136,"For each space the destroyed item occupied, this gets /x damage","Yok edilen eşyanın kapladığı her boşluk için , /x hasar kazanır", WARNING: AUTO-TRANSLATION #####################################################
+,m137,Decreases the cost of all adjacent weapons to 0 energy,Bitişik silahların kullanım maliyetini 0 enerjiye düşürür, WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,m138,This item is refreshed and can be used again this turn,Bu eşya yenilendi ve bu tur tekrar kullanılabilir, WARNING: AUTO-TRANSLATION #####################################################
+,m139,Adjacent weapons get /x to their energy cost this combat (minimum of 1),"Bitişik silahlar, bu savaşta enerji maliyetlerine /x alır (en az 1)", WARNING: AUTO-TRANSLATION #####################################################
+,m140,Adjacent weapons get /x burn,Bitişik silahlar /x yanma kazanır, WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,m141,Weapons along a diagonal line get /x damage,Çapraz bir hat boyunca silahlar /x hasar alır, WARNING: AUTO-TRANSLATION #####################################################
+,m142,Adjacent weapons get /x weak this combat,Bitişik silahlar bu savaşta /x zayıflatma kazanır, WARNING: AUTO-TRANSLATION #####################################################
+,m143,This item gets /x% bonus damage this turn,"Bu eşya, bu tur /x% bonus hasar alır", WARNING: AUTO-TRANSLATION #####################################################
+,m144,Redirects charge,Yönlendirme ücreti, WARNING: AUTO-TRANSLATION #####################################################
+,m145,Reorganize your backpack in combat,Sırt çantanızı savaşta yeniden düzenleyin, WARNING: AUTO-TRANSLATION #####################################################
+,m146,A new charge is created with 2 energy,2 enerji ile yeni bir yük oluşturulur, WARNING: AUTO-TRANSLATION #####################################################
+,m147,Each charge can only use this component /x times,Her şarj bu bileşeni yalnızca /x kez kullanabilir, WARNING: AUTO-TRANSLATION #####################################################
+,m148,Charges must have traveled at least /x spaces,Ücretler en az /x boşluk kat etmiş olmalıdır, WARNING: AUTO-TRANSLATION #####################################################
+,m149,Creates a charge with /x energy,/x enerjisiyle bir yük oluşturur, WARNING: AUTO-TRANSLATION #####################################################
+,m150,Creates two charges with /x energy,/x enerjisiyle iki yük oluşturur, WARNING: AUTO-TRANSLATION #####################################################
+,m151,"For each space the destroyed item occupied, this gets /x energy","Yok edilen öğenin işgal ettiği her alan için bu, /x enerji alır", WARNING: AUTO-TRANSLATION #####################################################
+,m152a,The closest item [below] is pulled [up],En yakın öğe [aşağıda] [yukarı] çekilir, WARNING: AUTO-TRANSLATION #####################################################
+,m152b,The closest item [to the right] is pulled [left],En yakın öğe [sağa] çekilir [sola], WARNING: AUTO-TRANSLATION #####################################################
+,m152c,The closest item [to the left] is pulled [right],En yakın öğe [sola] çekilir [sağa], WARNING: AUTO-TRANSLATION #####################################################
+,m152d,The closest item [above] is pulled [down],En yakın öğe [yukarıda] [aşağı] çekilir, WARNING: AUTO-TRANSLATION #####################################################
+,m153,The adjacent item [above] is pushed [up],[yukarıdaki] bitişik öğe [yukarı] itilir, WARNING: AUTO-TRANSLATION #####################################################
+,m154,The adjacent item [to the left] is pushed [left],Bitişik öğe [sola] itilir [sola], WARNING: AUTO-TRANSLATION #####################################################
+,m155,The adjacent item [below] is pushed [down],Bitişik öğe [aşağı] [aşağı] itilir, WARNING: AUTO-TRANSLATION #####################################################
+,m156,The adjacent item [to the right] is pushed [right],Bitişik öğe [sağda] [sağa] itilir, WARNING: AUTO-TRANSLATION #####################################################
+,m157,Adjacent items are pushed away,Bitişik öğeler uzağa itilir, WARNING: AUTO-TRANSLATION #####################################################
+,m158,This carving is discarded,Bu oyma atılır, WARNING: AUTO-TRANSLATION #####################################################
+,m159,/x to the energy cost for this turn,/x bu dönüş için enerji maliyetine, WARNING: AUTO-TRANSLATION #####################################################
+,m160,Does damage equal to /x% of your current poison,Mevcut zehirinizin /x%'ine eşit hasar verir, WARNING: AUTO-TRANSLATION #####################################################
+,m161,Adjacent carvings are discarded,Bitişik oymalar atılır, WARNING: AUTO-TRANSLATION #####################################################
+,m162,Carvings behind are discarded,Arkadaki oymalar atılır, WARNING: AUTO-TRANSLATION #####################################################
+,m163,All weapons become heavy,Tüm silahlar ağırlaşıyor, WARNING: AUTO-TRANSLATION #####################################################
+,m164,all wands get /x to mana cost,tüm asalar mana bedeline /x alır, WARNING: AUTO-TRANSLATION #####################################################
+,m167,Adjacent wands get /x damage,Bitişik asalar /x hasar alır, WARNING: AUTO-TRANSLATION #####################################################
+,m168,/y to mana cost of adjacent and diagonal wands,/y - bitişik ve çapraz asaların mana maliyeti, WARNING: AUTO-TRANSLATION #####################################################
+,m169,/x to mana cost this turn,/x'in bu tur mana maliyeti, WARNING: AUTO-TRANSLATION #####################################################
+,m170,/x to the energy cost of all weapons and bows,/x tüm silahların enerji maliyetine, WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+directional,below,below,aşağıda, WARNING: AUTO-TRANSLATION #####################################################
+,above,above,üstünde, WARNING: AUTO-TRANSLATION #####################################################
+,left,left,ayrıldı, WARNING: AUTO-TRANSLATION #####################################################
+,right,right,Sağ, WARNING: AUTO-TRANSLATION #####################################################
+modifier names,kill,kill,Öldür,
+,Near Consumable,Near Consumable,Sarf Malzemesine Yakın, WARNING: AUTO-TRANSLATION #####################################################
+,nearby accessory,nearby accessory,yakındaki aksesuar,
+,open space,open space,açık boşluk,
+,empty space,empty space,boşluk,
+,space above,space above,üstteki boşluk,
+,other helmet,other helmet,diğer miğfer,
+,connected manastone,connected manastone,bağlı mana taşı,
+,other shoes,other shoes,diğer ayakkabı,
+,position,position,pozisyon,
+,nearby structure,nearby structure,yakındaki yapı,
+,bronze plate,bronze plate,bronz plaka,
+,nearby weapon,nearby weapon,yakındaki silah,
+,forge,forge,demirhane,
+,nearby fish,nearby fish,yakındaki balık,
+,Use,Use,Kullanmak,
+,combats,combats,Savaşlar, WARNING: AUTO-TRANSLATION #####################################################
+,turns,turns,Turlar, WARNING: AUTO-TRANSLATION #####################################################
+,nearby,nearby,yakında, WARNING: AUTO-TRANSLATION #####################################################
+,ACIDIC POTION,ACIDIC POTION,ASİDİK İKSİR,
+items,AMETHYST,AMETHYST,AMETİST,
+,ANCIENT TOME,ANCIENT TOME,ANTİK CİLT,
+,ANCIENT TOME2,Ancient spells are written in the margins of this recipe book,Bu tarif kitabının kenarlarında antik büyüler yazılı,
+,ANGLER FISH,ANGLER FISH,Fenerbalığı,
+,ARCHANGEL ARMOR,ARCHANGEL ARMOR,BAŞ MELEK ZIRHI,
+,ARCHANGEL Wings,ARCHANGEL Wings,BAŞ MELEK Kanatları,
+,ARCHANGEL Wings e1,The item between the wings is used,Kanatların arasındaki eşya kullanılır,
+,ARCHANGEL Wings e2,The item between the wings is disabled for 1 turn,Kanatların arasındaki eşya 1 turluğuna etkisizleştirilir,
+,ARCHANGEL Wings2,They have a mind of their own!,Kendileri karar verebiliyor gibi,
+,ARCHER'S WAND,ARCHER'S WAND,OKÇUNUN SİHİRBAZ DEĞNEĞİ,
+,ARCHER'S WAND2,Frog wizards created this item,Kurbağa büyücüler bu eşyayı yarattı,
+,ASSASSIN'S DAGGER,ASSASSIN'S DAGGER,SUİKASTÇİNİN HANÇERİ,
+,BALLOON,BALLOON,BALON,
+,BANDAGES,BANDAGES,BANDAJ,
+,Bashing Shield,Bashing Shield,Atak Kalkanı,
+,Bashing Shield e1,Does damage equal to your current block,Şu anki bloğuna eşit değerde hasar verir,
+,BERSERKER'S CLUB,BERSERKER'S CLUB,VAHŞİ SAVAŞÇININ SOPASI,
+,BESERKER'S RING,BERSERKER'S RING,VAHŞİ SAVAŞÇININ YÜZÜĞÜ, WARNING: ENGLISH TEXT CHANGED #####################################################
+,BIG FIN,BIG FIN,BÜYÜK YÜZGEÇ,
+,BLADE SUMMONER,BLADE SUMMONER,KILIÇ ÇAĞIRAN,
+,BLUEFIN,BLUEFIN,MAVİ YÜZGEÇ,
+,BRAMBLE,BRAMBLE,BÖĞÜRTLEN,
+,BRAMBLE2,Poison oozes from these thick brambles,Bu böğürtlenlerden zehir damlıyor,
+,Brass Knuckles,Brass Knuckles,Pirinç Eldivenler,
+,BRICK,BRICK,TUĞLA,
+,BRICKWALL,BRICKWALL,TUĞLA DUVAR,
+,BROKEN RING,BROKEN RING,KIRIK YÜZÜK,
+,BROKEN RING2,Ancient magicians found protection with this ring on hand,Kadim büyücüler bu yüzük ellerindeyken güvende hissediyor,
+,BRONZE BREASTPLATE,BRONZE BREASTPLATE,BRONZ GÖĞÜSLÜK,
+,BRUTAL SPEAR,BRUTAL SPEAR,ZALİM MIZRAK,
+,BUBBLE,BUBBLE,KÖPÜK,
+,CACTUS,CACTUS,KAKTÜS,
+,CAP,CAP,ŞAPKA,
+,CAULDRON,CAULDRON,KAZAN,
+,CAVE FISH,CAVE FISH,MAĞARA BALIĞI,
+,CAVE SHARK,CAVE SHARK,MAĞARA KÖPEK BALIĞI,
+,CHAINMAIL,CHAINMAIL,ZİNCİR YELEK,
+,CHARMED BRACELET,CHARMED BRACELET,TILSIMLI BİLEZİK,
+,CHARMED BRACELET2,Exchange your lifeforce to remove a curse,Lanet kaldırmak için canından feda et,
+,CHEF'S HAT,CHEF'S HAT,ŞEF ŞAPKASI,
+,CITRINE,CITRINE,SİTRİN,
+,CLEANSING BOMB,CLEANSING BOMB,ARINDIRICI BOMBA,
+,CLEANSING POTION,CLEANSING POTION,ARINDIRICI İKSİR,
+,CLEANSING RAG,CLEANSING RAG,ARINDIRAN PAÇAVRA,
+,CLEANSING WAND,CLEANSING WAND,ARINDIRAN SİHİRLİ DEĞNEK,
+,CLEANSING WAND2,I think this wand used to be a broom!,Sanırım bu değnek daha önceden bir süpürgeydi,Cleaver is already indicated by the type
+,CLUB,CLUB,SOPA,
+,COAL,COAL,KÖMÜR,
+,COMPOSITE BOW,COMPOSITE BOW,KOMPOZİT YAY,
+,COMPOSITE BOW2,For the smallest of rodents,Kemirgenlerin en küçükleri için,
+,CONDUIT,CONDUIT,KANAL,
+,COOL DRINK,COOL DRINK,SOĞUK İÇECEK,
+,CRIMSON ENERGY,CRIMSON ENERGY,KIPKIRMIZI ENERJİ,
+,CROOKED ARROW,CROOKED ARROW,KANCA OK,
+,CROSSBOW,CROSSBOW,ARBALET,
+,CROSSBOW2,squirrels prefer the light weight of crossbows,"Sincaplar, arbaletleri düşük ağırlıklarından dolayı tercih ediyor",
+,CURSED BLADE,CURSED BLADE,LANETLİ BIÇAK,
+,CURSED BLADE2,Many have tried to wield this sword - none have succeeded,Çoğu bu kılıcı kuşanmayı denedi - hiçbiri başaramadı,
+,CURSED SHIV,CURSED SHIV,LANETLİ KÜÇÜKBIÇAK,
+,CURSED SHIV2,Unspeakably cursed,Laneti tarif edilemez,
+,CURSED WHETSTONE,CURSED WHETSTONE,LANETLİ BİLEĞİTAŞI,
+,DAGGER,DAGGER,HANÇER,
+,DAMAGED KNIFE,DAMAGED KNIFE,HASARLI BIÇAK,
+,DARK HEADBAND,DARK HEADBAND,KARA SAÇ BANDI,
+,DARK WHETSTONE,DARK WHETSTONE,KARA BİLEĞİTAŞI,
+,DART,DART,DART,
+,DEBUFF POTION,DEBUFF POTION,ZAYIFLATMA İKSİRİ,Zayıflatma iksiri ?
+,DIAMOND,DIAMOND,ELMAS,
+,DISGUSTING FOOD,DISGUSTING FOOD,İĞRENÇ YEMEK,
+,DODGE POTION,DODGE POTION,KAÇINMA İLACI,
+,DORU,DORU,DORU,
+,DORU2,Wait until the time is right,Doğru zamanı bekle,
+,DOUBLE HALBERD,DOUBLE HALBERD,ÇİFTE BALTALI KARGI,
+,DOUBLE POISON POTION,DOUBLE POISON POTION,x2 ZEHİR İKSİRİ,
+,DRAGONFLY,DRAGONFLY,YUSUFÇUK,
+,DUCT TAPE,DUCT TAPE,KOLİ BANDI,
+,DUELING SWORD,DUELING SWORD,DÜELLO KILICI,
+,EARTHSTONE BLADE,EARTHSTONE BLADE,YERTAŞI KILICI,
+,ELECTRIC ARROW,ELECTRIC ARROW,ELEKTRİKLİ OK,
+,ELECTRIC STONE,ELECTRIC STONE,ELEKTRİKLİ TAŞ,
+,ELECTRIC WAND,ELECTRIC WAND,ELEKTRİKLİ SİHİRLİ DEĞNEK,
+,EMERALD,EMERALD,ZÜMRÜT,
+,EMERALD BRACELET,EMERALD BRACELET,ZÜMRÜT BİLEZİK,
+,EMPTY CUP,EMPTY CUP,BOŞ KUPA,
+,ETHEREAL STAFF,ETHEREAL STAFF,SEMAVİ ASA,
+,ETHEREAL WAND,ETHEREAL WAND,SEMAVİ SİHİRLİ DEĞNEK,
+,ETHEREAL WAND2,A wand capable of summoning energy from beyond our realm,Alemimizin ötesinden enerji toplayabilen bir sihirli değnek,
+,ETHEREAL WHETSTONE,ETHEREAL WHETSTONE,SEMAVİ BİLEĞİTAŞI,
+,EXPERT BOW,EXPERT BOW,ÜSTAT YAYI,
+,EXPLOSIVE ARROW,EXPLOSIVE ARROW,PATLAYICI OK,
+,FEATHER CAP,FEATHER CAP,TÜY ŞAPKA,
+,FISH SWORD,FISH SWORD,BALIK KILICI,
+,FISH SWORD2,"This thing does not smell good. Seriously, wow.",Bu şey çok kötü kokuyor. Valla çok kötü of.,
+,FISHING HOOK,FISHING HOOK,BALIK KANCASI,
+,FISHING HOOK2,Fishing while you work!,Çalışırken balık tutmak!,
+,FLOWER,FLOWER,ÇİÇEK,
+,FROTHY DRINK,FROTHY DRINK,KÖPÜKLÜ İÇECEK,
+,GEMSTONE HEART,GEMSTONE HEART,MÜCEVHERTAŞI KALP,
+,GLITCHED POTION,GLITCHED POTION,KUSURLU İKSİR,
+,GLOVE OF KNIVES,GLOVE OF KNIVES,BIÇAKLI ELDİVEN,
+,GLOVE OF KNIVES2,Try it on for size,Bir dene bakalım olacak mı,
+,GOLD CLEAVER,GOLD CLEAVER,ALTIN SATIR BIÇAĞI,
+,GOLDEN BOW,GOLDEN BOW,ALTIN YAY,
+,GOLDEN BOW2,Due to their small sizes squirrels and mice often opt for archery rather than brute strength,Küçük olduklarından sincaplar ve fareler genel olarak saf güç yerine okçuluğu tercih eder,
+,GOLDEN SHIV,GOLDEN SHIV,ALTIN KÜÇÜKBIÇAK,
+,GOLDEN SHIV2,We've been turning blood to gold for centuries!,Asırlardır kanı altına çeviriyormuşuz,
+,GOLDEN WHETSTONE,GOLDEN WHETSTONE,ALTIN BİLEĞİTAŞI,
+,GUARDIAN RING,GUARDIAN RING,KORUYUCU YÜZÜK,
+,GUARDING BAND,GUARDING BAND,KORUYUCU BANT,
+,GUPPY,GUPPY,LEPİSTES,
+,HATCHET,HATCHET,EL BALTASI,
+,HAWKEYE'S BOW,HAWKEYE'S BOW,ŞAHİNGÖZ'ÜN YAYI,
+,HAWKEYE'S BOW2,One of the greatest archers in the ranks of the patrol was Hawkeye Mirabelle. She once shot down two hawks while hanging upside down from a tree,Devriyenin en iyi okçularından biri Şahingöz Mirabelle'ydi. Bir defasında ağaçtan tepe taklak sarkarken iki tane şahin vurmuştu,
+,HEART RING,HEART RING,KALP YÜZÜĞÜ,
+,HEAVY BLADE,HEAVY BLADE,AĞIR BIÇAK,
+,HERB,HERB,Ot,
+,HERCULE PAVISE,HERCULE PAVISE,HERKÜL PAVİZESİ,
+,HERCULE PAVISE2,The Buckler did it!,Küçük kalkan işe yaradı!,
+,HONEYSUCKLE,HONEYSUCKLE,HANIMELİ,
+,IRON HELMET,IRON HELMET,DEMİR MİĞFER,
+,JACK CLEAVER,JACK CLEAVER,JACK SATIR BIÇAĞI,
+,JADE AXE,JADE AXE,YEŞİM BALTA,
+,JAGGED BLADE,JAGGED BLADE,ÇENTİKLİ BIÇAK,
+,KEG,KEG,FIÇI,
+,KEY SWORD,KEY SWORD,ANAHTAR KILIÇ,
+,KEY SWORD2,Unlocks your potential as a warrior!,Bir savaşçı olarak potansiyelini bulmana yarar!,
+,KING CLEAVER,KING CLEAVER,KRAL SATIR BIÇAĞI,
+,KNIGHT'S ARMOR,KNIGHT'S ARMOR,ŞOVALYENİN ZIRHI,
+,KNIGHT'S SHIELD,KNIGHT'S SHIELD,ŞOVALYENİN KALKANI,
+,LARGE HEART RING,LARGE HEART RING,BÜYÜK KALP YÜZÜĞÜ,
+,LEATHER BOOTS,LEATHER BOOTS,DERİ BOT,
+,LEATHER CAP,LEATHER CAP,DERİ ŞAPKA,
+,LEFT GAUNTLET,LEFT GAUNTLET,SOL ZIRHLI ELDİVEN,
+,LEFT GLOVE,LEFT GLOVE,SOL ELDİVEN,
+,LETTER,LETTER,MEKTUP,
+,LIGHTNING,LIGHTNING,YILDIRIM,
+,LI'L BUCKLER,LI'L BUCKLER,KÜÇÜCÜK KALKAN,
+,LI'L BUCKLER2,A little shield with sass and pep!,Küstah ve enerjik küçük bir kalkan,
+,LIQUID ARMOR,LIQUID ARMOR,LİKİT ZIRH,
+,LIQUID LUCK,LIQUID LUCK,LİKİT ŞANS,
+,LIZARD KING SWORD,LIZARD KING SWORD,KRAL KERTENKELE KILICI,
+,LONGBOW,LONGBOW,UZUN YAY,
+,LUCKY Shiv,LUCKY Shiv,ŞANSLI Shiv, WARNING: AUTO-TRANSLATION #####################################################
+,LUCKY DAGGER2,Lucky for you - not for them,Senin için şanslı - onlar için değil,
+,LUCKY RING,LUCKY RING,ŞANS YÜZÜĞÜ,
+,MACE,MACE,GÜRZ,
+,MACHETE,MACHETE,PALA,
+,MAGICAL HERB,MAGICAL HERB,BÜYÜLÜ OT,
+,MANASTONE BOW,MANASTONE BOW,MANA TAŞI YAY,
+,MEAL,MEAL,ÖĞÜN,
+,METALLIC WAND,METALLIC WAND,METALİK SİHİRLİ DEĞNEK,
+,METALLIC WAND2,A static feeling runs through the pads of your paw,Patilerinden statik elektrik geçiyormuş gibi hissediyorsun,
+,MIRROR SHIELD,MIRROR SHIELD,AYNA KALKAN,
+,MOUSE BOW,MOUSE BOW,FARE YAY,
+,Mug of Grape Juice,Mug of Grape Juice,Bardak dolusu Üzüm Suyu,
+,MY FIRST WAND,MY FIRST WAND,İLK SİHİRLİ DEĞNEĞİM,
+,MY FIRST WAND2,Teaches kids the basics of magic!,Çocuklara büyünün temellerini öğretir!,
+,NECRONOMICON,NECRONOMICON,NEKRONOMİKON,
+,NECRONOMICON2,The book is bound in fur!,Kitap kürkle kaplı,
+,NEEDLER,NEEDLER,İĞNECİ,
+,NINJA COSTUME,NINJA COSTUME,NİNJA KOSTÜMÜ,
+,NUNCHUCKS,NUNCHUCKS,MINÇIKA,
+,NUNCHUCKS2,Make sure you have space to use them!,Bunu kullanmak için yeterli boş yerin olduğundan emin ol!,
+,OLD LOG,OLD LOG,ESKİ KÜTÜK,
+,ORKSORK AX,ORKSORK AX,ORKSORK BALTA,
+,ORKSORK AX2,The axe of an elder-god,Kadim bir tanrının baltası,
+,PACIFIST'S RING,PACIFIST'S RING,PASİFİST YÜZÜĞÜ,
+,PALADIN'S SWORD,PALADIN'S SWORD,PALADİN KILICI,
+,PEARL,PEARL,İNCİ,
+,PERIDOT,PERIDOT,PERIDOT,
+,PHILOSOPHER'S STONE,PHILOSOPHER'S STONE,FELSEFE TAŞI,
+,PICK AXE,PICK AXE,KAZMA,
+,PIGGYBANK,PIGGYBANK,KUMBARA,
+,PIGGYBANK2,Free money! And it smells like bacon!,Beleşten para! Üstelik et gibi kokuyor!,
+,PLATE ARMOR,PLATE ARMOR,LEVHA ZIRH,
+,POISON ARROW,POISON ARROW,ZEHİRLİ OK,
+,POISON IVY,POISON IVY,ZEHİRLİ SARMAŞIK,
+,POISON POTION,POISON POTION,ZEHİRLİ İKSİR,
+,POISON WHETSTONE,POISON WHETSTONE,ZEHİRLİ BİLEĞİTAŞI,
+,Pot of Plenty,Pot of Plenty,Bolluk Tenceresi,
+,POTTED ALOE,POTTED ALOE,SAKSIDA ALOE,
+,PRETTY ANKLET,PRETTY ANKLET,HALHAL,
+,QUEEN CLEAVER,QUEEN CLEAVER,KRALİÇE SATIR BIÇAĞI,
+,RAPIER,RAPIER,MEÇ,
+,RAPIER2,Live life on the edge ,Hayatı doruklarında yaşa, WARNING: ENGLISH TEXT CHANGED #####################################################
+,RARE HERB,RARE HERB,NADİR OT,
+,RED HOODIE,RED HOODIE,KIRMIZI BAŞLIK,
+,RED HOODIE2,A leftover from before Orderia?  The spiders that spun this thread must have been strange indeed!,Eski Orderia'dan bir artık?  Bu ipliği ören örümcekler gerçekten garip olmalı!,
+,REGEN POTION,REGEN POTION,YENİLENME İKSİRİ,
+,REGENERATIVE WHETSTONE,REGENERATIVE WHETSTONE,YENİLEYEN BİLEĞİTAŞI,
+,RIGHT GAUNTLET,RIGHT GAUNTLET,ZIRHLI SAĞ ELDİVEN,
+,RIGHT GLOVE,RIGHT GLOVE,SAĞ ELDİVEN,
+,RING OF DOOM,RING OF DOOM,KIYAMET YÜZÜĞÜ,
+,RING OF RAGE,RING OF RAGE,ÖFKE YÜZÜĞÜ,
+,ROBOT TOY,ROBOT TOY,OYUNCAK ROBOT,
+,ROBOT TOY2,I think it's broken!,Sanırım kırdın!,
+,ROCKET,ROCKET,ROKET,
+,ROGUE'S MASK,ROGUE'S MASK,SERSERİNİN MASKESİ,
+,ROOF,ROOF,ÇATI,
+,ROSE OF THORNS,ROSE OF THORNS,DİKENLİ GÜL,
+,Rose of Thorns e1,Adds an additional spike for each Rose of Thorns in this row or column,Bu satır veya sütundaki her bir Dikenli Gül için ek olarak bir iğne ekler,
+,ROSE OF THORNS2,"Every rose has its thorns, especially this one",Gülü seven dikenine katlanır,
+,ROUGH BUCKLER,ROUGH BUCKLER,KABA KALKAN,
+,RUBY,RUBY,YAKUT,
+,SCIMITAR,SCIMITAR,PALA,
+,SEASONING,SEASONING,ÇEŞNİ,
+,SHIV,SHIV,HANÇER,
+,SHORT ARROW,SHORT ARROW,KISA OK,
+,SKULL WAND,SKULL WAND,KURUKAFA DEĞNEĞİ,
+,SLATS SHIELD,SLATS SHIELD,SLATS SHIELD,
+,SLIME SWORD,SLIME SWORD,SLIME KILICI,
+,SMALL KEY,SMALL KEY,KÜÇÜK ANAHTAR,
+,SMELT,SMELT,OSMERUS,
+,SOLDIER'S BUCKLER,SOLDIER'S BUCKLER,ASKERİN KALKANI,
+,SPAGHETTI,SPAGHETTI,SPAGETTİ,
+,SPAGHETTI2,"spaghetti, spaghetti, my backpack is ready","Makarna, makarna işte çantam burada",
+,SPEEDY LEAF,SPEEDY LEAF,UÇARI YAPRAK,
+,SPIKED HELMET,SPIKED HELMET,DİKENLİ MİĞFER,
+,SPIKED SCALE,SPIKED SCALE,DİKENLİ PUL,
+,SPIKY CLUB,SPIKY CLUB,ÇİVİLİ SOPA,
+,SPLINT,SPLINT,KIYMIK,
+,STAR POTION,STAR POTION,YILDIZ İKSİRİ,
+,STEAK,STEAK,BİFTEK,
+,STEAK2,This steak is so rich. You can only eat half at a time,Bu biftek o kadar kocaman ki tek seferde sadece yarısını yiyebilirsin.,
+,STEEL BOOTS,STEEL BOOTS,ÇELİK BOTLAR,
+,TASTY FLY,TASTY FLY,LEZZETLİ SİNEK,
+,TASTY FLY2,Rats don't eat flies,Fareler sinek yemez,
+,TEA,TEA,ÇAY,
+,TEA2,Proper. Dignified. Perfectly balanced,Düzgün. Onurlu. Mükemmel derecede dengede,
+,TEDDY BEAR SWORD,TEDDY BEAR SWORD,OYUNCAK AYI KILICI,
+,TEDDY BEAR SWORD2,It's not a weapon. But there is a brick in the stuffing,Bu bir silah değil. Ama içinde bir tuğla var,
+,THREAD,THREAD,İPLİK,
+,TILTED SWORD,TILTED SWORD,EĞİK KILIÇ,
+,TOKEN OF ENERGY,TOKEN OF ENERGY,ENERJİ JETONU,
+,TOOTH NECKLACE,TOOTH NECKLACE,DİŞ KOLYESİ,
+,TOWER SHIELD,TOWER SHIELD,KULE TİPİ KALKAN,
+,TUNIC,TUNIC,CEKET,
+,VAMPIRE BLADE,VAMPIRE BLADE,VAMPİR KILICI,
+,VAMPIRIC AXE,VAMPIRIC AXE,VAMPİRİK BALTA,
+,VAMPIRIC CRYSTAL,VAMPIRIC CRYSTAL,VAMPİRİK KRİSTAL,
+,VOLATILE POTION,VOLATILE POTION,UÇUCU İKSİR,
+,WARM DRINK,WARM DRINK,ILIK İÇECEK,
+,WARRIOR'S SPELLBOOK,WARRIOR'S SPELLBOOK,SAVAŞÇININ BÜYÜ KİTABI,
+,WARRIOR'S SPELLBOOK2,For the warrior on the go!,Durmak bilmeyen savaşçılar için!,
+,WATER FLASK,WATER FLASK,SU MATARASI,
+,WHEEL,WHEEL,TEKERLEK,
+,WHETSTONE,WHETSTONE,BİLEĞİTAŞI,
+,WIZARD CAP,WIZARD CAP,BÜYÜCÜ ŞAPKASI,
+,WIZARD STAFF,WIZARD STAFF,BÜYÜCÜ ASASI,
+,WIZARD'S ROBE,WIZARD'S ROBE,BÜYÜCÜ CÜBBESİ,
+,WOODEN SWORD,WOODEN SWORD,TAHTA KILIÇ,
+,Yellow Rose,Yellow Rose,Sarı Gül,
+,Yellow Rose2,Symbolizes friendship. It's still thorny though.,Arkadaşlığı sembolize eder. Hala dikenli gerçi.,
+,Whittling Knife,Whittling Knife,Yontma Bıçağı,
+,Dreaming Sap,Dreaming Sap,Düşleyen Bitki Özü,
+,Flower Pot,Flower Pot,Saksı,
+,Carving's Edge,Carving's Edge,Oyma Kenarı,
+,Pot Carving,Pot Carving,Çömlek Oyma,
+,Cherry Bomb,Cherry Bomb,Kiraz Bombası,
+,Energy Carving,Energy Carving,Enerji Oyma,
+,Mana Sap,Mana Sap,Mana Özü,
+,Mossy Carving,Mossy Carving,Yosunlu Oyma,
+,Dreaming Buckler,Dreaming Buckler,Düşleyen Kalkan,
+,Dreaming Buckler2,"""Far out!""","""Uzaklarda!""",
+,Brothers Bow,Brothers Bow,Kardeş Yay,
+,Crown of Roots,Crown of Roots,Köklerin Tacı,
+,Hero Carving,Hero Carving,Kahraman Oyma,
+,Survival Guide,Survival Guide,Hayatta Kalma Rehberi,
+,Sharp Branch,Sharp Branch,Keskin Dal,
+,Carved Blade,Carved Blade,Oyma Bıçak,
+,Dreaming Sword,Dreaming Sword,Rüya Kılıcı,
+,Illusory Blade,Illusory Blade,Hayali Bıçak,
+,Illusory Duct Tape,Illusory Duct Tape,Hayali Koli Bandı,
+,Dreaming Ring,Dreaming Ring,Rüya Yüzüğü,
+,Overgrown Arrow,Overgrown Arrow,Çok büyümüş Ok,
+,Wooden Shiv,Wooden Shiv,Ahşap Bıçak,
+,Wooden Buckler,Wooden Buckler,Ahşap Kalkan,
+,Belt of Dreams,Belt of Dreams,Düşler Kemeri,
+,Fuel Pellet,Fuel Pellet,Yakıt Paleti,
+,Tree Sword,Tree Sword,Ağaç Kılıcı,
+,Poison Carving,Poison Carving,Zehir Oyması,
+,Energy Fish,Energy Fish,Enerji Balığı,
+,Flowering Cleaver,Flowering Cleaver,Çiçekli Balta,
+,Frog Magician Boots,Frog Magician Boots,Büyücü Kurbağa Ayakkabısı,
+,Saw Mill,Saw Mill,Kereste Fabrikası,
+,Acorn Cap,Acorn Cap,Palamut Şapka,
+,Tape Carving,Tape Carving,Bant Oyması,
+,Piggy Bang,Piggy Bang,Kumbara,
+,Gardener's Helmet,Gardener's Helmet,Bahçıvanın Miğferi, WARNING: ENGLISH TEXT CHANGED #####################################################
+,Bolt Carving,Bolt Carving,Cıvata Oyma,
+,Mossy Mace,Mossy Mace,Yosunlu Topuz,
+,Lucky Carving,Lucky Carving,Şanslı Oyma,
+,Shiny Carving,Shiny Carving,Parlak Oyma,
+,Carving cyler,Carving cyler,oyma silindiri, WARNING: AUTO-TRANSLATION #####################################################
+,Die,Dice,Zar, WARNING: AUTO-TRANSLATION #####################################################
+,Die1,Use to reroll your combat rewards,Savaş ödüllerinizi yeniden düzenlemek için kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,mortar,mortar,Harç, WARNING: AUTO-TRANSLATION #####################################################
+,Mortar1,Use to combine together potions to the left and right,Sağındaki ve solundaki iksirleri birleştirmek için kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,Rusty Sword,Rusty Sword,Paslı Kılıç, WARNING: AUTO-TRANSLATION #####################################################
+,Ballista,Ballista,Balista, WARNING: AUTO-TRANSLATION #####################################################
+,Boo-hoo Buckler,Boo-hoo Buckler,Ağlak Kalkan, WARNING: AUTO-TRANSLATION #####################################################
+,Dark Potion,Dark Potion,Kara İksir, WARNING: AUTO-TRANSLATION #####################################################
+,Dark Potion1,Use to create a battle,Savaş başlatmak için kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,Spare Die,Spare Dice,Yedek Zar, WARNING: AUTO-TRANSLATION #####################################################
+,Spare Die1,Use to add to your combat rewards,Savaş ödüllerinize eklemek için kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,Spring Gem,Spring Gem,Bahar Mücevheri, WARNING: AUTO-TRANSLATION #####################################################
+,Shortcut Map,Shortcut Map,Kısayol Haritası, WARNING: AUTO-TRANSLATION #####################################################
+,Shortcut Map1,Use to discover a secret passage!,Gizli bir geçidi keşfetmek için kullanın!, WARNING: AUTO-TRANSLATION #####################################################
+,Alembic,Alembic,Süzgeç, WARNING: AUTO-TRANSLATION #####################################################
+,Alembic1,Use to duplicate the potion in the space above - for a price,Yukarısındaki iksiri çoğaltmak için kullanın - bir ücret karşılığında, WARNING: AUTO-TRANSLATION #####################################################
+,Lizard Blade,Lizard Blade,Kertenkele Bıçağı, WARNING: AUTO-TRANSLATION #####################################################
+,Lance,Lance,Kargı, WARNING: AUTO-TRANSLATION #####################################################
+,Flame Gem,Flame Gem,Alev Mücevheri, WARNING: AUTO-TRANSLATION #####################################################
+,Flame Axe,Flame Axe,Alev Baltası, WARNING: AUTO-TRANSLATION #####################################################
+,Fire Staff,Fire Staff,Ateş Asası, WARNING: AUTO-TRANSLATION #####################################################
+,Lily Pad,Lily Pad,Nilüfer Yaprağı, WARNING: AUTO-TRANSLATION #####################################################
+,Warhorn,Warhorn,Savaş Borusu, WARNING: AUTO-TRANSLATION #####################################################
+,Warnhorn1,Use to create a battle,Savaş başlatmak için kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,Red Pearl,Red Pearl,Kırmızı İnci, WARNING: AUTO-TRANSLATION #####################################################
+,Violet Energy,Violet Energy,Eflatun Enerji, WARNING: AUTO-TRANSLATION #####################################################
+,Overgrown Axe,Overgrown Axe ,Aşırı büyümüş Balta, WARNING: AUTO-TRANSLATION #####################################################
+,Mixed Potion,Mixed Potion,Karışık İksir, WARNING: AUTO-TRANSLATION #####################################################
+,Splitter,Splitter,ayırıcı, WARNING: AUTO-TRANSLATION #####################################################
+,Splitter1,Destroys charge. Creates two charges going to the side. Each charge has half the value of the destroyed charge,"Yükü yok eder. Yan tarafa giden iki yük oluşturur. Her yük, yok edilen yükün değerinin yarısına sahiptir", WARNING: AUTO-TRANSLATION #####################################################
+,Core,Core,Çekirdek, WARNING: AUTO-TRANSLATION #####################################################
+,Battery,Battery,pil, WARNING: AUTO-TRANSLATION #####################################################
+,Rotator,Rotator,döndürücü, WARNING: AUTO-TRANSLATION #####################################################
+,Ruby Rotator,Ruby Rotator,Yakut Döndürücü, WARNING: AUTO-TRANSLATION #####################################################
+,Sharp Rotator,Sharp Rotator,Keskin Döndürücü, WARNING: AUTO-TRANSLATION #####################################################
+,Disposable Battery,Disposable Battery,Tek Kullanımlık Pil, WARNING: AUTO-TRANSLATION #####################################################
+,Double Battery,Double Battery,Çift Pil, WARNING: AUTO-TRANSLATION #####################################################
+,Circuit Board,Circuit Board,Devre kartı, WARNING: AUTO-TRANSLATION #####################################################
+,Microchip,Microchip,Mikroçip, WARNING: AUTO-TRANSLATION #####################################################
+,Switcher,Switcher,anahtarlayıcı, WARNING: AUTO-TRANSLATION #####################################################
+,Switcher1,Use to switch the open side at any time,Açık tarafı istediğiniz zaman değiştirmek için kullanın, WARNING: AUTO-TRANSLATION #####################################################
+,Citrine Reverser,Citrine Reverser,Sitrin Ters Çevirici, WARNING: AUTO-TRANSLATION #####################################################
+,Amplifier,Amplifier,amplifikatör, WARNING: AUTO-TRANSLATION #####################################################
+,Booster,Booster,Yükseltici, WARNING: AUTO-TRANSLATION #####################################################
+,Ray Gun,Ray Gun,Işın tabancası, WARNING: AUTO-TRANSLATION #####################################################
+,Defensive Grid,Defensive Grid,savunma ızgarası, WARNING: AUTO-TRANSLATION #####################################################
+,Cup of Oil,Cup of Oil,Yağ bardağı, WARNING: AUTO-TRANSLATION #####################################################
+,Grape Juice,Grape Juice,Üzüm suyu, WARNING: AUTO-TRANSLATION #####################################################
+,Wooden Blade,Wooden Blade,Ahşap Bıçak, WARNING: AUTO-TRANSLATION #####################################################
+,Reactive Core,Reactive Core,Reaktif Çekirdek, WARNING: AUTO-TRANSLATION #####################################################
+,Defensive Core,Defensive Core,Savunma Çekirdeği, WARNING: AUTO-TRANSLATION #####################################################
+,Destructive Core,Destructive Core,Yıkıcı Çekirdek, WARNING: AUTO-TRANSLATION #####################################################
+,Charger,Charger,Şarj cihazı, WARNING: AUTO-TRANSLATION #####################################################
+,Charger1,Destroys charges. First charge is stored. Second charge releases twice the energy stored.,"Yükleri yok eder. İlk şarj kaydedilir. İkinci şarj, depolanan enerjinin iki katını serbest bırakır.", WARNING: AUTO-TRANSLATION #####################################################
+,Grinder,Grinder,öğütücü, WARNING: AUTO-TRANSLATION #####################################################
+,Heavy Grinder,Heavy Grinder,Ağır Öğütücü, WARNING: AUTO-TRANSLATION #####################################################
+,Repeater,Repeater,tekrarlayıcı, WARNING: AUTO-TRANSLATION #####################################################
+,Repeater1,Destroys charges. Creates a new 1 energy charge for each energy the charge held.,Yükleri yok eder. Yükün tuttuğu her enerji için yeni bir 1 enerji yükü oluşturur., WARNING: AUTO-TRANSLATION ##################################################### WARNING: ENGLISH TEXT CHANGED #####################################################
+,Reverser,reverser,ters çevirici, WARNING: AUTO-TRANSLATION #####################################################
+,Mana Reverser,Mana Reverser,Mana Dönüştürücü, WARNING: AUTO-TRANSLATION #####################################################
+,Toggle,Toggle,Aç/Kapat, WARNING: AUTO-TRANSLATION #####################################################
+,Toggle1,"Each time this is used, the direction is reversed","Bu her kullanıldığında, yön tersine çevrilir.", WARNING: AUTO-TRANSLATION #####################################################
+,Rocket Silo,Rocket Silo,Roket Silosu, WARNING: AUTO-TRANSLATION #####################################################
+,Bouncer,Bouncer,fedai, WARNING: AUTO-TRANSLATION #####################################################
+,Piston,Piston,Piston, WARNING: AUTO-TRANSLATION #####################################################
+,Vacuum,Vacuum,Vakum, WARNING: AUTO-TRANSLATION #####################################################
+,Masonry Tools,Masonry Tools,Duvar Aletleri, WARNING: AUTO-TRANSLATION #####################################################
+,Mechanical Gem,Mechanical Gem,mekanik mücevher, WARNING: AUTO-TRANSLATION #####################################################
+,Sapphire,Sapphire,Safir, WARNING: AUTO-TRANSLATION #####################################################
+,Cloud Sword,Cloud Sword,Bulut Kılıcı, WARNING: AUTO-TRANSLATION #####################################################
+,Cloud Sword2,It floats and stabs!,Yüzer ve bıçaklar!, WARNING: AUTO-TRANSLATION #####################################################
+,Chipped Sword,Chipped Sword,yontma kılıç, WARNING: AUTO-TRANSLATION #####################################################
+,Crab Cactus,Crab Cactus,yengeç kaktüs, WARNING: AUTO-TRANSLATION #####################################################
+,Vorpal Blade,Vorpal Blade,Vorpal Bıçak, WARNING: AUTO-TRANSLATION #####################################################
+,Vorpal Blade2,It goes snicker-snack!,Snicker-aperatif gidiyor!, WARNING: AUTO-TRANSLATION #####################################################
+,Bayou Club,Bayou Club,Bayou Kulübü, WARNING: AUTO-TRANSLATION #####################################################
+,Book of Nightmares,Book of Nightmares,Kabuslar Kitabı, WARNING: AUTO-TRANSLATION #####################################################
+,Dew Drop Blade,Dew Drop Blade,Çiğ Damlası Bıçağı, WARNING: AUTO-TRANSLATION #####################################################
+,Green Candle,Green Candle,Yeşil Mum, WARNING: AUTO-TRANSLATION #####################################################
+,Jar Carving,Jar Carving,Kavanoz Oymacılığı, WARNING: AUTO-TRANSLATION #####################################################
+,Mask of Secrets,Mask of Secrets,Sırların Maskesi, WARNING: AUTO-TRANSLATION #####################################################
+,Ring of Dreams,Ring of Dreams,Rüya Yüzüğü, WARNING: AUTO-TRANSLATION #####################################################
+,Spiky Carving,Spiky Carving,dikenli oyma, WARNING: AUTO-TRANSLATION #####################################################
+,Spiral Lance,Spiral Lance,Spiral Mızrak, WARNING: AUTO-TRANSLATION #####################################################
+,Thorn Shiv,Thorn Shiv,dikenli bıçak, WARNING: AUTO-TRANSLATION #####################################################
+,Tree Shield,Tree Shield,Ağaç Kalkanı, WARNING: AUTO-TRANSLATION #####################################################
+,Vine Wand,Vine Wand,asma değnek, WARNING: AUTO-TRANSLATION #####################################################
+,Venom Sword,Venom Sword,zehir kılıcı, WARNING: AUTO-TRANSLATION #####################################################
+,Venom Sword2,physician heal thyself,doktor kendini iyileştir, WARNING: AUTO-TRANSLATION #####################################################
+,Gem of Anna,Gem of Anna,Anna'nın Mücevheri, WARNING: AUTO-TRANSLATION #####################################################
+,Spare Glasses,Spare Glasses,Yedek Gözlük, WARNING: AUTO-TRANSLATION #####################################################
+,Spare Glasses2,I can't see without my glasses,gözlüğüm olmadan göremiyorum, WARNING: AUTO-TRANSLATION #####################################################
+,Daisy Blade,Daisy Blade,papatya bıçağı, WARNING: AUTO-TRANSLATION #####################################################
+,Spoiled Milk,Spoiled Milk,Bozulmuş süt, WARNING: AUTO-TRANSLATION #####################################################
+,,,,
+,BIG CURSE,BIG CURSE,KOCA LANET,
+,CURSE OF HONEY,CURSE OF HONEY,BAL LANETİ,
+,CURSE OF POISON,CURSE OF POISON,ZEHİR LANETİ,
+,CURSE OF POISON WEAPONS,CURSE OF POISON WEAPONS,ZEHİRLİ SİLAH LANETİ,
+,CURSE OF SLIME,CURSE OF SLIME,SLİME LANETİ,
+,CURSE OF SLOW,CURSE OF SLOW,YAVAŞLIK LANETİ,
+,CURSE OF SPIKES,CURSE OF SPIKES,ÇİVİLERİN LANETİ,
+,CURSE OF THORNS,CURSE OF THORNS,DİKENLERİN LANETİ,
+,CURSE OF WEAKNESS,CURSE OF WEAKNESS,ZAYIFLIK LANETİ,
+,MEDIUM CURSE,MEDIUM CURSE,ORTA BOY LANET,
+,SMALL CURSE,SMALL CURSE,UFAK LANET,
+,BELT OF KNIVES,BELT OF KNIVES,BIÇAK KUŞAĞI,
+,BARBELL,BARBELL,HALTER,
+,BOMBSTONE,BOMBSTONE,BOMBATAŞ,
+,CLEANSING FLAME,CLEANSING FLAME,ARINDIRAN ATEŞ,
+,CONDUCTOR,CONDUCTOR,İLETKEN,
+,CORAL,CORAL,MERCAN,
+,FLUFFY COTTON,FLUFFY COTTON,POFUDUK PAMUK,
+,GLASS BOTTLE,GLASS BOTTLE,CAM ŞİŞE,
+,HOURGLASS,HOURGLASS,KUM SAATİ,
+,MOUSE WOOD,MOUSE WOOD,FARE ODUNU,
+,ORE,ORE,CEVHER,
+,SANDWICH,SANDWICH,SANDVİÇ,
+,SHIELD SPIRIT,SHIELD SPIRIT,KALKAN RUHU,
+,SPICE,SPICE,BAHARAT,
+,SPICY GINGER,SPICY GINGER,BAHARATLI ZENCEFİL,
+,STOPWATCH,STOPWATCH,KRONOMETRE,
+,TUSK,TUSK,MORS DİŞİ,
+,WINDMILL,WINDMILL,YEL DEĞİRMENİ,
+,FROG TOTEM,FROG TOTEM,KURBAĞA TOTEMİ,
+,ETHEREAL BLADE,ETHEREAL BLADE,SEMAVİ KILIÇ,
+,ETHEREAL BLADE2,A sword that was too good for this world. We have to share it between dimensions,Bu dünya için fazla iyi bir kılıç. Mutlaka boyutlar arasında paylaşılmalı.,
+,ETHEREAL ENERGY,ETHEREAL ENERGY,SEMAVİ ENERJİ,
+,ETHEREAL SHIV,ETHEREAL SHIV,SEMAVİ HANÇER,
+,FOX RAPIER,FOX RAPIER,Tilki Meç,
+,FOX RAPIER2,Foxes can't be trusted,Tilkilere güven olmaz,
+,Alloy,Alloy,alaşım, WARNING: AUTO-TRANSLATION #####################################################
+,,,,
+,GOLD2,The root of all evil. But also very shiny,Bütün kötülüklerin anası. Ama aynı zamanda çok parlak,
+,Black Mana Stone,Black Mana Stone,Siyah Mana Taşı,
+,Black Mana Stone2,"Unsatisfied, a greedy frog poured his dark heart into this ancient stone",Tatmin olmayan açgözlü bir kurbağa karanlık kalbini bu antik taşa döktü.,
+,Black Mana Stone e1,Adjacent or diagonal Mana Stones are destroyed,Bitişik veya çapraz Mana Taşları yok edilir,
+,Black Mana Stone e2,Permanently add /x to max mana capacity,Maksimum mana kapasitene kalıcı olarak /x ekler,
+,,,,
+,HUGE MANA STONE,HUGE MANA STONE,DEVASA MANA TAŞI,
+,LARGE MANA STONE,LARGE MANA STONE,BÜYÜK MANA TAŞI,
+,MANA STONE,MANA STONE,MANA TAŞI,
+,ETHEREAL ARROW,ETHEREAL ARROW,SEMAVİ OK,
+,Sliding Rune,Sliding Rune,Kayan Rün,
+,Sliding Rune2,Can slide left or right. Will push adjacent items. Can be rotated before it is placed. Can be used once per combat.,Sola veya sağa kayabilir. Bitişik öğeleri itecektir. Yerleştirilmeden önce döndürülebilir. Savaş başına bir kez kullanılabilir.,
+,Blue Slime,Blue Snail,Mavi Slime, WARNING: ENGLISH TEXT CHANGED #####################################################
+,Blue Slime1,Blueberry flavor! Mmm!,Yabanmersini aromalı! Mmm!,
+,Purple Slime,Purple Snail,Mor Slime, WARNING: ENGLISH TEXT CHANGED #####################################################
+,Purple Slime1,Grape flavor. Delicious!,Üzüm aromalı. Leziz!,
+,Red Slime1,Red Snail,Çilek Aromalı!, WARNING: ENGLISH TEXT CHANGED #####################################################
+,Red Slime1,Strawberry flavor!,Çilek Aromalı!,
+,Slime,Green Snail,Slime, WARNING: ENGLISH TEXT CHANGED #####################################################
+,Slime1,These goopy creatures make you feel sick!,Bu yapış yapış yaratıklar hasta gibi hissetmene neden oluyor!,
+,ev8b15o1,She nods and carries on her work.,Başını sallar ve işine devam eder., WARNING: AUTO-TRANSLATION #####################################################
+,Red Slime,Red Slime,Kırmızı Slime,
+,ev8b1o1,"She takes your weapon, turns it a few times, and then presses it to her anvil. Her hammer sends sparks flying and you turn around to cover your eyes. When you turn back, your weapon glows with a new purpose.","Silahını alır, elinde birkaç kere çevirir ve örsünün üstüne koyar. Çekici adeta kıvılcım çıkarıyordur ve gözlerini korumak için arkanı dönersin. Geri döndüğünde, silahının yeni bir amaçla parladığını görürsün.",
+,ev8b1o1t1,I help,Ben yardım etmek,
+,ev8b2o1,"She takes your weapon, turns it a few times, and then presses it to her anvil. Her hammer sends sparks flying and you turn around to cover your eyes. When you turn back, your weapon glows with a new purpose.","Silahını alır, elinde birkaç kere çevirir ve örsünün üstüne koyar. Çekici adeta kıvılcım çıkarıyordur ve gözlerini korumak için arkanı dönersin. Geri döndüğünde, silahının yeni bir amaçla parladığını görürsün.",
+,ev8b2o1t1,I help,Ben yardım etmek,
+,ev8b3o1,"She takes your weapon, turns it a few times, and then presses it to her anvil. Her hammer sends sparks flying and you turn around to cover your eyes. When you turn back, your weapon glows with a new purpose.","Silahını alır, elinde birkaç kere çevirir ve örsünün üstüne koyar. Çekici adeta kıvılcım çıkarıyordur ve gözlerini korumak için arkanı dönersin. Geri döndüğünde, silahının yeni bir amaçla parladığını görürsün.",
+,ev8b3o1t1,I help,Ben yardım etmek,
+,ev8b4o1,She nods and carries on her work.,Kafasını sallayıp işine devam eder.,
+,ev8b4o1t1,Work to do.,Yapacak iş.,
+,ev8b4o1t2,No want?,İstememek?,
+,ev8b4o1t3,Still here...,Hala burada...,
+,LUCKY DAGGER,LUCKY DAGGER,ŞANS HANÇERİ,
+,rt5d,Hard Mode 4,Zor Mod 4, WARNING: AUTO-TRANSLATION #####################################################
+,Trebuchet,Trebuchet,Mancınık, WARNING: AUTO-TRANSLATION #####################################################
